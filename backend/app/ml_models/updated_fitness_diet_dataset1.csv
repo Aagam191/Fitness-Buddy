@@ -1,0 +1,1502 @@
+BMI,Breakfast 1,Breakfast 2,Lunch 1,Lunch 2,Dinner 1,Dinner 2,Food Type,BMR,Total Calories
+15.3,Oatmeal,Fruit Salad,Burrito Bowl,Chicken Wrap,Grilled Salmon,Lentil Soup,Non-Veg,1694,2400
+28.8,Cereal,Granola,Grilled Chicken Salad,Sushi,Grilled Salmon,Chicken Stir Fry,Non-Veg,1484,1700
+21.1,Egg Sandwich,Yogurt,Grilled Chicken Salad,Soup,Lentil Soup,Grilled Steak,Non-Veg,1581,1850
+20.2,Yogurt,Avocado Toast,Pasta Salad,Veggie Wrap,Grilled Steak,Stuffed Peppers,Non-Veg,1499,2000
+26.3,Granola,Yogurt,Turkey Sandwich,Sushi,Spaghetti,Veggie Pizza,Veg,1613,1850
+21.7,Egg Sandwich,Granola,Soup,Turkey Sandwich,Lentil Soup,Grilled Steak,Non-Veg,1843,2100
+15.9,Avocado Toast,Cereal,Turkey Sandwich,Quinoa Salad,Chicken Stir Fry,Grilled Salmon,Non-Veg,1886,2450
+30.1,Oatmeal,Avocado Toast,Soup,Pasta Salad,Veggie Pizza,Chicken Curry,Non-Veg,1440,1450
+31.3,Yogurt,Cereal,Veggie Wrap,Turkey Sandwich,Grilled Steak,Tacos,Non-Veg,1797,2000
+16.5,Egg Sandwich,Scrambled Eggs,Burrito Bowl,Veggie Wrap,Grilled Salmon,Grilled Steak,Non-Veg,1470,2750
+17.2,Avocado Toast,Pancakes,Sushi,Veggie Wrap,Grilled Steak,Tacos,Non-Veg,1361,2600
+29.2,Cereal,Granola,Turkey Sandwich,Pasta Salad,Stuffed Peppers,Chicken Curry,Non-Veg,1331,1950
+18.1,Pancakes,Fruit Salad,Chicken Wrap,Soup,Spaghetti,Grilled Steak,Non-Veg,1614,2550
+23.3,Egg Sandwich,Oatmeal,Veggie Wrap,Soup,Spaghetti,Lentil Soup,Non-Veg,1578,1850
+27.3,Cereal,Scrambled Eggs,Chicken Wrap,Vegetable Stir Fry,Veggie Pizza,Spaghetti,Non-Veg,1811,2050
+18.5,Granola,Smoothie,Soup,Sushi,Grilled Steak,Veggie Pizza,Non-Veg,1650,2500
+16.6,Egg Sandwich,Scrambled Eggs,Chicken Wrap,Vegetable Stir Fry,Chicken Curry,Veggie Burger,Non-Veg,1674,2650
+23.6,Avocado Toast,Oatmeal,Burrito Bowl,Sushi,Chicken Curry,Grilled Steak,Non-Veg,1623,2200
+33.4,Yogurt,Oatmeal,Veggie Wrap,Sushi,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1432,1550
+30.6,Granola,Cereal,Chicken Wrap,Turkey Sandwich,Grilled Salmon,Stuffed Peppers,Non-Veg,1805,2150
+26.4,Smoothie,Avocado Toast,Burrito Bowl,Vegetable Stir Fry,Tacos,Veggie Burger,Non-Veg,1754,1850
+28.3,Oatmeal,Smoothie,Sushi,Soup,Veggie Pizza,Grilled Steak,Non-Veg,1745,1750
+18.3,Smoothie,Yogurt,Burrito Bowl,Veggie Wrap,Lentil Soup,Veggie Pizza,Veg,1517,2400
+26.4,Avocado Toast,Granola,Veggie Wrap,Chicken Wrap,Lentil Soup,Spaghetti,Non-Veg,1926,1950
+34.1,Oatmeal,Granola,Veggie Wrap,Vegetable Stir Fry,Chicken Curry,Chicken Stir Fry,Non-Veg,1785,1800
+18.4,Scrambled Eggs,Fruit Salad,Grilled Chicken Salad,Quinoa Salad,Stuffed Peppers,Chicken Curry,Non-Veg,1673,2350
+20.4,Granola,Smoothie,Veggie Wrap,Vegetable Stir Fry,Veggie Pizza,Chicken Curry,Non-Veg,1822,2100
+25.4,Scrambled Eggs,Oatmeal,Veggie Wrap,Turkey Sandwich,Veggie Pizza,Chicken Stir Fry,Non-Veg,1361,1600
+32.5,Granola,Fruit Salad,Quinoa Salad,Veggie Wrap,Grilled Steak,Grilled Salmon,Non-Veg,1541,1550
+24.5,Yogurt,Cereal,Burrito Bowl,Soup,Spaghetti,Grilled Steak,Non-Veg,1948,2100
+18.3,Avocado Toast,Smoothie,Chicken Wrap,Burrito Bowl,Grilled Steak,Veggie Pizza,Non-Veg,1410,2800
+34.0,Scrambled Eggs,Oatmeal,Soup,Chicken Wrap,Grilled Steak,Veggie Burger,Non-Veg,1415,1450
+31.3,Avocado Toast,Yogurt,Grilled Chicken Salad,Sushi,Chicken Stir Fry,Spaghetti,Non-Veg,1383,1400
+27.6,Egg Sandwich,Avocado Toast,Quinoa Salad,Veggie Wrap,Tacos,Veggie Burger,Non-Veg,1471,1850
+31.9,Cereal,Scrambled Eggs,Soup,Pasta Salad,Lentil Soup,Veggie Pizza,Non-Veg,1547,1750
+23.6,Granola,Scrambled Eggs,Sushi,Veggie Wrap,Lentil Soup,Chicken Stir Fry,Non-Veg,1793,1850
+24.7,Scrambled Eggs,Yogurt,Pasta Salad,Quinoa Salad,Veggie Burger,Lentil Soup,Non-Veg,1931,2250
+30.1,Cereal,Pancakes,Vegetable Stir Fry,Sushi,Stuffed Peppers,Chicken Curry,Non-Veg,1824,1900
+22.4,Fruit Salad,Egg Sandwich,Chicken Wrap,Burrito Bowl,Stuffed Peppers,Tacos,Non-Veg,1341,2150
+25.2,Cereal,Yogurt,Pasta Salad,Turkey Sandwich,Chicken Stir Fry,Grilled Steak,Non-Veg,1328,1750
+28.3,Fruit Salad,Smoothie,Grilled Chicken Salad,Chicken Wrap,Chicken Curry,Spaghetti,Non-Veg,2111,2350
+19.3,Cereal,Smoothie,Burrito Bowl,Vegetable Stir Fry,Veggie Pizza,Veggie Burger,Non-Veg,1333,2000
+29.7,Egg Sandwich,Avocado Toast,Sushi,Grilled Chicken Salad,Tacos,Veggie Pizza,Non-Veg,1631,1800
+23.5,Pancakes,Smoothie,Vegetable Stir Fry,Quinoa Salad,Grilled Steak,Grilled Salmon,Non-Veg,1248,2000
+17.7,Cereal,Granola,Grilled Chicken Salad,Pasta Salad,Veggie Burger,Tacos,Non-Veg,1252,2650
+23.3,Granola,Fruit Salad,Veggie Wrap,Chicken Wrap,Veggie Burger,Spaghetti,Non-Veg,1501,2150
+17.2,Oatmeal,Egg Sandwich,Soup,Grilled Chicken Salad,Stuffed Peppers,Chicken Curry,Non-Veg,1502,2400
+22.3,Cereal,Granola,Soup,Turkey Sandwich,Grilled Steak,Veggie Burger,Non-Veg,1729,2100
+29.0,Pancakes,Smoothie,Sushi,Burrito Bowl,Chicken Stir Fry,Tacos,Non-Veg,1785,1800
+20.5,Egg Sandwich,Smoothie,Quinoa Salad,Grilled Chicken Salad,Chicken Curry,Stuffed Peppers,Non-Veg,1909,2050
+15.1,Pancakes,Fruit Salad,Vegetable Stir Fry,Soup,Veggie Burger,Chicken Stir Fry,Non-Veg,1328,2150
+34.1,Smoothie,Egg Sandwich,Chicken Wrap,Soup,Veggie Burger,Chicken Stir Fry,Non-Veg,1763,1950
+26.8,Egg Sandwich,Scrambled Eggs,Vegetable Stir Fry,Burrito Bowl,Chicken Stir Fry,Tacos,Non-Veg,1462,1850
+33.9,Scrambled Eggs,Fruit Salad,Quinoa Salad,Pasta Salad,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1465,1800
+15.3,Pancakes,Smoothie,Quinoa Salad,Sushi,Grilled Salmon,Spaghetti,Non-Veg,1747,2500
+28.8,Pancakes,Scrambled Eggs,Vegetable Stir Fry,Grilled Chicken Salad,Tacos,Veggie Pizza,Non-Veg,1389,1700
+16.5,Pancakes,Scrambled Eggs,Pasta Salad,Burrito Bowl,Chicken Stir Fry,Grilled Salmon,Non-Veg,1411,2600
+18.4,Avocado Toast,Cereal,Veggie Wrap,Pasta Salad,Chicken Curry,Veggie Burger,Non-Veg,1434,2600
+31.8,Egg Sandwich,Yogurt,Vegetable Stir Fry,Veggie Wrap,Veggie Burger,Grilled Steak,Non-Veg,1611,2000
+16.7,Pancakes,Fruit Salad,Turkey Sandwich,Pasta Salad,Chicken Curry,Veggie Burger,Non-Veg,1471,2550
+28.5,Oatmeal,Yogurt,Chicken Wrap,Pasta Salad,Veggie Pizza,Lentil Soup,Non-Veg,1278,1600
+31.2,Egg Sandwich,Smoothie,Soup,Turkey Sandwich,Grilled Salmon,Veggie Burger,Non-Veg,1454,1550
+22.1,Cereal,Avocado Toast,Sushi,Turkey Sandwich,Spaghetti,Chicken Curry,Non-Veg,1330,2150
+22.0,Fruit Salad,Smoothie,Quinoa Salad,Chicken Wrap,Grilled Salmon,Stuffed Peppers,Non-Veg,1878,2350
+16.4,Oatmeal,Egg Sandwich,Turkey Sandwich,Veggie Wrap,Grilled Steak,Lentil Soup,Non-Veg,1688,2500
+26.8,Cereal,Egg Sandwich,Quinoa Salad,Burrito Bowl,Tacos,Grilled Salmon,Non-Veg,1612,1950
+20.7,Pancakes,Yogurt,Burrito Bowl,Vegetable Stir Fry,Veggie Burger,Tacos,Non-Veg,1445,2050
+23.2,Pancakes,Scrambled Eggs,Soup,Chicken Wrap,Lentil Soup,Chicken Stir Fry,Non-Veg,1992,2250
+15.5,Pancakes,Smoothie,Turkey Sandwich,Burrito Bowl,Spaghetti,Chicken Curry,Non-Veg,1680,2850
+22.1,Egg Sandwich,Cereal,Grilled Chicken Salad,Veggie Wrap,Spaghetti,Chicken Curry,Non-Veg,1670,2200
+17.7,Scrambled Eggs,Yogurt,Veggie Wrap,Grilled Chicken Salad,Veggie Burger,Chicken Curry,Non-Veg,1177,2450
+24.5,Pancakes,Smoothie,Soup,Vegetable Stir Fry,Chicken Curry,Veggie Pizza,Non-Veg,1242,1900
+25.9,Oatmeal,Scrambled Eggs,Burrito Bowl,Sushi,Stuffed Peppers,Spaghetti,Non-Veg,1942,1950
+16.6,Smoothie,Yogurt,Soup,Turkey Sandwich,Chicken Stir Fry,Veggie Pizza,Non-Veg,1824,2250
+17.0,Yogurt,Scrambled Eggs,Sushi,Turkey Sandwich,Lentil Soup,Chicken Curry,Non-Veg,1338,2350
+19.3,Smoothie,Avocado Toast,Quinoa Salad,Chicken Wrap,Veggie Burger,Lentil Soup,Non-Veg,2069,2200
+33.7,Cereal,Egg Sandwich,Vegetable Stir Fry,Soup,Grilled Steak,Chicken Curry,Non-Veg,1555,1950
+19.5,Scrambled Eggs,Avocado Toast,Burrito Bowl,Quinoa Salad,Tacos,Lentil Soup,Non-Veg,1490,2050
+18.9,Scrambled Eggs,Avocado Toast,Sushi,Vegetable Stir Fry,Grilled Steak,Veggie Pizza,Non-Veg,1445,1950
+30.4,Yogurt,Granola,Turkey Sandwich,Vegetable Stir Fry,Grilled Steak,Grilled Salmon,Non-Veg,1544,1600
+25.2,Avocado Toast,Granola,Pasta Salad,Veggie Wrap,Grilled Salmon,Veggie Burger,Non-Veg,1686,1900
+23.5,Yogurt,Egg Sandwich,Grilled Chicken Salad,Soup,Spaghetti,Tacos,Non-Veg,1525,2000
+23.3,Avocado Toast,Smoothie,Vegetable Stir Fry,Soup,Grilled Salmon,Grilled Steak,Non-Veg,1593,1900
+24.6,Pancakes,Smoothie,Vegetable Stir Fry,Quinoa Salad,Grilled Steak,Grilled Salmon,Non-Veg,1575,2000
+24.0,Egg Sandwich,Granola,Quinoa Salad,Sushi,Spaghetti,Stuffed Peppers,Non-Veg,1880,2150
+23.0,Yogurt,Smoothie,Turkey Sandwich,Chicken Wrap,Lentil Soup,Spaghetti,Non-Veg,1798,2000
+22.5,Pancakes,Yogurt,Turkey Sandwich,Sushi,Stuffed Peppers,Chicken Curry,Non-Veg,1192,1950
+17.8,Yogurt,Egg Sandwich,Quinoa Salad,Sushi,Chicken Curry,Tacos,Non-Veg,2125,2550
+17.6,Cereal,Avocado Toast,Soup,Sushi,Veggie Pizza,Chicken Curry,Non-Veg,1888,2400
+34.5,Yogurt,Fruit Salad,Veggie Wrap,Grilled Chicken Salad,Grilled Steak,Spaghetti,Non-Veg,1352,1450
+15.7,Yogurt,Oatmeal,Veggie Wrap,Grilled Chicken Salad,Grilled Salmon,Lentil Soup,Non-Veg,1671,2200
+19.3,Cereal,Scrambled Eggs,Sushi,Grilled Chicken Salad,Veggie Pizza,Chicken Stir Fry,Non-Veg,1466,1800
+24.9,Scrambled Eggs,Pancakes,Veggie Wrap,Sushi,Spaghetti,Grilled Salmon,Non-Veg,1816,2000
+15.4,Fruit Salad,Yogurt,Quinoa Salad,Grilled Chicken Salad,Chicken Stir Fry,Spaghetti,Non-Veg,1236,2300
+23.5,Oatmeal,Granola,Burrito Bowl,Vegetable Stir Fry,Veggie Pizza,Spaghetti,Non-Veg,1515,2200
+30.6,Smoothie,Granola,Turkey Sandwich,Grilled Chicken Salad,Veggie Burger,Stuffed Peppers,Non-Veg,1511,1550
+27.5,Granola,Oatmeal,Sushi,Turkey Sandwich,Spaghetti,Chicken Stir Fry,Non-Veg,1496,1800
+17.3,Yogurt,Smoothie,Turkey Sandwich,Grilled Chicken Salad,Stuffed Peppers,Lentil Soup,Non-Veg,1346,2250
+19.9,Yogurt,Oatmeal,Quinoa Salad,Chicken Wrap,Grilled Steak,Tacos,Non-Veg,1473,2050
+26.8,Avocado Toast,Fruit Salad,Sushi,Quinoa Salad,Grilled Salmon,Veggie Pizza,Non-Veg,1364,1550
+19.5,Yogurt,Fruit Salad,Chicken Wrap,Grilled Chicken Salad,Grilled Salmon,Spaghetti,Non-Veg,1259,1950
+25.5,Scrambled Eggs,Avocado Toast,Burrito Bowl,Turkey Sandwich,Lentil Soup,Grilled Steak,Non-Veg,1498,1900
+15.9,Scrambled Eggs,Granola,Chicken Wrap,Quinoa Salad,Spaghetti,Chicken Stir Fry,Non-Veg,2150,2700
+15.3,Cereal,Scrambled Eggs,Chicken Wrap,Veggie Wrap,Grilled Steak,Veggie Burger,Non-Veg,2102,2600
+20.1,Oatmeal,Fruit Salad,Burrito Bowl,Sushi,Tacos,Grilled Steak,Non-Veg,1565,2000
+29.4,Scrambled Eggs,Oatmeal,Vegetable Stir Fry,Veggie Wrap,Grilled Salmon,Spaghetti,Non-Veg,2020,2450
+23.2,Pancakes,Fruit Salad,Chicken Wrap,Vegetable Stir Fry,Lentil Soup,Veggie Burger,Non-Veg,1470,1800
+21.8,Oatmeal,Granola,Soup,Sushi,Stuffed Peppers,Veggie Burger,Non-Veg,1327,1800
+21.9,Scrambled Eggs,Egg Sandwich,Veggie Wrap,Soup,Chicken Curry,Lentil Soup,Non-Veg,1645,1900
+32.0,Avocado Toast,Oatmeal,Vegetable Stir Fry,Grilled Chicken Salad,Stuffed Peppers,Chicken Stir Fry,Non-Veg,1250,1250
+30.4,Scrambled Eggs,Oatmeal,Veggie Wrap,Vegetable Stir Fry,Veggie Pizza,Grilled Salmon,Non-Veg,1597,1700
+20.3,Smoothie,Granola,Pasta Salad,Burrito Bowl,Grilled Steak,Veggie Burger,Non-Veg,1620,2350
+27.7,Scrambled Eggs,Granola,Chicken Wrap,Pasta Salad,Stuffed Peppers,Veggie Burger,Non-Veg,1693,1900
+17.1,Egg Sandwich,Yogurt,Sushi,Turkey Sandwich,Spaghetti,Chicken Stir Fry,Non-Veg,1960,2500
+23.7,Scrambled Eggs,Oatmeal,Vegetable Stir Fry,Quinoa Salad,Chicken Curry,Veggie Burger,Non-Veg,1667,1900
+27.7,Avocado Toast,Cereal,Burrito Bowl,Quinoa Salad,Veggie Burger,Veggie Pizza,Non-Veg,2123,2300
+26.1,Scrambled Eggs,Smoothie,Turkey Sandwich,Soup,Lentil Soup,Stuffed Peppers,Non-Veg,1903,2250
+19.3,Egg Sandwich,Granola,Grilled Chicken Salad,Burrito Bowl,Veggie Pizza,Chicken Curry,Non-Veg,1319,2400
+22.5,Granola,Yogurt,Sushi,Quinoa Salad,Stuffed Peppers,Lentil Soup,Veg,1639,1800
+31.9,Granola,Cereal,Turkey Sandwich,Grilled Chicken Salad,Chicken Stir Fry,Spaghetti,Non-Veg,1932,2000
+15.5,Smoothie,Fruit Salad,Vegetable Stir Fry,Soup,Veggie Burger,Veggie Pizza,Non-Veg,1840,2150
+29.7,Pancakes,Scrambled Eggs,Turkey Sandwich,Burrito Bowl,Grilled Salmon,Spaghetti,Non-Veg,1424,2000
+18.4,Egg Sandwich,Scrambled Eggs,Veggie Wrap,Vegetable Stir Fry,Grilled Salmon,Veggie Pizza,Non-Veg,1779,2450
+33.6,Granola,Yogurt,Pasta Salad,Sushi,Grilled Salmon,Veggie Burger,Non-Veg,1919,2100
+20.3,Yogurt,Fruit Salad,Veggie Wrap,Sushi,Grilled Steak,Veggie Burger,Non-Veg,1375,1800
+21.5,Oatmeal,Cereal,Quinoa Salad,Veggie Wrap,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1434,1750
+15.7,Smoothie,Granola,Burrito Bowl,Vegetable Stir Fry,Grilled Salmon,Chicken Stir Fry,Non-Veg,1279,2600
+33.3,Yogurt,Scrambled Eggs,Turkey Sandwich,Chicken Wrap,Veggie Burger,Chicken Stir Fry,Non-Veg,1649,1850
+26.4,Egg Sandwich,Fruit Salad,Veggie Wrap,Burrito Bowl,Stuffed Peppers,Grilled Salmon,Non-Veg,1767,2050
+27.1,Granola,Yogurt,Grilled Chicken Salad,Veggie Wrap,Tacos,Stuffed Peppers,Non-Veg,1367,1750
+30.6,Granola,Egg Sandwich,Sushi,Turkey Sandwich,Veggie Burger,Tacos,Non-Veg,2077,2200
+17.0,Avocado Toast,Yogurt,Turkey Sandwich,Chicken Wrap,Lentil Soup,Chicken Stir Fry,Non-Veg,1303,2400
+18.9,Fruit Salad,Yogurt,Pasta Salad,Chicken Wrap,Spaghetti,Grilled Steak,Non-Veg,1769,2100
+30.4,Pancakes,Granola,Turkey Sandwich,Grilled Chicken Salad,Spaghetti,Lentil Soup,Non-Veg,1972,2050
+22.3,Smoothie,Scrambled Eggs,Turkey Sandwich,Quinoa Salad,Grilled Steak,Veggie Burger,Non-Veg,1378,2050
+24.4,Avocado Toast,Fruit Salad,Sushi,Burrito Bowl,Chicken Curry,Stuffed Peppers,Non-Veg,1263,2000
+16.5,Fruit Salad,Avocado Toast,Veggie Wrap,Soup,Chicken Stir Fry,Spaghetti,Non-Veg,1467,2300
+17.1,Pancakes,Cereal,Burrito Bowl,Quinoa Salad,Lentil Soup,Spaghetti,Non-Veg,1530,2600
+21.2,Smoothie,Oatmeal,Burrito Bowl,Vegetable Stir Fry,Grilled Steak,Veggie Burger,Non-Veg,1528,2050
+20.7,Pancakes,Scrambled Eggs,Sushi,Grilled Chicken Salad,Grilled Steak,Tacos,Non-Veg,1494,2050
+18.6,Pancakes,Scrambled Eggs,Sushi,Quinoa Salad,Tacos,Chicken Stir Fry,Non-Veg,1888,1900
+15.9,Avocado Toast,Yogurt,Pasta Salad,Quinoa Salad,Spaghetti,Grilled Salmon,Non-Veg,1498,2550
+26.9,Cereal,Pancakes,Veggie Wrap,Pasta Salad,Grilled Steak,Stuffed Peppers,Non-Veg,1542,1800
+21.3,Avocado Toast,Yogurt,Sushi,Chicken Wrap,Chicken Stir Fry,Grilled Steak,Non-Veg,1582,2000
+16.6,Egg Sandwich,Cereal,Chicken Wrap,Grilled Chicken Salad,Lentil Soup,Grilled Steak,Non-Veg,1387,2600
+17.9,Pancakes,Smoothie,Veggie Wrap,Sushi,Grilled Steak,Veggie Pizza,Non-Veg,1363,2500
+33.9,Yogurt,Avocado Toast,Veggie Wrap,Chicken Wrap,Chicken Stir Fry,Spaghetti,Non-Veg,1452,1550
+34.8,Egg Sandwich,Oatmeal,Turkey Sandwich,Burrito Bowl,Chicken Curry,Veggie Pizza,Non-Veg,1569,1750
+33.1,Oatmeal,Granola,Grilled Chicken Salad,Burrito Bowl,Spaghetti,Chicken Curry,Non-Veg,1665,1850
+26.8,Oatmeal,Smoothie,Grilled Chicken Salad,Soup,Spaghetti,Veggie Pizza,Non-Veg,1272,1600
+26.3,Pancakes,Granola,Chicken Wrap,Turkey Sandwich,Stuffed Peppers,Grilled Salmon,Non-Veg,1671,1950
+29.9,Cereal,Egg Sandwich,Grilled Chicken Salad,Sushi,Chicken Stir Fry,Grilled Steak,Non-Veg,1573,1750
+15.4,Cereal,Smoothie,Burrito Bowl,Turkey Sandwich,Lentil Soup,Grilled Steak,Non-Veg,1433,2600
+17.0,Fruit Salad,Oatmeal,Chicken Wrap,Veggie Wrap,Grilled Steak,Stuffed Peppers,Non-Veg,1554,2400
+15.7,Avocado Toast,Scrambled Eggs,Chicken Wrap,Veggie Wrap,Chicken Curry,Grilled Steak,Non-Veg,1566,2750
+28.7,Avocado Toast,Cereal,Burrito Bowl,Grilled Chicken Salad,Grilled Steak,Chicken Curry,Non-Veg,1633,2050
+33.7,Egg Sandwich,Smoothie,Grilled Chicken Salad,Chicken Wrap,Spaghetti,Lentil Soup,Non-Veg,1564,1600
+27.6,Avocado Toast,Smoothie,Quinoa Salad,Soup,Stuffed Peppers,Chicken Curry,Non-Veg,1460,1650
+30.5,Yogurt,Pancakes,Vegetable Stir Fry,Chicken Wrap,Tacos,Lentil Soup,Non-Veg,1815,1950
+25.8,Yogurt,Avocado Toast,Sushi,Soup,Tacos,Veggie Pizza,Non-Veg,1423,1550
+16.7,Avocado Toast,Fruit Salad,Turkey Sandwich,Sushi,Veggie Burger,Spaghetti,Non-Veg,1775,2450
+26.7,Smoothie,Pancakes,Grilled Chicken Salad,Soup,Stuffed Peppers,Veggie Burger,Non-Veg,1652,2050
+33.7,Egg Sandwich,Cereal,Veggie Wrap,Pasta Salad,Tacos,Spaghetti,Non-Veg,1252,1700
+17.1,Avocado Toast,Smoothie,Veggie Wrap,Burrito Bowl,Tacos,Stuffed Peppers,Veg,1938,2600
+33.8,Oatmeal,Egg Sandwich,Turkey Sandwich,Sushi,Chicken Curry,Tacos,Non-Veg,1505,1600
+34.1,Avocado Toast,Cereal,Pasta Salad,Chicken Wrap,Stuffed Peppers,Chicken Curry,Non-Veg,1367,1650
+29.2,Granola,Scrambled Eggs,Turkey Sandwich,Quinoa Salad,Veggie Burger,Spaghetti,Non-Veg,2031,2200
+33.1,Smoothie,Granola,Sushi,Burrito Bowl,Chicken Curry,Veggie Burger,Non-Veg,1580,1750
+32.1,Yogurt,Egg Sandwich,Sushi,Soup,Spaghetti,Chicken Stir Fry,Non-Veg,1367,1850
+15.2,Pancakes,Fruit Salad,Sushi,Quinoa Salad,Lentil Soup,Chicken Curry,Non-Veg,1426,2300
+21.2,Fruit Salad,Smoothie,Quinoa Salad,Burrito Bowl,Spaghetti,Chicken Curry,Non-Veg,1562,2150
+18.9,Oatmeal,Pancakes,Veggie Wrap,Vegetable Stir Fry,Veggie Pizza,Chicken Stir Fry,Non-Veg,1491,1800
+17.4,Scrambled Eggs,Yogurt,Soup,Veggie Wrap,Veggie Pizza,Stuffed Peppers,Non-Veg,1521,2200
+33.1,Smoothie,Cereal,Burrito Bowl,Pasta Salad,Stuffed Peppers,Veggie Burger,Non-Veg,1846,1900
+22.7,Scrambled Eggs,Cereal,Quinoa Salad,Veggie Wrap,Grilled Steak,Grilled Salmon,Non-Veg,1883,2000
+18.2,Avocado Toast,Yogurt,Soup,Grilled Chicken Salad,Chicken Stir Fry,Veggie Burger,Non-Veg,1904,2250
+30.8,Granola,Fruit Salad,Burrito Bowl,Turkey Sandwich,Veggie Burger,Chicken Stir Fry,Non-Veg,1373,1600
+30.3,Smoothie,Cereal,Quinoa Salad,Veggie Wrap,Tacos,Stuffed Peppers,Non-Veg,1248,1400
+22.4,Oatmeal,Cereal,Soup,Burrito Bowl,Lentil Soup,Tacos,Veg,1646,1850
+27.7,Yogurt,Granola,Pasta Salad,Grilled Chicken Salad,Grilled Salmon,Tacos,Non-Veg,1372,1850
+25.8,Cereal,Egg Sandwich,Burrito Bowl,Pasta Salad,Veggie Pizza,Lentil Soup,Non-Veg,1247,1850
+29.8,Egg Sandwich,Pancakes,Grilled Chicken Salad,Sushi,Chicken Curry,Spaghetti,Non-Veg,1294,1950
+19.6,Cereal,Avocado Toast,Quinoa Salad,Grilled Chicken Salad,Veggie Burger,Lentil Soup,Non-Veg,1796,1850
+23.3,Egg Sandwich,Fruit Salad,Quinoa Salad,Grilled Chicken Salad,Veggie Burger,Lentil Soup,Non-Veg,1328,1800
+31.4,Avocado Toast,Cereal,Grilled Chicken Salad,Veggie Wrap,Grilled Salmon,Chicken Stir Fry,Non-Veg,1804,1900
+31.7,Scrambled Eggs,Smoothie,Pasta Salad,Turkey Sandwich,Chicken Curry,Stuffed Peppers,Non-Veg,1667,1950
+15.1,Oatmeal,Cereal,Chicken Wrap,Burrito Bowl,Veggie Pizza,Grilled Salmon,Non-Veg,2163,2600
+17.2,Avocado Toast,Smoothie,Vegetable Stir Fry,Turkey Sandwich,Lentil Soup,Chicken Curry,Non-Veg,1269,2450
+27.6,Granola,Yogurt,Soup,Sushi,Tacos,Chicken Stir Fry,Non-Veg,1739,2000
+31.5,Avocado Toast,Oatmeal,Sushi,Grilled Chicken Salad,Grilled Salmon,Tacos,Non-Veg,1998,2300
+25.3,Avocado Toast,Pancakes,Grilled Chicken Salad,Sushi,Spaghetti,Grilled Steak,Non-Veg,1245,1900
+18.0,Avocado Toast,Yogurt,Chicken Wrap,Sushi,Lentil Soup,Stuffed Peppers,Non-Veg,1510,2300
+16.3,Cereal,Granola,Veggie Wrap,Sushi,Spaghetti,Veggie Burger,Non-Veg,1426,2600
+34.1,Cereal,Oatmeal,Grilled Chicken Salad,Burrito Bowl,Lentil Soup,Veggie Burger,Non-Veg,1417,1650
+16.1,Granola,Fruit Salad,Burrito Bowl,Grilled Chicken Salad,Chicken Curry,Spaghetti,Non-Veg,1951,2800
+15.8,Avocado Toast,Egg Sandwich,Burrito Bowl,Sushi,Tacos,Grilled Salmon,Non-Veg,1342,2700
+29.0,Smoothie,Granola,Sushi,Turkey Sandwich,Veggie Burger,Chicken Stir Fry,Non-Veg,1612,1750
+17.3,Pancakes,Scrambled Eggs,Grilled Chicken Salad,Veggie Wrap,Tacos,Grilled Steak,Non-Veg,1456,2600
+22.4,Scrambled Eggs,Pancakes,Turkey Sandwich,Sushi,Grilled Salmon,Tacos,Non-Veg,1553,2000
+32.5,Cereal,Granola,Sushi,Soup,Spaghetti,Stuffed Peppers,Veg,1893,1950
+32.2,Cereal,Egg Sandwich,Grilled Chicken Salad,Burrito Bowl,Grilled Steak,Lentil Soup,Non-Veg,1824,1850
+18.8,Fruit Salad,Egg Sandwich,Pasta Salad,Sushi,Lentil Soup,Veggie Burger,Non-Veg,1722,1800
+30.9,Avocado Toast,Granola,Soup,Vegetable Stir Fry,Veggie Pizza,Spaghetti,Veg,1764,1900
+33.0,Granola,Yogurt,Turkey Sandwich,Quinoa Salad,Lentil Soup,Spaghetti,Veg,1485,1550
+26.9,Pancakes,Egg Sandwich,Sushi,Burrito Bowl,Tacos,Veggie Pizza,Non-Veg,1722,1950
+34.1,Pancakes,Egg Sandwich,Turkey Sandwich,Burrito Bowl,Chicken Curry,Tacos,Non-Veg,1926,2200
+18.5,Pancakes,Fruit Salad,Turkey Sandwich,Grilled Chicken Salad,Veggie Burger,Chicken Stir Fry,Non-Veg,1591,2350
+21.6,Fruit Salad,Smoothie,Grilled Chicken Salad,Turkey Sandwich,Grilled Salmon,Stuffed Peppers,Non-Veg,1591,1800
+29.6,Egg Sandwich,Granola,Sushi,Quinoa Salad,Tacos,Stuffed Peppers,Non-Veg,1518,1850
+33.1,Yogurt,Avocado Toast,Vegetable Stir Fry,Turkey Sandwich,Tacos,Lentil Soup,Veg,1494,1750
+33.9,Oatmeal,Yogurt,Pasta Salad,Sushi,Spaghetti,Chicken Stir Fry,Non-Veg,1922,2150
+16.7,Smoothie,Cereal,Veggie Wrap,Burrito Bowl,Chicken Stir Fry,Veggie Pizza,Non-Veg,1782,2500
+33.5,Scrambled Eggs,Avocado Toast,Chicken Wrap,Vegetable Stir Fry,Grilled Steak,Chicken Curry,Non-Veg,1664,1700
+24.0,Scrambled Eggs,Cereal,Grilled Chicken Salad,Turkey Sandwich,Chicken Curry,Veggie Burger,Non-Veg,1855,2050
+17.3,Cereal,Oatmeal,Burrito Bowl,Quinoa Salad,Veggie Burger,Chicken Stir Fry,Non-Veg,1554,2450
+16.3,Fruit Salad,Egg Sandwich,Pasta Salad,Veggie Wrap,Chicken Curry,Spaghetti,Non-Veg,1342,2650
+33.2,Yogurt,Oatmeal,Vegetable Stir Fry,Sushi,Grilled Salmon,Lentil Soup,Non-Veg,1698,1800
+29.1,Oatmeal,Egg Sandwich,Burrito Bowl,Soup,Grilled Steak,Spaghetti,Non-Veg,1206,1950
+32.5,Granola,Fruit Salad,Quinoa Salad,Veggie Wrap,Chicken Stir Fry,Grilled Salmon,Non-Veg,1475,1800
+22.9,Scrambled Eggs,Smoothie,Turkey Sandwich,Burrito Bowl,Spaghetti,Chicken Stir Fry,Non-Veg,1730,2150
+23.9,Scrambled Eggs,Smoothie,Turkey Sandwich,Soup,Veggie Burger,Chicken Stir Fry,Non-Veg,1802,1900
+18.4,Egg Sandwich,Pancakes,Vegetable Stir Fry,Pasta Salad,Veggie Burger,Veggie Pizza,Non-Veg,1524,2550
+26.9,Cereal,Pancakes,Burrito Bowl,Quinoa Salad,Grilled Salmon,Spaghetti,Non-Veg,1315,1950
+32.9,Yogurt,Fruit Salad,Vegetable Stir Fry,Chicken Wrap,Chicken Stir Fry,Lentil Soup,Non-Veg,1350,1500
+20.2,Pancakes,Granola,Turkey Sandwich,Veggie Wrap,Veggie Burger,Chicken Curry,Non-Veg,2037,2250
+21.8,Avocado Toast,Oatmeal,Chicken Wrap,Turkey Sandwich,Lentil Soup,Spaghetti,Non-Veg,1443,2050
+25.8,Fruit Salad,Granola,Chicken Wrap,Soup,Lentil Soup,Stuffed Peppers,Non-Veg,1316,1550
+22.0,Granola,Pancakes,Chicken Wrap,Vegetable Stir Fry,Grilled Salmon,Stuffed Peppers,Non-Veg,1600,2100
+33.8,Scrambled Eggs,Yogurt,Grilled Chicken Salad,Chicken Wrap,Tacos,Stuffed Peppers,Non-Veg,1240,1450
+32.0,Avocado Toast,Granola,Grilled Chicken Salad,Burrito Bowl,Lentil Soup,Chicken Curry,Non-Veg,1441,1750
+29.3,Oatmeal,Scrambled Eggs,Sushi,Chicken Wrap,Chicken Curry,Veggie Pizza,Non-Veg,1570,1750
+17.2,Fruit Salad,Cereal,Turkey Sandwich,Soup,Veggie Pizza,Grilled Steak,Non-Veg,1859,2350
+26.4,Egg Sandwich,Oatmeal,Turkey Sandwich,Pasta Salad,Veggie Burger,Lentil Soup,Non-Veg,1482,1700
+17.4,Egg Sandwich,Cereal,Quinoa Salad,Veggie Wrap,Veggie Pizza,Tacos,Non-Veg,1517,2550
+16.9,Smoothie,Granola,Grilled Chicken Salad,Quinoa Salad,Lentil Soup,Stuffed Peppers,Non-Veg,1505,2400
+30.4,Avocado Toast,Fruit Salad,Veggie Wrap,Quinoa Salad,Spaghetti,Chicken Stir Fry,Non-Veg,1397,1400
+15.2,Pancakes,Fruit Salad,Veggie Wrap,Quinoa Salad,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1351,2250
+26.2,Cereal,Oatmeal,Chicken Wrap,Soup,Chicken Curry,Spaghetti,Non-Veg,1379,1800
+31.3,Pancakes,Egg Sandwich,Chicken Wrap,Quinoa Salad,Spaghetti,Grilled Steak,Non-Veg,1379,1850
+31.0,Yogurt,Pancakes,Chicken Wrap,Sushi,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1547,1550
+18.2,Avocado Toast,Scrambled Eggs,Veggie Wrap,Soup,Chicken Stir Fry,Spaghetti,Non-Veg,1604,2400
+23.0,Avocado Toast,Yogurt,Veggie Wrap,Grilled Chicken Salad,Tacos,Chicken Stir Fry,Non-Veg,1672,1900
+21.8,Pancakes,Smoothie,Vegetable Stir Fry,Burrito Bowl,Veggie Pizza,Grilled Salmon,Non-Veg,1834,2050
+17.3,Granola,Yogurt,Chicken Wrap,Veggie Wrap,Lentil Soup,Stuffed Peppers,Non-Veg,1611,2450
+32.9,Cereal,Avocado Toast,Burrito Bowl,Chicken Wrap,Grilled Steak,Veggie Burger,Non-Veg,1716,1800
+16.5,Pancakes,Cereal,Burrito Bowl,Pasta Salad,Tacos,Grilled Steak,Non-Veg,1401,2800
+17.5,Fruit Salad,Granola,Sushi,Grilled Chicken Salad,Spaghetti,Chicken Stir Fry,Non-Veg,1469,2450
+32.3,Pancakes,Egg Sandwich,Sushi,Turkey Sandwich,Veggie Pizza,Grilled Salmon,Non-Veg,1332,1550
+22.0,Egg Sandwich,Yogurt,Turkey Sandwich,Chicken Wrap,Stuffed Peppers,Veggie Pizza,Non-Veg,1970,2050
+35.0,Oatmeal,Fruit Salad,Soup,Pasta Salad,Grilled Salmon,Chicken Curry,Non-Veg,1659,1800
+19.0,Oatmeal,Fruit Salad,Vegetable Stir Fry,Sushi,Lentil Soup,Chicken Stir Fry,Non-Veg,1632,1700
+17.3,Scrambled Eggs,Cereal,Vegetable Stir Fry,Burrito Bowl,Veggie Pizza,Veggie Burger,Non-Veg,1817,2500
+25.5,Pancakes,Fruit Salad,Quinoa Salad,Vegetable Stir Fry,Chicken Curry,Chicken Stir Fry,Non-Veg,1872,1950
+27.4,Yogurt,Oatmeal,Soup,Quinoa Salad,Veggie Burger,Tacos,Veg,1325,1500
+18.6,Pancakes,Granola,Burrito Bowl,Soup,Veggie Burger,Grilled Salmon,Non-Veg,1387,2150
+29.5,Cereal,Fruit Salad,Grilled Chicken Salad,Soup,Veggie Burger,Chicken Stir Fry,Non-Veg,1398,1400
+24.1,Cereal,Granola,Sushi,Soup,Grilled Salmon,Tacos,Non-Veg,1773,1950
+32.0,Granola,Avocado Toast,Veggie Wrap,Sushi,Chicken Stir Fry,Tacos,Non-Veg,1500,1550
+27.3,Pancakes,Egg Sandwich,Soup,Chicken Wrap,Grilled Steak,Veggie Pizza,Non-Veg,1463,1900
+34.0,Egg Sandwich,Cereal,Burrito Bowl,Vegetable Stir Fry,Grilled Steak,Veggie Pizza,Non-Veg,1439,1700
+20.1,Fruit Salad,Oatmeal,Vegetable Stir Fry,Quinoa Salad,Spaghetti,Chicken Stir Fry,Non-Veg,1678,1750
+15.7,Avocado Toast,Cereal,Burrito Bowl,Grilled Chicken Salad,Veggie Pizza,Grilled Salmon,Non-Veg,1265,2600
+17.4,Yogurt,Granola,Veggie Wrap,Pasta Salad,Tacos,Chicken Stir Fry,Non-Veg,1450,2550
+32.0,Smoothie,Avocado Toast,Vegetable Stir Fry,Quinoa Salad,Grilled Steak,Lentil Soup,Non-Veg,1473,1500
+34.1,Granola,Fruit Salad,Chicken Wrap,Pasta Salad,Lentil Soup,Grilled Steak,Non-Veg,1735,1900
+23.5,Yogurt,Fruit Salad,Pasta Salad,Grilled Chicken Salad,Veggie Pizza,Chicken Curry,Non-Veg,1529,1900
+19.5,Pancakes,Avocado Toast,Sushi,Quinoa Salad,Grilled Steak,Chicken Stir Fry,Non-Veg,1594,2000
+19.2,Smoothie,Fruit Salad,Vegetable Stir Fry,Turkey Sandwich,Veggie Burger,Grilled Salmon,Non-Veg,1551,1800
+27.5,Avocado Toast,Oatmeal,Grilled Chicken Salad,Soup,Chicken Curry,Spaghetti,Non-Veg,1458,1750
+25.8,Smoothie,Egg Sandwich,Vegetable Stir Fry,Veggie Wrap,Veggie Burger,Spaghetti,Non-Veg,1318,1800
+17.0,Avocado Toast,Fruit Salad,Turkey Sandwich,Sushi,Veggie Burger,Lentil Soup,Veg,2108,2250
+30.7,Scrambled Eggs,Smoothie,Vegetable Stir Fry,Veggie Wrap,Spaghetti,Veggie Pizza,Non-Veg,1818,1850
+32.7,Cereal,Smoothie,Vegetable Stir Fry,Quinoa Salad,Chicken Curry,Spaghetti,Non-Veg,1642,1850
+27.1,Scrambled Eggs,Pancakes,Pasta Salad,Quinoa Salad,Stuffed Peppers,Veggie Pizza,Non-Veg,1780,2200
+28.3,Yogurt,Scrambled Eggs,Turkey Sandwich,Quinoa Salad,Spaghetti,Chicken Stir Fry,Non-Veg,1613,1700
+34.8,Granola,Oatmeal,Burrito Bowl,Pasta Salad,Stuffed Peppers,Chicken Stir Fry,Non-Veg,1632,1900
+15.7,Pancakes,Avocado Toast,Soup,Sushi,Stuffed Peppers,Chicken Stir Fry,Non-Veg,1449,2250
+24.0,Scrambled Eggs,Cereal,Burrito Bowl,Vegetable Stir Fry,Spaghetti,Veggie Burger,Non-Veg,1230,2100
+15.1,Smoothie,Egg Sandwich,Quinoa Salad,Pasta Salad,Veggie Pizza,Grilled Salmon,Non-Veg,1641,2550
+21.8,Granola,Pancakes,Vegetable Stir Fry,Sushi,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1336,1900
+17.0,Cereal,Pancakes,Pasta Salad,Burrito Bowl,Lentil Soup,Chicken Stir Fry,Non-Veg,1472,2500
+22.0,Granola,Egg Sandwich,Sushi,Vegetable Stir Fry,Veggie Pizza,Veggie Burger,Non-Veg,1563,2050
+21.4,Oatmeal,Scrambled Eggs,Soup,Burrito Bowl,Stuffed Peppers,Veggie Burger,Non-Veg,1531,1850
+31.0,Oatmeal,Pancakes,Chicken Wrap,Sushi,Veggie Pizza,Veggie Burger,Non-Veg,1443,1450
+24.1,Yogurt,Pancakes,Chicken Wrap,Pasta Salad,Chicken Stir Fry,Spaghetti,Non-Veg,1621,2100
+34.0,Pancakes,Oatmeal,Sushi,Turkey Sandwich,Lentil Soup,Grilled Steak,Non-Veg,1403,1750
+18.2,Yogurt,Oatmeal,Soup,Pasta Salad,Veggie Burger,Stuffed Peppers,Veg,1667,2200
+21.8,Smoothie,Oatmeal,Grilled Chicken Salad,Soup,Chicken Curry,Chicken Stir Fry,Non-Veg,1557,1800
+22.9,Egg Sandwich,Pancakes,Sushi,Quinoa Salad,Grilled Salmon,Stuffed Peppers,Non-Veg,1606,1950
+24.4,Avocado Toast,Granola,Grilled Chicken Salad,Vegetable Stir Fry,Grilled Steak,Stuffed Peppers,Non-Veg,1654,2100
+19.0,Yogurt,Pancakes,Sushi,Vegetable Stir Fry,Tacos,Grilled Steak,Non-Veg,1676,1950
+20.6,Fruit Salad,Pancakes,Pasta Salad,Turkey Sandwich,Tacos,Lentil Soup,Veg,1417,1900
+22.7,Yogurt,Scrambled Eggs,Sushi,Pasta Salad,Chicken Curry,Grilled Salmon,Non-Veg,1629,1950
+24.5,Granola,Avocado Toast,Vegetable Stir Fry,Chicken Wrap,Grilled Salmon,Chicken Stir Fry,Non-Veg,1370,2100
+15.1,Smoothie,Oatmeal,Sushi,Pasta Salad,Veggie Pizza,Lentil Soup,Non-Veg,1416,2250
+25.7,Cereal,Scrambled Eggs,Burrito Bowl,Vegetable Stir Fry,Stuffed Peppers,Grilled Steak,Non-Veg,1679,1800
+16.2,Scrambled Eggs,Oatmeal,Soup,Burrito Bowl,Veggie Pizza,Chicken Stir Fry,Non-Veg,1823,2350
+25.8,Fruit Salad,Pancakes,Vegetable Stir Fry,Grilled Chicken Salad,Veggie Pizza,Spaghetti,Non-Veg,1506,1650
+21.8,Oatmeal,Smoothie,Burrito Bowl,Quinoa Salad,Grilled Salmon,Stuffed Peppers,Non-Veg,1468,1950
+32.7,Smoothie,Cereal,Sushi,Chicken Wrap,Grilled Steak,Chicken Curry,Non-Veg,1649,1650
+29.0,Pancakes,Scrambled Eggs,Burrito Bowl,Chicken Wrap,Chicken Curry,Grilled Steak,Non-Veg,1596,2150
+31.4,Cereal,Fruit Salad,Chicken Wrap,Vegetable Stir Fry,Chicken Curry,Veggie Burger,Non-Veg,1928,2350
+16.5,Yogurt,Pancakes,Veggie Wrap,Pasta Salad,Tacos,Spaghetti,Non-Veg,1618,2600
+33.6,Smoothie,Granola,Burrito Bowl,Chicken Wrap,Grilled Salmon,Tacos,Non-Veg,1811,1850
+25.3,Cereal,Yogurt,Soup,Veggie Wrap,Veggie Burger,Spaghetti,Veg,1640,1950
+33.9,Cereal,Yogurt,Vegetable Stir Fry,Turkey Sandwich,Veggie Pizza,Lentil Soup,Veg,1462,1500
+30.6,Granola,Egg Sandwich,Quinoa Salad,Pasta Salad,Grilled Steak,Chicken Stir Fry,Non-Veg,1569,1750
+17.9,Oatmeal,Fruit Salad,Burrito Bowl,Chicken Wrap,Grilled Steak,Veggie Pizza,Non-Veg,1254,2600
+23.2,Avocado Toast,Yogurt,Grilled Chicken Salad,Soup,Chicken Curry,Tacos,Non-Veg,1218,1950
+23.1,Avocado Toast,Smoothie,Quinoa Salad,Pasta Salad,Lentil Soup,Veggie Pizza,Non-Veg,1488,1900
+23.5,Egg Sandwich,Yogurt,Pasta Salad,Grilled Chicken Salad,Chicken Stir Fry,Veggie Burger,Non-Veg,1486,1950
+29.9,Fruit Salad,Yogurt,Soup,Sushi,Chicken Stir Fry,Spaghetti,Non-Veg,1523,1550
+27.5,Pancakes,Egg Sandwich,Pasta Salad,Soup,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1280,1650
+31.9,Fruit Salad,Avocado Toast,Turkey Sandwich,Veggie Wrap,Grilled Steak,Grilled Salmon,Non-Veg,1845,2200
+15.0,Cereal,Fruit Salad,Veggie Wrap,Chicken Wrap,Grilled Steak,Veggie Burger,Non-Veg,1444,2500
+20.3,Egg Sandwich,Yogurt,Quinoa Salad,Chicken Wrap,Spaghetti,Veggie Burger,Non-Veg,1411,2150
+22.6,Scrambled Eggs,Cereal,Pasta Salad,Sushi,Veggie Pizza,Spaghetti,Non-Veg,1443,2000
+15.4,Fruit Salad,Avocado Toast,Turkey Sandwich,Pasta Salad,Chicken Curry,Tacos,Non-Veg,1737,2600
+32.3,Cereal,Granola,Burrito Bowl,Soup,Stuffed Peppers,Grilled Salmon,Non-Veg,1622,2050
+34.3,Fruit Salad,Granola,Pasta Salad,Sushi,Tacos,Veggie Burger,Veg,1290,1500
+25.0,Scrambled Eggs,Cereal,Grilled Chicken Salad,Burrito Bowl,Veggie Burger,Chicken Curry,Non-Veg,1655,1900
+24.1,Yogurt,Smoothie,Soup,Turkey Sandwich,Grilled Salmon,Chicken Curry,Non-Veg,1762,1900
+34.6,Fruit Salad,Scrambled Eggs,Grilled Chicken Salad,Sushi,Chicken Stir Fry,Chicken Curry,Non-Veg,2058,2100
+20.0,Granola,Yogurt,Vegetable Stir Fry,Sushi,Grilled Steak,Veggie Pizza,Non-Veg,1455,2000
+21.0,Fruit Salad,Cereal,Quinoa Salad,Veggie Wrap,Tacos,Chicken Stir Fry,Non-Veg,1380,1800
+15.1,Smoothie,Granola,Quinoa Salad,Pasta Salad,Veggie Burger,Grilled Steak,Non-Veg,1689,2700
+25.9,Avocado Toast,Smoothie,Pasta Salad,Turkey Sandwich,Veggie Burger,Chicken Curry,Non-Veg,1399,1900
+30.7,Pancakes,Yogurt,Pasta Salad,Vegetable Stir Fry,Grilled Salmon,Veggie Burger,Non-Veg,1295,1400
+25.8,Egg Sandwich,Avocado Toast,Vegetable Stir Fry,Soup,Tacos,Lentil Soup,Non-Veg,1402,1600
+23.2,Pancakes,Scrambled Eggs,Burrito Bowl,Quinoa Salad,Spaghetti,Tacos,Non-Veg,1298,2250
+33.7,Avocado Toast,Scrambled Eggs,Grilled Chicken Salad,Veggie Wrap,Grilled Steak,Chicken Curry,Non-Veg,1443,1650
+27.9,Cereal,Egg Sandwich,Chicken Wrap,Sushi,Veggie Pizza,Tacos,Non-Veg,1327,1850
+16.4,Yogurt,Oatmeal,Quinoa Salad,Grilled Chicken Salad,Tacos,Veggie Burger,Non-Veg,1321,2350
+30.4,Fruit Salad,Cereal,Veggie Wrap,Sushi,Stuffed Peppers,Grilled Steak,Non-Veg,1444,1700
+34.0,Yogurt,Fruit Salad,Vegetable Stir Fry,Veggie Wrap,Spaghetti,Stuffed Peppers,Non-Veg,1491,1700
+33.6,Scrambled Eggs,Avocado Toast,Grilled Chicken Salad,Sushi,Tacos,Veggie Burger,Non-Veg,1612,1650
+16.6,Oatmeal,Scrambled Eggs,Turkey Sandwich,Quinoa Salad,Veggie Burger,Veggie Pizza,Non-Veg,1373,2400
+21.4,Pancakes,Cereal,Chicken Wrap,Turkey Sandwich,Grilled Salmon,Stuffed Peppers,Non-Veg,1549,2050
+28.3,Egg Sandwich,Avocado Toast,Grilled Chicken Salad,Pasta Salad,Grilled Salmon,Spaghetti,Non-Veg,1623,1950
+15.2,Scrambled Eggs,Fruit Salad,Vegetable Stir Fry,Grilled Chicken Salad,Chicken Stir Fry,Tacos,Non-Veg,1843,2250
+30.1,Cereal,Yogurt,Burrito Bowl,Quinoa Salad,Spaghetti,Tacos,Non-Veg,1502,1650
+22.1,Yogurt,Egg Sandwich,Sushi,Quinoa Salad,Veggie Burger,Chicken Stir Fry,Non-Veg,1419,1850
+21.8,Fruit Salad,Avocado Toast,Grilled Chicken Salad,Vegetable Stir Fry,Veggie Pizza,Chicken Stir Fry,Non-Veg,1559,1750
+18.0,Smoothie,Oatmeal,Soup,Quinoa Salad,Lentil Soup,Grilled Salmon,Non-Veg,1533,2150
+19.9,Pancakes,Smoothie,Turkey Sandwich,Veggie Wrap,Tacos,Spaghetti,Veg,1386,2150
+31.4,Smoothie,Avocado Toast,Turkey Sandwich,Pasta Salad,Veggie Pizza,Grilled Salmon,Non-Veg,1613,1950
+22.4,Scrambled Eggs,Avocado Toast,Turkey Sandwich,Pasta Salad,Spaghetti,Grilled Steak,Non-Veg,1926,2250
+15.4,Scrambled Eggs,Pancakes,Pasta Salad,Quinoa Salad,Chicken Stir Fry,Spaghetti,Non-Veg,1450,2550
+34.0,Avocado Toast,Oatmeal,Pasta Salad,Turkey Sandwich,Veggie Burger,Grilled Salmon,Non-Veg,1520,1850
+17.0,Fruit Salad,Egg Sandwich,Turkey Sandwich,Soup,Veggie Pizza,Grilled Steak,Non-Veg,1488,2450
+30.8,Avocado Toast,Fruit Salad,Soup,Grilled Chicken Salad,Tacos,Lentil Soup,Non-Veg,1605,1750
+34.3,Smoothie,Oatmeal,Pasta Salad,Grilled Chicken Salad,Grilled Salmon,Veggie Burger,Non-Veg,1475,1900
+21.8,Granola,Egg Sandwich,Sushi,Pasta Salad,Lentil Soup,Veggie Burger,Non-Veg,1656,2050
+31.2,Smoothie,Scrambled Eggs,Veggie Wrap,Turkey Sandwich,Grilled Salmon,Veggie Burger,Non-Veg,1373,1450
+21.4,Pancakes,Granola,Quinoa Salad,Vegetable Stir Fry,Chicken Stir Fry,Spaghetti,Non-Veg,1479,2100
+17.6,Oatmeal,Fruit Salad,Soup,Vegetable Stir Fry,Veggie Pizza,Chicken Stir Fry,Non-Veg,1844,2050
+16.4,Granola,Avocado Toast,Vegetable Stir Fry,Burrito Bowl,Chicken Stir Fry,Spaghetti,Non-Veg,1533,2750
+15.6,Oatmeal,Pancakes,Grilled Chicken Salad,Vegetable Stir Fry,Spaghetti,Grilled Steak,Non-Veg,1628,2550
+26.6,Smoothie,Avocado Toast,Vegetable Stir Fry,Chicken Wrap,Chicken Stir Fry,Veggie Pizza,Non-Veg,1854,2050
+34.3,Avocado Toast,Pancakes,Soup,Pasta Salad,Stuffed Peppers,Spaghetti,Veg,1538,2000
+30.4,Oatmeal,Cereal,Soup,Turkey Sandwich,Veggie Pizza,Grilled Salmon,Non-Veg,1703,1900
+31.4,Yogurt,Egg Sandwich,Quinoa Salad,Sushi,Chicken Stir Fry,Tacos,Non-Veg,1974,2000
+27.5,Granola,Pancakes,Vegetable Stir Fry,Sushi,Tacos,Veggie Pizza,Veg,1546,1800
+18.4,Smoothie,Scrambled Eggs,Grilled Chicken Salad,Chicken Wrap,Grilled Steak,Lentil Soup,Non-Veg,1657,2500
+32.5,Egg Sandwich,Fruit Salad,Grilled Chicken Salad,Quinoa Salad,Grilled Steak,Chicken Stir Fry,Non-Veg,1600,1650
+19.1,Smoothie,Pancakes,Grilled Chicken Salad,Burrito Bowl,Grilled Steak,Chicken Curry,Non-Veg,1702,2300
+19.9,Smoothie,Egg Sandwich,Turkey Sandwich,Soup,Veggie Burger,Lentil Soup,Non-Veg,1601,1850
+30.5,Granola,Yogurt,Burrito Bowl,Vegetable Stir Fry,Chicken Stir Fry,Grilled Steak,Non-Veg,1640,1650
+18.2,Yogurt,Cereal,Sushi,Vegetable Stir Fry,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1563,2150
+31.9,Egg Sandwich,Granola,Pasta Salad,Turkey Sandwich,Lentil Soup,Tacos,Non-Veg,1685,1700
+31.9,Granola,Egg Sandwich,Quinoa Salad,Sushi,Grilled Steak,Chicken Stir Fry,Non-Veg,1738,1850
+29.8,Yogurt,Egg Sandwich,Pasta Salad,Veggie Wrap,Stuffed Peppers,Grilled Steak,Non-Veg,1964,2100
+26.1,Oatmeal,Cereal,Pasta Salad,Sushi,Spaghetti,Chicken Stir Fry,Non-Veg,1617,1650
+34.7,Granola,Egg Sandwich,Pasta Salad,Grilled Chicken Salad,Chicken Curry,Veggie Burger,Non-Veg,1580,1800
+24.1,Yogurt,Cereal,Soup,Chicken Wrap,Veggie Pizza,Tacos,Non-Veg,1784,1900
+27.7,Yogurt,Scrambled Eggs,Grilled Chicken Salad,Sushi,Stuffed Peppers,Spaghetti,Non-Veg,1542,1600
+27.2,Fruit Salad,Scrambled Eggs,Burrito Bowl,Sushi,Chicken Stir Fry,Spaghetti,Non-Veg,1893,2000
+33.2,Cereal,Granola,Veggie Wrap,Soup,Grilled Steak,Chicken Curry,Non-Veg,1409,1650
+33.1,Smoothie,Fruit Salad,Quinoa Salad,Sushi,Lentil Soup,Chicken Stir Fry,Non-Veg,1549,1600
+32.2,Cereal,Egg Sandwich,Chicken Wrap,Grilled Chicken Salad,Tacos,Lentil Soup,Non-Veg,1648,1950
+22.5,Yogurt,Fruit Salad,Quinoa Salad,Veggie Wrap,Stuffed Peppers,Veggie Burger,Veg,1346,1700
+23.6,Granola,Fruit Salad,Soup,Vegetable Stir Fry,Veggie Burger,Grilled Salmon,Non-Veg,1367,1800
+15.1,Fruit Salad,Cereal,Chicken Wrap,Burrito Bowl,Spaghetti,Veggie Pizza,Non-Veg,1851,2650
+15.0,Granola,Egg Sandwich,Veggie Wrap,Vegetable Stir Fry,Tacos,Veggie Burger,Non-Veg,1541,2650
+28.3,Fruit Salad,Yogurt,Sushi,Pasta Salad,Chicken Stir Fry,Stuffed Peppers,Non-Veg,2049,2350
+16.2,Granola,Fruit Salad,Veggie Wrap,Sushi,Chicken Curry,Stuffed Peppers,Non-Veg,1490,2450
+29.6,Scrambled Eggs,Avocado Toast,Burrito Bowl,Vegetable Stir Fry,Veggie Pizza,Spaghetti,Non-Veg,1184,1900
+16.8,Fruit Salad,Scrambled Eggs,Burrito Bowl,Turkey Sandwich,Chicken Stir Fry,Chicken Curry,Non-Veg,1740,2550
+15.4,Pancakes,Fruit Salad,Veggie Wrap,Soup,Veggie Burger,Spaghetti,Non-Veg,1658,2350
+17.0,Avocado Toast,Cereal,Chicken Wrap,Soup,Tacos,Spaghetti,Non-Veg,1536,2600
+27.4,Oatmeal,Pancakes,Sushi,Turkey Sandwich,Grilled Steak,Spaghetti,Non-Veg,1915,2200
+29.2,Yogurt,Cereal,Quinoa Salad,Sushi,Grilled Steak,Veggie Pizza,Non-Veg,1543,1650
+24.0,Scrambled Eggs,Fruit Salad,Soup,Turkey Sandwich,Spaghetti,Chicken Curry,Non-Veg,1563,1950
+32.9,Avocado Toast,Egg Sandwich,Soup,Veggie Wrap,Stuffed Peppers,Tacos,Non-Veg,1756,1950
+29.7,Fruit Salad,Avocado Toast,Burrito Bowl,Veggie Wrap,Stuffed Peppers,Lentil Soup,Veg,1397,1600
+28.2,Scrambled Eggs,Avocado Toast,Pasta Salad,Veggie Wrap,Lentil Soup,Grilled Salmon,Non-Veg,1702,1800
+17.9,Oatmeal,Yogurt,Pasta Salad,Soup,Chicken Stir Fry,Chicken Curry,Non-Veg,1623,2300
+18.4,Oatmeal,Yogurt,Grilled Chicken Salad,Turkey Sandwich,Tacos,Stuffed Peppers,Non-Veg,1661,2350
+17.4,Pancakes,Granola,Turkey Sandwich,Pasta Salad,Veggie Pizza,Tacos,Non-Veg,1441,2750
+26.0,Yogurt,Scrambled Eggs,Sushi,Chicken Wrap,Chicken Stir Fry,Grilled Salmon,Non-Veg,1575,1600
+27.4,Yogurt,Scrambled Eggs,Turkey Sandwich,Vegetable Stir Fry,Grilled Steak,Veggie Pizza,Non-Veg,1557,1700
+16.5,Oatmeal,Pancakes,Chicken Wrap,Vegetable Stir Fry,Grilled Steak,Chicken Stir Fry,Non-Veg,1702,2500
+31.9,Avocado Toast,Egg Sandwich,Burrito Bowl,Pasta Salad,Chicken Curry,Grilled Steak,Non-Veg,1334,1950
+18.0,Pancakes,Smoothie,Quinoa Salad,Veggie Wrap,Veggie Burger,Chicken Stir Fry,Non-Veg,1296,2400
+29.2,Avocado Toast,Egg Sandwich,Quinoa Salad,Sushi,Grilled Steak,Chicken Stir Fry,Non-Veg,1297,1800
+17.9,Pancakes,Avocado Toast,Veggie Wrap,Quinoa Salad,Grilled Salmon,Veggie Burger,Non-Veg,1602,2500
+29.7,Granola,Smoothie,Sushi,Quinoa Salad,Lentil Soup,Chicken Stir Fry,Non-Veg,2053,2450
+34.2,Avocado Toast,Granola,Vegetable Stir Fry,Soup,Veggie Pizza,Chicken Stir Fry,Non-Veg,1446,1650
+20.3,Smoothie,Oatmeal,Quinoa Salad,Burrito Bowl,Tacos,Veggie Pizza,Non-Veg,1325,2050
+21.8,Yogurt,Oatmeal,Chicken Wrap,Pasta Salad,Lentil Soup,Grilled Salmon,Non-Veg,1500,1850
+33.1,Avocado Toast,Fruit Salad,Chicken Wrap,Turkey Sandwich,Chicken Curry,Grilled Steak,Non-Veg,1539,1700
+34.2,Oatmeal,Avocado Toast,Pasta Salad,Burrito Bowl,Spaghetti,Stuffed Peppers,Veg,1697,1900
+26.1,Scrambled Eggs,Fruit Salad,Chicken Wrap,Grilled Chicken Salad,Veggie Burger,Tacos,Non-Veg,1676,1700
+23.5,Pancakes,Scrambled Eggs,Burrito Bowl,Quinoa Salad,Grilled Steak,Chicken Curry,Non-Veg,1689,2300
+17.4,Yogurt,Scrambled Eggs,Vegetable Stir Fry,Veggie Wrap,Chicken Curry,Grilled Salmon,Non-Veg,1627,2400
+19.6,Egg Sandwich,Fruit Salad,Soup,Sushi,Grilled Steak,Veggie Pizza,Non-Veg,1392,1850
+19.0,Granola,Pancakes,Soup,Turkey Sandwich,Grilled Steak,Chicken Stir Fry,Non-Veg,1572,2100
+21.1,Egg Sandwich,Oatmeal,Chicken Wrap,Grilled Chicken Salad,Grilled Salmon,Grilled Steak,Non-Veg,1726,2150
+30.0,Egg Sandwich,Scrambled Eggs,Soup,Pasta Salad,Spaghetti,Chicken Stir Fry,Non-Veg,1480,1500
+31.2,Smoothie,Fruit Salad,Grilled Chicken Salad,Vegetable Stir Fry,Grilled Salmon,Stuffed Peppers,Non-Veg,1638,1700
+24.5,Cereal,Oatmeal,Chicken Wrap,Sushi,Tacos,Grilled Salmon,Non-Veg,1794,1950
+33.6,Oatmeal,Scrambled Eggs,Soup,Burrito Bowl,Chicken Stir Fry,Veggie Pizza,Non-Veg,1811,2100
+17.3,Cereal,Scrambled Eggs,Veggie Wrap,Grilled Chicken Salad,Grilled Steak,Stuffed Peppers,Non-Veg,1441,2450
+15.7,Cereal,Avocado Toast,Turkey Sandwich,Soup,Grilled Salmon,Stuffed Peppers,Non-Veg,1486,2350
+16.3,Fruit Salad,Egg Sandwich,Soup,Pasta Salad,Grilled Steak,Veggie Pizza,Non-Veg,1540,2450
+34.8,Egg Sandwich,Oatmeal,Chicken Wrap,Veggie Wrap,Spaghetti,Chicken Curry,Non-Veg,1950,1950
+23.6,Cereal,Egg Sandwich,Vegetable Stir Fry,Soup,Lentil Soup,Grilled Steak,Non-Veg,1632,1850
+16.8,Scrambled Eggs,Yogurt,Veggie Wrap,Vegetable Stir Fry,Tacos,Lentil Soup,Non-Veg,1342,2250
+34.6,Yogurt,Cereal,Sushi,Pasta Salad,Grilled Salmon,Veggie Pizza,Non-Veg,1613,1950
+26.5,Egg Sandwich,Granola,Vegetable Stir Fry,Veggie Wrap,Grilled Salmon,Veggie Pizza,Non-Veg,1477,1850
+16.8,Pancakes,Smoothie,Soup,Chicken Wrap,Chicken Curry,Grilled Steak,Non-Veg,1327,2650
+32.2,Granola,Smoothie,Soup,Grilled Chicken Salad,Grilled Salmon,Spaghetti,Non-Veg,1507,1550
+17.0,Egg Sandwich,Oatmeal,Grilled Chicken Salad,Sushi,Chicken Curry,Grilled Salmon,Non-Veg,1498,2500
+20.7,Yogurt,Egg Sandwich,Grilled Chicken Salad,Chicken Wrap,Lentil Soup,Veggie Pizza,Non-Veg,1672,1950
+22.9,Pancakes,Cereal,Turkey Sandwich,Grilled Chicken Salad,Chicken Stir Fry,Spaghetti,Non-Veg,1708,2050
+29.0,Yogurt,Smoothie,Turkey Sandwich,Grilled Chicken Salad,Tacos,Chicken Curry,Non-Veg,1292,1800
+18.0,Pancakes,Granola,Burrito Bowl,Pasta Salad,Tacos,Stuffed Peppers,Veg,1550,2800
+18.8,Yogurt,Scrambled Eggs,Vegetable Stir Fry,Veggie Wrap,Veggie Pizza,Veggie Burger,Non-Veg,1570,1800
+27.6,Scrambled Eggs,Cereal,Soup,Quinoa Salad,Veggie Pizza,Grilled Steak,Non-Veg,1711,2150
+31.1,Cereal,Smoothie,Sushi,Pasta Salad,Chicken Curry,Spaghetti,Non-Veg,1812,2000
+25.6,Yogurt,Avocado Toast,Pasta Salad,Turkey Sandwich,Tacos,Stuffed Peppers,Veg,1780,2150
+21.0,Smoothie,Egg Sandwich,Soup,Turkey Sandwich,Tacos,Grilled Steak,Non-Veg,1710,2100
+16.3,Yogurt,Granola,Grilled Chicken Salad,Chicken Wrap,Lentil Soup,Tacos,Non-Veg,1681,2550
+31.2,Yogurt,Smoothie,Soup,Sushi,Veggie Pizza,Stuffed Peppers,Veg,1301,1500
+19.9,Yogurt,Granola,Soup,Burrito Bowl,Veggie Pizza,Stuffed Peppers,Non-Veg,1376,2000
+27.4,Yogurt,Oatmeal,Quinoa Salad,Chicken Wrap,Chicken Stir Fry,Tacos,Non-Veg,1728,1900
+28.0,Cereal,Fruit Salad,Pasta Salad,Turkey Sandwich,Veggie Burger,Stuffed Peppers,Veg,1538,1600
+24.3,Oatmeal,Scrambled Eggs,Burrito Bowl,Veggie Wrap,Chicken Stir Fry,Veggie Pizza,Non-Veg,1581,1950
+16.5,Pancakes,Oatmeal,Chicken Wrap,Grilled Chicken Salad,Lentil Soup,Chicken Curry,Non-Veg,1638,2500
+34.4,Pancakes,Granola,Veggie Wrap,Quinoa Salad,Tacos,Grilled Steak,Non-Veg,1783,2100
+24.0,Fruit Salad,Scrambled Eggs,Pasta Salad,Sushi,Chicken Curry,Grilled Salmon,Non-Veg,1702,1900
+20.7,Oatmeal,Scrambled Eggs,Sushi,Chicken Wrap,Grilled Steak,Veggie Pizza,Non-Veg,1758,2000
+22.9,Smoothie,Pancakes,Sushi,Quinoa Salad,Spaghetti,Grilled Salmon,Non-Veg,1933,2000
+29.5,Egg Sandwich,Scrambled Eggs,Grilled Chicken Salad,Soup,Spaghetti,Veggie Burger,Non-Veg,1710,1750
+22.9,Egg Sandwich,Smoothie,Soup,Burrito Bowl,Grilled Steak,Chicken Curry,Non-Veg,1743,2250
+26.3,Pancakes,Egg Sandwich,Burrito Bowl,Vegetable Stir Fry,Veggie Burger,Stuffed Peppers,Non-Veg,1357,1850
+29.7,Pancakes,Fruit Salad,Chicken Wrap,Burrito Bowl,Grilled Steak,Veggie Burger,Non-Veg,1328,1950
+24.0,Yogurt,Fruit Salad,Pasta Salad,Chicken Wrap,Lentil Soup,Veggie Pizza,Non-Veg,1462,1800
+24.2,Oatmeal,Granola,Burrito Bowl,Vegetable Stir Fry,Chicken Curry,Chicken Stir Fry,Non-Veg,1577,2150
+28.8,Yogurt,Smoothie,Chicken Wrap,Soup,Veggie Burger,Spaghetti,Non-Veg,1391,1700
+28.6,Granola,Cereal,Chicken Wrap,Grilled Chicken Salad,Spaghetti,Chicken Stir Fry,Non-Veg,1333,1950
+15.4,Smoothie,Granola,Pasta Salad,Quinoa Salad,Chicken Curry,Spaghetti,Non-Veg,1634,2800
+22.4,Cereal,Pancakes,Sushi,Pasta Salad,Stuffed Peppers,Spaghetti,Veg,1845,2000
+32.2,Egg Sandwich,Granola,Veggie Wrap,Turkey Sandwich,Chicken Stir Fry,Veggie Pizza,Non-Veg,1766,2050
+20.9,Egg Sandwich,Smoothie,Quinoa Salad,Soup,Stuffed Peppers,Veggie Pizza,Non-Veg,1475,1850
+15.5,Yogurt,Oatmeal,Vegetable Stir Fry,Turkey Sandwich,Veggie Burger,Lentil Soup,Veg,1624,2200
+31.8,Fruit Salad,Pancakes,Vegetable Stir Fry,Burrito Bowl,Veggie Pizza,Chicken Stir Fry,Non-Veg,1414,1850
+18.0,Yogurt,Avocado Toast,Turkey Sandwich,Pasta Salad,Tacos,Spaghetti,Veg,1671,2650
+24.1,Granola,Scrambled Eggs,Burrito Bowl,Chicken Wrap,Chicken Stir Fry,Lentil Soup,Non-Veg,1505,2150
+19.9,Yogurt,Granola,Quinoa Salad,Chicken Wrap,Lentil Soup,Veggie Pizza,Non-Veg,1574,2000
+33.4,Yogurt,Cereal,Turkey Sandwich,Sushi,Spaghetti,Grilled Steak,Non-Veg,1782,2150
+29.2,Cereal,Yogurt,Soup,Chicken Wrap,Tacos,Spaghetti,Non-Veg,1589,1750
+18.4,Cereal,Avocado Toast,Veggie Wrap,Chicken Wrap,Stuffed Peppers,Grilled Steak,Non-Veg,1277,2600
+25.2,Egg Sandwich,Fruit Salad,Vegetable Stir Fry,Veggie Wrap,Grilled Salmon,Spaghetti,Non-Veg,1460,1700
+15.7,Granola,Smoothie,Pasta Salad,Soup,Stuffed Peppers,Grilled Salmon,Non-Veg,1938,2450
+26.1,Granola,Cereal,Pasta Salad,Vegetable Stir Fry,Grilled Salmon,Chicken Stir Fry,Non-Veg,1611,1750
+33.2,Fruit Salad,Scrambled Eggs,Sushi,Soup,Tacos,Spaghetti,Non-Veg,1542,1650
+20.4,Avocado Toast,Fruit Salad,Quinoa Salad,Turkey Sandwich,Veggie Pizza,Spaghetti,Non-Veg,1411,2000
+16.7,Yogurt,Avocado Toast,Sushi,Chicken Wrap,Spaghetti,Stuffed Peppers,Non-Veg,1550,2500
+20.4,Avocado Toast,Cereal,Sushi,Grilled Chicken Salad,Chicken Stir Fry,Tacos,Non-Veg,1572,1900
+17.6,Scrambled Eggs,Smoothie,Sushi,Quinoa Salad,Spaghetti,Grilled Steak,Non-Veg,1588,2550
+16.4,Cereal,Egg Sandwich,Burrito Bowl,Turkey Sandwich,Grilled Salmon,Chicken Stir Fry,Non-Veg,1360,2650
+26.6,Smoothie,Avocado Toast,Sushi,Turkey Sandwich,Veggie Burger,Spaghetti,Non-Veg,1542,1800
+16.3,Yogurt,Granola,Chicken Wrap,Vegetable Stir Fry,Veggie Pizza,Chicken Curry,Non-Veg,1310,2650
+32.9,Avocado Toast,Fruit Salad,Veggie Wrap,Burrito Bowl,Lentil Soup,Grilled Steak,Non-Veg,1561,2000
+17.4,Fruit Salad,Cereal,Pasta Salad,Vegetable Stir Fry,Stuffed Peppers,Spaghetti,Veg,1641,2350
+25.1,Scrambled Eggs,Avocado Toast,Pasta Salad,Veggie Wrap,Grilled Salmon,Grilled Steak,Non-Veg,1765,1850
+24.2,Yogurt,Scrambled Eggs,Quinoa Salad,Turkey Sandwich,Tacos,Lentil Soup,Non-Veg,1227,1850
+29.7,Egg Sandwich,Avocado Toast,Grilled Chicken Salad,Turkey Sandwich,Grilled Steak,Grilled Salmon,Non-Veg,1273,1950
+17.1,Smoothie,Granola,Pasta Salad,Grilled Chicken Salad,Veggie Burger,Chicken Curry,Non-Veg,1479,2700
+18.7,Cereal,Avocado Toast,Grilled Chicken Salad,Turkey Sandwich,Stuffed Peppers,Grilled Steak,Non-Veg,1400,2050
+15.4,Pancakes,Oatmeal,Burrito Bowl,Soup,Chicken Curry,Tacos,Non-Veg,1673,2600
+16.3,Pancakes,Granola,Chicken Wrap,Pasta Salad,Veggie Pizza,Grilled Salmon,Non-Veg,1604,2750
+22.5,Oatmeal,Avocado Toast,Quinoa Salad,Burrito Bowl,Grilled Steak,Grilled Salmon,Non-Veg,1370,2150
+17.9,Egg Sandwich,Scrambled Eggs,Veggie Wrap,Grilled Chicken Salad,Tacos,Veggie Burger,Non-Veg,1460,2550
+16.0,Scrambled Eggs,Pancakes,Chicken Wrap,Grilled Chicken Salad,Veggie Pizza,Tacos,Non-Veg,1448,2600
+34.6,Oatmeal,Granola,Soup,Veggie Wrap,Chicken Stir Fry,Grilled Salmon,Non-Veg,1234,1350
+19.9,Fruit Salad,Egg Sandwich,Soup,Pasta Salad,Grilled Steak,Spaghetti,Non-Veg,1659,2050
+18.4,Yogurt,Fruit Salad,Grilled Chicken Salad,Chicken Wrap,Grilled Salmon,Veggie Pizza,Non-Veg,1510,2350
+32.0,Avocado Toast,Egg Sandwich,Turkey Sandwich,Vegetable Stir Fry,Spaghetti,Grilled Steak,Non-Veg,1430,1750
+17.7,Yogurt,Avocado Toast,Pasta Salad,Sushi,Grilled Steak,Grilled Salmon,Non-Veg,1895,2500
+16.0,Pancakes,Egg Sandwich,Vegetable Stir Fry,Turkey Sandwich,Stuffed Peppers,Tacos,Non-Veg,1599,2550
+30.7,Yogurt,Pancakes,Quinoa Salad,Grilled Chicken Salad,Tacos,Veggie Burger,Non-Veg,1543,1850
+25.6,Smoothie,Scrambled Eggs,Pasta Salad,Chicken Wrap,Lentil Soup,Tacos,Non-Veg,1759,2100
+20.2,Fruit Salad,Scrambled Eggs,Quinoa Salad,Turkey Sandwich,Tacos,Chicken Stir Fry,Non-Veg,1745,1850
+34.2,Smoothie,Avocado Toast,Pasta Salad,Sushi,Spaghetti,Veggie Pizza,Non-Veg,1513,1550
+16.9,Fruit Salad,Avocado Toast,Vegetable Stir Fry,Quinoa Salad,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1724,2200
+24.4,Egg Sandwich,Granola,Burrito Bowl,Sushi,Stuffed Peppers,Grilled Steak,Non-Veg,1290,2300
+23.7,Yogurt,Scrambled Eggs,Turkey Sandwich,Grilled Chicken Salad,Stuffed Peppers,Chicken Curry,Non-Veg,1545,1950
+17.4,Granola,Pancakes,Grilled Chicken Salad,Turkey Sandwich,Spaghetti,Grilled Salmon,Non-Veg,1767,2750
+17.8,Egg Sandwich,Scrambled Eggs,Grilled Chicken Salad,Veggie Wrap,Grilled Salmon,Lentil Soup,Non-Veg,1492,2400
+32.9,Scrambled Eggs,Fruit Salad,Soup,Turkey Sandwich,Lentil Soup,Stuffed Peppers,Non-Veg,1503,1600
+17.9,Smoothie,Avocado Toast,Veggie Wrap,Sushi,Veggie Pizza,Spaghetti,Veg,1589,2500
+27.3,Yogurt,Smoothie,Burrito Bowl,Grilled Chicken Salad,Chicken Curry,Grilled Steak,Non-Veg,1393,1950
+23.1,Scrambled Eggs,Pancakes,Sushi,Burrito Bowl,Grilled Salmon,Spaghetti,Non-Veg,1939,2150
+31.8,Egg Sandwich,Granola,Vegetable Stir Fry,Chicken Wrap,Tacos,Grilled Salmon,Non-Veg,1857,2250
+15.1,Cereal,Fruit Salad,Quinoa Salad,Soup,Stuffed Peppers,Tacos,Veg,1763,2200
+21.7,Cereal,Yogurt,Soup,Grilled Chicken Salad,Stuffed Peppers,Chicken Stir Fry,Non-Veg,1630,1650
+32.2,Pancakes,Smoothie,Soup,Chicken Wrap,Lentil Soup,Veggie Pizza,Non-Veg,1434,1550
+26.9,Granola,Oatmeal,Chicken Wrap,Turkey Sandwich,Spaghetti,Chicken Stir Fry,Non-Veg,1575,1950
+25.6,Cereal,Smoothie,Chicken Wrap,Turkey Sandwich,Chicken Stir Fry,Veggie Burger,Non-Veg,1609,1750
+16.6,Pancakes,Avocado Toast,Pasta Salad,Quinoa Salad,Stuffed Peppers,Grilled Steak,Non-Veg,1638,2600
+24.8,Fruit Salad,Cereal,Grilled Chicken Salad,Sushi,Lentil Soup,Stuffed Peppers,Non-Veg,1698,2000
+32.7,Scrambled Eggs,Granola,Veggie Wrap,Turkey Sandwich,Grilled Steak,Chicken Stir Fry,Non-Veg,1528,1650
+19.5,Smoothie,Avocado Toast,Soup,Quinoa Salad,Tacos,Veggie Pizza,Non-Veg,1644,1900
+31.6,Yogurt,Scrambled Eggs,Veggie Wrap,Sushi,Tacos,Chicken Curry,Non-Veg,1596,1800
+19.6,Scrambled Eggs,Cereal,Vegetable Stir Fry,Sushi,Veggie Burger,Tacos,Non-Veg,1882,2250
+20.2,Cereal,Granola,Pasta Salad,Soup,Chicken Stir Fry,Chicken Curry,Non-Veg,1470,2050
+21.1,Fruit Salad,Oatmeal,Soup,Chicken Wrap,Veggie Burger,Chicken Stir Fry,Non-Veg,1682,1700
+34.6,Smoothie,Oatmeal,Quinoa Salad,Chicken Wrap,Chicken Curry,Veggie Pizza,Non-Veg,1632,1950
+17.6,Oatmeal,Pancakes,Quinoa Salad,Grilled Chicken Salad,Spaghetti,Chicken Curry,Non-Veg,1545,2600
+16.7,Fruit Salad,Granola,Vegetable Stir Fry,Burrito Bowl,Chicken Stir Fry,Veggie Pizza,Non-Veg,1931,2500
+17.8,Avocado Toast,Cereal,Sushi,Burrito Bowl,Spaghetti,Grilled Steak,Non-Veg,1482,2750
+17.5,Scrambled Eggs,Cereal,Turkey Sandwich,Pasta Salad,Chicken Stir Fry,Grilled Steak,Non-Veg,1929,2550
+23.8,Fruit Salad,Smoothie,Grilled Chicken Salad,Soup,Spaghetti,Veggie Burger,Non-Veg,1626,1800
+18.4,Pancakes,Yogurt,Sushi,Quinoa Salad,Tacos,Veggie Pizza,Non-Veg,1384,2400
+31.6,Pancakes,Avocado Toast,Quinoa Salad,Pasta Salad,Lentil Soup,Chicken Curry,Non-Veg,1611,1700
+33.8,Scrambled Eggs,Fruit Salad,Quinoa Salad,Turkey Sandwich,Lentil Soup,Tacos,Non-Veg,1589,1600
+28.3,Avocado Toast,Yogurt,Soup,Chicken Wrap,Grilled Steak,Grilled Salmon,Non-Veg,1715,1750
+33.8,Egg Sandwich,Cereal,Sushi,Veggie Wrap,Grilled Steak,Lentil Soup,Non-Veg,1575,1800
+33.1,Avocado Toast,Granola,Burrito Bowl,Quinoa Salad,Veggie Burger,Chicken Curry,Non-Veg,1580,1850
+16.6,Fruit Salad,Oatmeal,Soup,Turkey Sandwich,Chicken Stir Fry,Spaghetti,Non-Veg,1862,2250
+26.0,Granola,Smoothie,Grilled Chicken Salad,Chicken Wrap,Grilled Salmon,Grilled Steak,Non-Veg,1884,2000
+27.0,Scrambled Eggs,Cereal,Chicken Wrap,Grilled Chicken Salad,Chicken Curry,Grilled Steak,Non-Veg,1919,1950
+32.2,Yogurt,Fruit Salad,Chicken Wrap,Grilled Chicken Salad,Chicken Stir Fry,Veggie Burger,Non-Veg,1567,1800
+31.2,Smoothie,Oatmeal,Sushi,Veggie Wrap,Grilled Steak,Veggie Burger,Non-Veg,1587,1750
+34.0,Avocado Toast,Fruit Salad,Turkey Sandwich,Vegetable Stir Fry,Lentil Soup,Veggie Pizza,Veg,1716,1950
+23.0,Smoothie,Oatmeal,Burrito Bowl,Sushi,Grilled Steak,Veggie Burger,Non-Veg,1295,2050
+28.5,Granola,Oatmeal,Vegetable Stir Fry,Quinoa Salad,Grilled Salmon,Grilled Steak,Non-Veg,1563,1800
+16.2,Granola,Cereal,Burrito Bowl,Chicken Wrap,Grilled Steak,Veggie Pizza,Non-Veg,1542,2900
+18.2,Pancakes,Cereal,Grilled Chicken Salad,Soup,Veggie Pizza,Chicken Stir Fry,Non-Veg,1644,2300
+34.9,Fruit Salad,Pancakes,Soup,Grilled Chicken Salad,Grilled Steak,Tacos,Non-Veg,1707,2100
+26.2,Avocado Toast,Egg Sandwich,Pasta Salad,Turkey Sandwich,Veggie Pizza,Tacos,Non-Veg,1578,1950
+25.9,Fruit Salad,Pancakes,Pasta Salad,Veggie Wrap,Spaghetti,Stuffed Peppers,Veg,1477,1700
+31.2,Fruit Salad,Pancakes,Soup,Quinoa Salad,Stuffed Peppers,Grilled Steak,Non-Veg,1610,1700
+31.3,Granola,Fruit Salad,Sushi,Veggie Wrap,Lentil Soup,Grilled Salmon,Non-Veg,1361,1800
+18.1,Granola,Cereal,Grilled Chicken Salad,Chicken Wrap,Tacos,Veggie Burger,Non-Veg,1583,2700
+25.9,Oatmeal,Granola,Quinoa Salad,Chicken Wrap,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1474,1750
+31.1,Avocado Toast,Yogurt,Veggie Wrap,Vegetable Stir Fry,Stuffed Peppers,Chicken Stir Fry,Non-Veg,1618,1800
+25.3,Smoothie,Pancakes,Soup,Quinoa Salad,Stuffed Peppers,Grilled Salmon,Non-Veg,1720,2000
+25.4,Cereal,Oatmeal,Grilled Chicken Salad,Quinoa Salad,Grilled Steak,Stuffed Peppers,Non-Veg,1485,1650
+27.9,Cereal,Granola,Veggie Wrap,Grilled Chicken Salad,Spaghetti,Stuffed Peppers,Non-Veg,1173,1850
+17.6,Granola,Fruit Salad,Grilled Chicken Salad,Turkey Sandwich,Spaghetti,Stuffed Peppers,Non-Veg,1774,2550
+24.6,Fruit Salad,Cereal,Vegetable Stir Fry,Quinoa Salad,Tacos,Chicken Stir Fry,Non-Veg,1958,2100
+28.7,Oatmeal,Cereal,Pasta Salad,Chicken Wrap,Chicken Curry,Spaghetti,Non-Veg,1562,1950
+16.4,Egg Sandwich,Avocado Toast,Vegetable Stir Fry,Pasta Salad,Veggie Burger,Grilled Steak,Non-Veg,1390,2650
+15.7,Pancakes,Fruit Salad,Turkey Sandwich,Pasta Salad,Veggie Burger,Spaghetti,Veg,1410,2550
+30.6,Scrambled Eggs,Granola,Pasta Salad,Veggie Wrap,Chicken Curry,Grilled Steak,Non-Veg,1537,1800
+20.8,Yogurt,Smoothie,Sushi,Chicken Wrap,Stuffed Peppers,Chicken Stir Fry,Non-Veg,1241,1800
+29.2,Egg Sandwich,Cereal,Vegetable Stir Fry,Turkey Sandwich,Chicken Stir Fry,Chicken Curry,Non-Veg,1578,1800
+34.3,Cereal,Pancakes,Burrito Bowl,Soup,Stuffed Peppers,Chicken Curry,Non-Veg,1547,1550
+34.4,Smoothie,Cereal,Chicken Wrap,Veggie Wrap,Grilled Steak,Lentil Soup,Non-Veg,1422,1500
+23.5,Oatmeal,Avocado Toast,Quinoa Salad,Veggie Wrap,Spaghetti,Grilled Steak,Non-Veg,1664,2100
+17.7,Scrambled Eggs,Oatmeal,Pasta Salad,Chicken Wrap,Veggie Pizza,Lentil Soup,Non-Veg,1813,2400
+24.8,Cereal,Granola,Sushi,Veggie Wrap,Lentil Soup,Spaghetti,Non-Veg,1692,2000
+29.3,Yogurt,Avocado Toast,Soup,Quinoa Salad,Grilled Steak,Spaghetti,Non-Veg,1490,1750
+27.7,Scrambled Eggs,Granola,Pasta Salad,Chicken Wrap,Chicken Curry,Tacos,Non-Veg,1776,2100
+33.6,Oatmeal,Egg Sandwich,Sushi,Burrito Bowl,Grilled Steak,Lentil Soup,Non-Veg,1874,2300
+16.7,Pancakes,Smoothie,Sushi,Grilled Chicken Salad,Chicken Stir Fry,Lentil Soup,Non-Veg,1618,2250
+25.2,Pancakes,Scrambled Eggs,Pasta Salad,Chicken Wrap,Chicken Stir Fry,Spaghetti,Non-Veg,1642,1900
+22.8,Pancakes,Avocado Toast,Vegetable Stir Fry,Soup,Veggie Burger,Spaghetti,Veg,1576,1950
+22.7,Yogurt,Scrambled Eggs,Burrito Bowl,Sushi,Veggie Burger,Chicken Curry,Non-Veg,1482,2050
+17.8,Avocado Toast,Fruit Salad,Quinoa Salad,Vegetable Stir Fry,Spaghetti,Grilled Steak,Non-Veg,1398,2500
+30.6,Cereal,Egg Sandwich,Vegetable Stir Fry,Grilled Chicken Salad,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1374,1600
+34.6,Smoothie,Cereal,Grilled Chicken Salad,Vegetable Stir Fry,Chicken Curry,Grilled Steak,Non-Veg,1929,2050
+28.1,Oatmeal,Yogurt,Sushi,Turkey Sandwich,Spaghetti,Tacos,Non-Veg,1766,2200
+31.1,Pancakes,Granola,Burrito Bowl,Turkey Sandwich,Stuffed Peppers,Tacos,Veg,1970,2200
+15.6,Fruit Salad,Smoothie,Turkey Sandwich,Sushi,Chicken Stir Fry,Veggie Burger,Non-Veg,1705,2250
+25.6,Avocado Toast,Granola,Quinoa Salad,Grilled Chicken Salad,Chicken Stir Fry,Grilled Salmon,Non-Veg,1371,1800
+27.2,Egg Sandwich,Yogurt,Sushi,Vegetable Stir Fry,Lentil Soup,Chicken Stir Fry,Non-Veg,1477,1950
+24.7,Scrambled Eggs,Oatmeal,Grilled Chicken Salad,Soup,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1620,1650
+26.4,Granola,Fruit Salad,Quinoa Salad,Burrito Bowl,Veggie Burger,Chicken Stir Fry,Non-Veg,1768,1800
+15.9,Avocado Toast,Yogurt,Pasta Salad,Grilled Chicken Salad,Tacos,Veggie Pizza,Non-Veg,1581,2500
+31.3,Pancakes,Granola,Pasta Salad,Soup,Tacos,Spaghetti,Veg,1492,1700
+34.2,Oatmeal,Cereal,Chicken Wrap,Grilled Chicken Salad,Chicken Stir Fry,Chicken Curry,Non-Veg,1246,1500
+15.1,Yogurt,Scrambled Eggs,Soup,Turkey Sandwich,Stuffed Peppers,Tacos,Non-Veg,1570,2300
+17.6,Cereal,Scrambled Eggs,Chicken Wrap,Quinoa Salad,Stuffed Peppers,Tacos,Non-Veg,1636,2500
+16.0,Egg Sandwich,Pancakes,Chicken Wrap,Pasta Salad,Veggie Pizza,Chicken Stir Fry,Non-Veg,1642,2650
+22.0,Yogurt,Avocado Toast,Vegetable Stir Fry,Grilled Chicken Salad,Chicken Curry,Veggie Burger,Non-Veg,1469,1950
+18.4,Fruit Salad,Yogurt,Quinoa Salad,Sushi,Grilled Salmon,Chicken Curry,Non-Veg,1911,2300
+31.8,Egg Sandwich,Avocado Toast,Turkey Sandwich,Quinoa Salad,Stuffed Peppers,Grilled Steak,Non-Veg,1474,1650
+16.9,Yogurt,Pancakes,Burrito Bowl,Vegetable Stir Fry,Veggie Burger,Lentil Soup,Non-Veg,1411,2400
+31.9,Scrambled Eggs,Cereal,Sushi,Pasta Salad,Veggie Pizza,Chicken Curry,Non-Veg,1392,1500
+31.1,Scrambled Eggs,Egg Sandwich,Burrito Bowl,Veggie Wrap,Tacos,Chicken Stir Fry,Non-Veg,1670,2100
+34.1,Cereal,Scrambled Eggs,Turkey Sandwich,Burrito Bowl,Grilled Steak,Chicken Curry,Non-Veg,1615,1800
+32.3,Pancakes,Smoothie,Veggie Wrap,Quinoa Salad,Grilled Salmon,Stuffed Peppers,Non-Veg,1316,1400
+30.2,Oatmeal,Yogurt,Quinoa Salad,Burrito Bowl,Lentil Soup,Grilled Salmon,Non-Veg,1894,1950
+33.9,Egg Sandwich,Smoothie,Burrito Bowl,Quinoa Salad,Veggie Burger,Tacos,Non-Veg,1943,2200
+27.8,Oatmeal,Egg Sandwich,Pasta Salad,Quinoa Salad,Grilled Steak,Lentil Soup,Non-Veg,1751,2100
+17.1,Granola,Pancakes,Burrito Bowl,Pasta Salad,Lentil Soup,Grilled Steak,Non-Veg,1762,2800
+24.6,Fruit Salad,Granola,Chicken Wrap,Veggie Wrap,Grilled Steak,Lentil Soup,Non-Veg,1637,2050
+25.1,Granola,Cereal,Burrito Bowl,Soup,Spaghetti,Veggie Burger,Veg,1392,1950
+28.3,Egg Sandwich,Avocado Toast,Soup,Burrito Bowl,Tacos,Veggie Pizza,Non-Veg,1508,1900
+29.6,Egg Sandwich,Smoothie,Grilled Chicken Salad,Burrito Bowl,Chicken Curry,Spaghetti,Non-Veg,1509,2100
+20.5,Pancakes,Smoothie,Pasta Salad,Chicken Wrap,Grilled Salmon,Veggie Pizza,Non-Veg,1290,2100
+18.1,Granola,Oatmeal,Sushi,Chicken Wrap,Chicken Curry,Veggie Burger,Non-Veg,1730,2650
+24.3,Yogurt,Smoothie,Turkey Sandwich,Pasta Salad,Stuffed Peppers,Spaghetti,Veg,1315,2000
+16.5,Cereal,Pancakes,Veggie Wrap,Soup,Grilled Salmon,Veggie Burger,Non-Veg,1371,2350
+31.2,Avocado Toast,Cereal,Vegetable Stir Fry,Chicken Wrap,Chicken Stir Fry,Grilled Salmon,Non-Veg,1398,1450
+25.2,Smoothie,Granola,Quinoa Salad,Pasta Salad,Lentil Soup,Tacos,Veg,1661,1800
+18.2,Cereal,Granola,Sushi,Chicken Wrap,Chicken Stir Fry,Grilled Steak,Non-Veg,1325,2650
+20.8,Cereal,Oatmeal,Chicken Wrap,Burrito Bowl,Veggie Burger,Lentil Soup,Non-Veg,1791,2000
+17.8,Oatmeal,Cereal,Pasta Salad,Soup,Veggie Burger,Veggie Pizza,Veg,1994,2300
+22.3,Scrambled Eggs,Oatmeal,Turkey Sandwich,Quinoa Salad,Tacos,Veggie Pizza,Non-Veg,1979,2350
+34.2,Yogurt,Avocado Toast,Grilled Chicken Salad,Turkey Sandwich,Chicken Stir Fry,Veggie Pizza,Non-Veg,1675,1900
+30.1,Avocado Toast,Granola,Pasta Salad,Chicken Wrap,Veggie Pizza,Lentil Soup,Non-Veg,1860,1950
+20.3,Egg Sandwich,Oatmeal,Turkey Sandwich,Burrito Bowl,Chicken Stir Fry,Veggie Burger,Non-Veg,1740,2100
+23.9,Yogurt,Egg Sandwich,Vegetable Stir Fry,Soup,Tacos,Spaghetti,Non-Veg,1247,1950
+29.3,Egg Sandwich,Smoothie,Vegetable Stir Fry,Veggie Wrap,Veggie Burger,Stuffed Peppers,Non-Veg,1394,1650
+33.1,Yogurt,Avocado Toast,Burrito Bowl,Pasta Salad,Veggie Burger,Spaghetti,Non-Veg,1413,1700
+26.7,Oatmeal,Egg Sandwich,Sushi,Quinoa Salad,Grilled Salmon,Veggie Pizza,Non-Veg,1717,2000
+16.3,Pancakes,Scrambled Eggs,Quinoa Salad,Pasta Salad,Grilled Steak,Stuffed Peppers,Non-Veg,1460,2550
+34.3,Fruit Salad,Oatmeal,Grilled Chicken Salad,Burrito Bowl,Stuffed Peppers,Spaghetti,Non-Veg,1403,1450
+25.8,Fruit Salad,Egg Sandwich,Sushi,Burrito Bowl,Chicken Curry,Grilled Steak,Non-Veg,1619,1950
+29.2,Fruit Salad,Scrambled Eggs,Grilled Chicken Salad,Veggie Wrap,Tacos,Chicken Stir Fry,Non-Veg,1796,2100
+25.4,Egg Sandwich,Pancakes,Burrito Bowl,Veggie Wrap,Grilled Salmon,Stuffed Peppers,Non-Veg,1676,1900
+32.6,Yogurt,Avocado Toast,Veggie Wrap,Pasta Salad,Grilled Salmon,Chicken Curry,Non-Veg,1697,1850
+16.4,Cereal,Smoothie,Quinoa Salad,Sushi,Lentil Soup,Stuffed Peppers,Non-Veg,1407,2200
+21.6,Yogurt,Cereal,Sushi,Turkey Sandwich,Spaghetti,Veggie Burger,Veg,1323,1950
+29.3,Scrambled Eggs,Cereal,Burrito Bowl,Soup,Grilled Salmon,Chicken Stir Fry,Non-Veg,1783,2100
+18.1,Egg Sandwich,Yogurt,Turkey Sandwich,Quinoa Salad,Grilled Steak,Lentil Soup,Non-Veg,1386,2500
+21.3,Yogurt,Oatmeal,Quinoa Salad,Veggie Wrap,Grilled Steak,Chicken Stir Fry,Non-Veg,1663,1850
+33.2,Cereal,Fruit Salad,Sushi,Veggie Wrap,Grilled Steak,Grilled Salmon,Non-Veg,1374,1750
+17.9,Granola,Yogurt,Sushi,Chicken Wrap,Grilled Steak,Veggie Pizza,Non-Veg,1963,2650
+16.3,Yogurt,Avocado Toast,Chicken Wrap,Soup,Grilled Salmon,Spaghetti,Non-Veg,1311,2500
+20.8,Oatmeal,Granola,Quinoa Salad,Chicken Wrap,Stuffed Peppers,Lentil Soup,Non-Veg,1597,1950
+25.6,Smoothie,Cereal,Chicken Wrap,Soup,Spaghetti,Chicken Stir Fry,Non-Veg,1757,1900
+18.3,Pancakes,Fruit Salad,Quinoa Salad,Soup,Chicken Stir Fry,Veggie Pizza,Non-Veg,1293,2200
+18.9,Granola,Egg Sandwich,Soup,Burrito Bowl,Stuffed Peppers,Veggie Pizza,Non-Veg,1497,2150
+16.3,Pancakes,Cereal,Soup,Veggie Wrap,Stuffed Peppers,Tacos,Non-Veg,2049,2350
+33.7,Fruit Salad,Cereal,Pasta Salad,Veggie Wrap,Grilled Salmon,Chicken Stir Fry,Non-Veg,1291,1300
+16.6,Smoothie,Cereal,Burrito Bowl,Sushi,Stuffed Peppers,Grilled Steak,Non-Veg,1596,2550
+15.0,Granola,Egg Sandwich,Turkey Sandwich,Veggie Wrap,Stuffed Peppers,Grilled Salmon,Non-Veg,1858,2650
+22.9,Avocado Toast,Smoothie,Soup,Pasta Salad,Grilled Steak,Veggie Burger,Non-Veg,1409,2000
+28.1,Fruit Salad,Cereal,Quinoa Salad,Burrito Bowl,Spaghetti,Veggie Burger,Veg,1575,1800
+17.7,Avocado Toast,Pancakes,Chicken Wrap,Vegetable Stir Fry,Lentil Soup,Chicken Curry,Non-Veg,1535,2550
+18.0,Cereal,Scrambled Eggs,Veggie Wrap,Quinoa Salad,Veggie Pizza,Veggie Burger,Non-Veg,1973,2400
+17.4,Smoothie,Egg Sandwich,Soup,Quinoa Salad,Tacos,Veggie Pizza,Non-Veg,1505,2450
+27.7,Pancakes,Oatmeal,Veggie Wrap,Sushi,Grilled Steak,Tacos,Non-Veg,1649,1750
+17.9,Smoothie,Pancakes,Turkey Sandwich,Pasta Salad,Veggie Burger,Veggie Pizza,Veg,1793,2550
+25.2,Cereal,Pancakes,Quinoa Salad,Pasta Salad,Tacos,Grilled Salmon,Non-Veg,1345,1800
+18.5,Smoothie,Scrambled Eggs,Veggie Wrap,Sushi,Lentil Soup,Veggie Pizza,Non-Veg,1368,2250
+31.0,Fruit Salad,Scrambled Eggs,Soup,Pasta Salad,Veggie Pizza,Lentil Soup,Non-Veg,1317,1550
+32.9,Cereal,Granola,Turkey Sandwich,Vegetable Stir Fry,Lentil Soup,Chicken Curry,Non-Veg,1912,2150
+15.6,Egg Sandwich,Fruit Salad,Turkey Sandwich,Vegetable Stir Fry,Tacos,Lentil Soup,Non-Veg,1383,2350
+31.8,Smoothie,Fruit Salad,Vegetable Stir Fry,Turkey Sandwich,Veggie Burger,Chicken Stir Fry,Non-Veg,1575,1750
+33.2,Oatmeal,Egg Sandwich,Veggie Wrap,Grilled Chicken Salad,Stuffed Peppers,Tacos,Non-Veg,1481,1700
+24.0,Egg Sandwich,Yogurt,Grilled Chicken Salad,Soup,Chicken Curry,Grilled Salmon,Non-Veg,1427,1950
+33.8,Avocado Toast,Oatmeal,Turkey Sandwich,Quinoa Salad,Lentil Soup,Veggie Pizza,Non-Veg,1444,1600
+26.4,Avocado Toast,Egg Sandwich,Pasta Salad,Grilled Chicken Salad,Tacos,Veggie Burger,Non-Veg,1499,1900
+24.6,Scrambled Eggs,Egg Sandwich,Burrito Bowl,Quinoa Salad,Grilled Steak,Tacos,Non-Veg,1272,2300
+26.4,Egg Sandwich,Fruit Salad,Chicken Wrap,Burrito Bowl,Tacos,Stuffed Peppers,Non-Veg,1582,1900
+16.4,Cereal,Egg Sandwich,Quinoa Salad,Soup,Spaghetti,Veggie Pizza,Non-Veg,1556,2500
+15.5,Yogurt,Cereal,Vegetable Stir Fry,Burrito Bowl,Veggie Burger,Tacos,Non-Veg,1317,2500
+32.5,Yogurt,Egg Sandwich,Soup,Sushi,Veggie Pizza,Spaghetti,Non-Veg,1482,1550
+25.1,Oatmeal,Granola,Vegetable Stir Fry,Chicken Wrap,Stuffed Peppers,Veggie Burger,Non-Veg,1910,2100
+25.5,Yogurt,Pancakes,Burrito Bowl,Chicken Wrap,Stuffed Peppers,Grilled Steak,Non-Veg,1856,1950
+30.2,Egg Sandwich,Fruit Salad,Vegetable Stir Fry,Sushi,Grilled Salmon,Veggie Pizza,Non-Veg,1630,2000
+22.9,Fruit Salad,Cereal,Grilled Chicken Salad,Sushi,Grilled Steak,Stuffed Peppers,Non-Veg,1418,1800
+19.4,Egg Sandwich,Yogurt,Grilled Chicken Salad,Vegetable Stir Fry,Grilled Salmon,Spaghetti,Non-Veg,1340,2000
+21.2,Smoothie,Pancakes,Pasta Salad,Soup,Veggie Burger,Grilled Salmon,Non-Veg,1428,1900
+17.4,Fruit Salad,Smoothie,Soup,Burrito Bowl,Lentil Soup,Grilled Salmon,Non-Veg,1617,2250
+21.1,Fruit Salad,Scrambled Eggs,Grilled Chicken Salad,Veggie Wrap,Chicken Stir Fry,Veggie Burger,Non-Veg,1859,2250
+21.6,Oatmeal,Pancakes,Soup,Grilled Chicken Salad,Grilled Salmon,Stuffed Peppers,Non-Veg,1444,1750
+30.8,Granola,Yogurt,Sushi,Soup,Grilled Salmon,Spaghetti,Non-Veg,2116,2250
+29.6,Scrambled Eggs,Cereal,Turkey Sandwich,Grilled Chicken Salad,Chicken Curry,Stuffed Peppers,Non-Veg,1896,2100
+33.4,Avocado Toast,Egg Sandwich,Veggie Wrap,Grilled Chicken Salad,Tacos,Grilled Steak,Non-Veg,1497,1700
+16.6,Yogurt,Egg Sandwich,Burrito Bowl,Sushi,Veggie Pizza,Stuffed Peppers,Non-Veg,1761,2500
+34.0,Pancakes,Oatmeal,Grilled Chicken Salad,Turkey Sandwich,Chicken Curry,Grilled Steak,Non-Veg,1615,1650
+34.1,Granola,Egg Sandwich,Quinoa Salad,Pasta Salad,Veggie Burger,Lentil Soup,Non-Veg,1289,1600
+19.2,Yogurt,Oatmeal,Sushi,Chicken Wrap,Spaghetti,Veggie Burger,Non-Veg,1387,1950
+27.1,Avocado Toast,Scrambled Eggs,Sushi,Veggie Wrap,Grilled Steak,Chicken Curry,Non-Veg,1673,1850
+16.8,Fruit Salad,Cereal,Soup,Veggie Wrap,Stuffed Peppers,Grilled Steak,Non-Veg,1554,2250
+24.6,Avocado Toast,Cereal,Sushi,Quinoa Salad,Lentil Soup,Veggie Pizza,Veg,1335,1800
+30.5,Scrambled Eggs,Oatmeal,Quinoa Salad,Chicken Wrap,Lentil Soup,Grilled Salmon,Non-Veg,1582,1950
+22.2,Scrambled Eggs,Egg Sandwich,Vegetable Stir Fry,Burrito Bowl,Chicken Stir Fry,Grilled Steak,Non-Veg,1820,2150
+20.4,Granola,Yogurt,Burrito Bowl,Vegetable Stir Fry,Lentil Soup,Spaghetti,Veg,1440,2100
+32.6,Egg Sandwich,Cereal,Sushi,Burrito Bowl,Chicken Curry,Stuffed Peppers,Non-Veg,1511,1650
+27.4,Cereal,Smoothie,Grilled Chicken Salad,Pasta Salad,Chicken Stir Fry,Spaghetti,Non-Veg,1518,1750
+25.7,Fruit Salad,Oatmeal,Burrito Bowl,Pasta Salad,Chicken Curry,Veggie Burger,Non-Veg,1694,1800
+31.3,Oatmeal,Cereal,Soup,Quinoa Salad,Grilled Salmon,Lentil Soup,Non-Veg,1373,1650
+17.7,Fruit Salad,Pancakes,Chicken Wrap,Grilled Chicken Salad,Lentil Soup,Grilled Salmon,Non-Veg,1713,2350
+32.2,Granola,Pancakes,Pasta Salad,Veggie Wrap,Chicken Stir Fry,Grilled Salmon,Non-Veg,1353,1600
+15.2,Yogurt,Smoothie,Soup,Pasta Salad,Grilled Steak,Spaghetti,Non-Veg,1493,2500
+15.7,Pancakes,Smoothie,Pasta Salad,Quinoa Salad,Tacos,Stuffed Peppers,Non-Veg,1388,2500
+29.8,Granola,Oatmeal,Grilled Chicken Salad,Vegetable Stir Fry,Stuffed Peppers,Chicken Curry,Non-Veg,2086,2200
+24.1,Oatmeal,Yogurt,Vegetable Stir Fry,Grilled Chicken Salad,Grilled Steak,Lentil Soup,Non-Veg,1809,2250
+17.2,Smoothie,Scrambled Eggs,Soup,Vegetable Stir Fry,Lentil Soup,Chicken Curry,Non-Veg,1810,2250
+25.8,Avocado Toast,Scrambled Eggs,Turkey Sandwich,Chicken Wrap,Grilled Salmon,Chicken Curry,Non-Veg,1724,1950
+25.6,Egg Sandwich,Granola,Soup,Vegetable Stir Fry,Spaghetti,Veggie Pizza,Non-Veg,1408,1850
+19.4,Cereal,Scrambled Eggs,Grilled Chicken Salad,Veggie Wrap,Veggie Burger,Chicken Stir Fry,Non-Veg,1478,1850
+33.2,Pancakes,Egg Sandwich,Quinoa Salad,Grilled Chicken Salad,Tacos,Chicken Stir Fry,Non-Veg,1881,1900
+25.0,Cereal,Oatmeal,Veggie Wrap,Quinoa Salad,Spaghetti,Chicken Curry,Non-Veg,1961,2000
+27.3,Cereal,Fruit Salad,Sushi,Turkey Sandwich,Chicken Stir Fry,Spaghetti,Non-Veg,1295,1600
+20.0,Smoothie,Avocado Toast,Chicken Wrap,Pasta Salad,Tacos,Stuffed Peppers,Non-Veg,1461,2100
+33.1,Fruit Salad,Granola,Turkey Sandwich,Chicken Wrap,Stuffed Peppers,Chicken Curry,Non-Veg,1588,1650
+32.9,Yogurt,Cereal,Quinoa Salad,Chicken Wrap,Chicken Curry,Grilled Steak,Non-Veg,1521,1650
+29.2,Cereal,Fruit Salad,Burrito Bowl,Veggie Wrap,Grilled Steak,Stuffed Peppers,Non-Veg,1749,1750
+16.3,Smoothie,Fruit Salad,Pasta Salad,Vegetable Stir Fry,Grilled Steak,Veggie Burger,Non-Veg,1691,2400
+22.1,Granola,Cereal,Chicken Wrap,Pasta Salad,Chicken Stir Fry,Grilled Steak,Non-Veg,1692,2250
+29.5,Fruit Salad,Scrambled Eggs,Grilled Chicken Salad,Quinoa Salad,Chicken Curry,Tacos,Non-Veg,1310,1700
+24.0,Scrambled Eggs,Fruit Salad,Veggie Wrap,Grilled Chicken Salad,Veggie Burger,Tacos,Non-Veg,1582,1850
+21.5,Smoothie,Scrambled Eggs,Pasta Salad,Vegetable Stir Fry,Lentil Soup,Chicken Stir Fry,Non-Veg,1446,1750
+31.8,Fruit Salad,Granola,Grilled Chicken Salad,Chicken Wrap,Grilled Salmon,Stuffed Peppers,Non-Veg,1673,1700
+34.0,Yogurt,Egg Sandwich,Veggie Wrap,Soup,Grilled Steak,Tacos,Non-Veg,1453,1500
+27.4,Oatmeal,Pancakes,Burrito Bowl,Grilled Chicken Salad,Tacos,Grilled Steak,Non-Veg,1642,1950
+28.8,Smoothie,Egg Sandwich,Sushi,Quinoa Salad,Grilled Steak,Tacos,Non-Veg,1871,2200
+17.1,Avocado Toast,Scrambled Eggs,Pasta Salad,Vegetable Stir Fry,Tacos,Veggie Burger,Non-Veg,1688,2500
+17.2,Smoothie,Cereal,Vegetable Stir Fry,Sushi,Stuffed Peppers,Veggie Burger,Veg,1742,2250
+34.0,Pancakes,Smoothie,Chicken Wrap,Soup,Chicken Stir Fry,Veggie Burger,Non-Veg,1386,1400
+22.9,Pancakes,Granola,Veggie Wrap,Sushi,Chicken Stir Fry,Veggie Burger,Non-Veg,1536,2000
+34.8,Granola,Smoothie,Vegetable Stir Fry,Veggie Wrap,Chicken Curry,Tacos,Non-Veg,1561,1650
+25.5,Oatmeal,Egg Sandwich,Pasta Salad,Quinoa Salad,Stuffed Peppers,Grilled Salmon,Non-Veg,1701,1850
+27.5,Pancakes,Cereal,Vegetable Stir Fry,Burrito Bowl,Lentil Soup,Veggie Pizza,Veg,1412,1700
+26.4,Smoothie,Avocado Toast,Veggie Wrap,Turkey Sandwich,Tacos,Veggie Pizza,Non-Veg,1595,1800
+17.9,Smoothie,Granola,Quinoa Salad,Grilled Chicken Salad,Veggie Burger,Tacos,Non-Veg,1650,2600
+17.9,Pancakes,Granola,Burrito Bowl,Veggie Wrap,Grilled Steak,Stuffed Peppers,Non-Veg,1254,2800
+28.6,Egg Sandwich,Granola,Grilled Chicken Salad,Sushi,Chicken Stir Fry,Veggie Burger,Non-Veg,1461,1800
+25.1,Fruit Salad,Scrambled Eggs,Veggie Wrap,Pasta Salad,Stuffed Peppers,Lentil Soup,Non-Veg,1294,1450
+24.5,Granola,Pancakes,Turkey Sandwich,Quinoa Salad,Stuffed Peppers,Lentil Soup,Non-Veg,1779,2000
+15.2,Fruit Salad,Scrambled Eggs,Veggie Wrap,Pasta Salad,Tacos,Veggie Pizza,Non-Veg,1279,2400
+29.4,Pancakes,Granola,Burrito Bowl,Quinoa Salad,Veggie Burger,Spaghetti,Non-Veg,1954,2100
+16.7,Smoothie,Oatmeal,Turkey Sandwich,Sushi,Veggie Pizza,Tacos,Non-Veg,1841,2400
+25.9,Smoothie,Egg Sandwich,Burrito Bowl,Soup,Spaghetti,Veggie Pizza,Non-Veg,1888,1900
+20.7,Egg Sandwich,Smoothie,Sushi,Veggie Wrap,Veggie Pizza,Tacos,Non-Veg,1591,2000
+18.9,Yogurt,Egg Sandwich,Soup,Pasta Salad,Tacos,Stuffed Peppers,Non-Veg,1813,1900
+15.8,Avocado Toast,Scrambled Eggs,Sushi,Pasta Salad,Chicken Curry,Lentil Soup,Non-Veg,1465,2450
+27.8,Cereal,Oatmeal,Grilled Chicken Salad,Pasta Salad,Stuffed Peppers,Spaghetti,Non-Veg,1208,1700
+30.4,Smoothie,Egg Sandwich,Vegetable Stir Fry,Grilled Chicken Salad,Lentil Soup,Tacos,Non-Veg,1970,2250
+16.9,Pancakes,Yogurt,Chicken Wrap,Sushi,Stuffed Peppers,Veggie Pizza,Non-Veg,1650,2400
+15.2,Yogurt,Scrambled Eggs,Vegetable Stir Fry,Sushi,Grilled Steak,Spaghetti,Non-Veg,2013,2450
+17.9,Egg Sandwich,Scrambled Eggs,Sushi,Soup,Chicken Curry,Veggie Pizza,Non-Veg,1516,2450
+27.1,Pancakes,Oatmeal,Burrito Bowl,Soup,Veggie Pizza,Veggie Burger,Non-Veg,1287,1700
+27.3,Egg Sandwich,Pancakes,Quinoa Salad,Turkey Sandwich,Veggie Pizza,Veggie Burger,Non-Veg,2036,2250
+33.1,Cereal,Smoothie,Turkey Sandwich,Grilled Chicken Salad,Chicken Curry,Chicken Stir Fry,Non-Veg,1480,1500
+19.8,Egg Sandwich,Pancakes,Burrito Bowl,Vegetable Stir Fry,Chicken Stir Fry,Veggie Pizza,Non-Veg,1656,2100
+30.0,Pancakes,Yogurt,Grilled Chicken Salad,Sushi,Veggie Pizza,Veggie Burger,Non-Veg,1593,1700
+22.9,Egg Sandwich,Cereal,Sushi,Chicken Wrap,Veggie Pizza,Tacos,Non-Veg,1199,2100
+21.0,Egg Sandwich,Cereal,Chicken Wrap,Turkey Sandwich,Veggie Burger,Stuffed Peppers,Non-Veg,1891,2100
+26.0,Smoothie,Scrambled Eggs,Soup,Sushi,Grilled Steak,Veggie Pizza,Non-Veg,1704,1850
+34.5,Smoothie,Egg Sandwich,Vegetable Stir Fry,Soup,Stuffed Peppers,Grilled Steak,Non-Veg,1467,1900
+24.7,Oatmeal,Granola,Veggie Wrap,Pasta Salad,Veggie Pizza,Stuffed Peppers,Veg,1880,2000
+20.1,Egg Sandwich,Cereal,Burrito Bowl,Pasta Salad,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1278,2100
+33.6,Cereal,Granola,Vegetable Stir Fry,Turkey Sandwich,Grilled Salmon,Chicken Curry,Non-Veg,1770,2100
+26.1,Granola,Cereal,Soup,Chicken Wrap,Veggie Burger,Chicken Stir Fry,Non-Veg,1388,1750
+31.1,Scrambled Eggs,Pancakes,Quinoa Salad,Vegetable Stir Fry,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1823,2000
+23.7,Cereal,Granola,Chicken Wrap,Sushi,Veggie Pizza,Veggie Burger,Non-Veg,1614,2100
+32.7,Pancakes,Smoothie,Grilled Chicken Salad,Chicken Wrap,Veggie Burger,Tacos,Non-Veg,1670,2000
+26.0,Egg Sandwich,Cereal,Burrito Bowl,Pasta Salad,Grilled Steak,Chicken Curry,Non-Veg,1462,2150
+19.1,Scrambled Eggs,Avocado Toast,Turkey Sandwich,Burrito Bowl,Veggie Burger,Chicken Curry,Non-Veg,1249,2250
+22.5,Yogurt,Egg Sandwich,Grilled Chicken Salad,Turkey Sandwich,Stuffed Peppers,Grilled Steak,Non-Veg,1992,2050
+15.1,Granola,Cereal,Soup,Grilled Chicken Salad,Veggie Pizza,Tacos,Non-Veg,1679,2500
+24.7,Fruit Salad,Oatmeal,Veggie Wrap,Grilled Chicken Salad,Veggie Pizza,Grilled Steak,Non-Veg,1772,1850
+17.0,Smoothie,Yogurt,Chicken Wrap,Veggie Wrap,Veggie Burger,Spaghetti,Non-Veg,1431,2550
+27.4,Oatmeal,Yogurt,Chicken Wrap,Pasta Salad,Chicken Stir Fry,Grilled Steak,Non-Veg,1298,1750
+26.7,Scrambled Eggs,Granola,Grilled Chicken Salad,Vegetable Stir Fry,Chicken Stir Fry,Spaghetti,Non-Veg,1605,1800
+16.7,Granola,Scrambled Eggs,Vegetable Stir Fry,Soup,Lentil Soup,Grilled Salmon,Non-Veg,1499,2300
+17.2,Oatmeal,Smoothie,Grilled Chicken Salad,Burrito Bowl,Spaghetti,Veggie Pizza,Non-Veg,1602,2600
+19.5,Smoothie,Avocado Toast,Turkey Sandwich,Sushi,Lentil Soup,Stuffed Peppers,Veg,1531,1800
+24.7,Cereal,Granola,Sushi,Chicken Wrap,Veggie Burger,Stuffed Peppers,Non-Veg,1533,2050
+15.8,Oatmeal,Avocado Toast,Burrito Bowl,Vegetable Stir Fry,Grilled Salmon,Chicken Stir Fry,Non-Veg,1857,2450
+17.0,Smoothie,Yogurt,Chicken Wrap,Pasta Salad,Tacos,Stuffed Peppers,Non-Veg,1376,2500
+15.3,Egg Sandwich,Scrambled Eggs,Turkey Sandwich,Quinoa Salad,Veggie Pizza,Veggie Burger,Non-Veg,1436,2550
+26.2,Oatmeal,Scrambled Eggs,Quinoa Salad,Pasta Salad,Chicken Curry,Spaghetti,Non-Veg,1850,1850
+18.7,Scrambled Eggs,Smoothie,Pasta Salad,Chicken Wrap,Grilled Steak,Veggie Burger,Non-Veg,1542,2150
+15.5,Pancakes,Scrambled Eggs,Pasta Salad,Grilled Chicken Salad,Veggie Pizza,Tacos,Non-Veg,1452,2550
+33.6,Granola,Scrambled Eggs,Quinoa Salad,Pasta Salad,Grilled Salmon,Grilled Steak,Non-Veg,1425,1700
+27.1,Egg Sandwich,Yogurt,Soup,Turkey Sandwich,Grilled Steak,Chicken Stir Fry,Non-Veg,1350,1700
+15.6,Fruit Salad,Smoothie,Soup,Turkey Sandwich,Chicken Curry,Grilled Salmon,Non-Veg,1451,2350
+19.9,Cereal,Fruit Salad,Pasta Salad,Chicken Wrap,Veggie Pizza,Grilled Salmon,Non-Veg,1734,1950
+17.7,Scrambled Eggs,Pancakes,Soup,Grilled Chicken Salad,Veggie Pizza,Stuffed Peppers,Non-Veg,1989,2300
+19.1,Oatmeal,Granola,Grilled Chicken Salad,Chicken Wrap,Veggie Pizza,Chicken Stir Fry,Non-Veg,1821,2050
+18.1,Fruit Salad,Oatmeal,Chicken Wrap,Burrito Bowl,Lentil Soup,Grilled Steak,Non-Veg,1367,2500
+28.2,Cereal,Granola,Burrito Bowl,Chicken Wrap,Veggie Burger,Spaghetti,Non-Veg,1391,2150
+15.1,Granola,Oatmeal,Vegetable Stir Fry,Grilled Chicken Salad,Veggie Pizza,Grilled Salmon,Non-Veg,1568,2450
+17.9,Scrambled Eggs,Egg Sandwich,Grilled Chicken Salad,Burrito Bowl,Chicken Curry,Veggie Burger,Non-Veg,1759,2750
+35.0,Egg Sandwich,Cereal,Chicken Wrap,Pasta Salad,Chicken Curry,Tacos,Non-Veg,1684,1800
+18.0,Cereal,Pancakes,Chicken Wrap,Pasta Salad,Chicken Curry,Tacos,Non-Veg,1420,2750
+34.7,Cereal,Fruit Salad,Quinoa Salad,Grilled Chicken Salad,Veggie Burger,Spaghetti,Non-Veg,1647,1700
+32.0,Smoothie,Avocado Toast,Grilled Chicken Salad,Pasta Salad,Lentil Soup,Spaghetti,Non-Veg,1813,2000
+34.0,Egg Sandwich,Yogurt,Burrito Bowl,Grilled Chicken Salad,Chicken Stir Fry,Grilled Salmon,Non-Veg,1315,1550
+32.4,Avocado Toast,Yogurt,Vegetable Stir Fry,Chicken Wrap,Lentil Soup,Grilled Salmon,Non-Veg,1414,1750
+15.9,Fruit Salad,Scrambled Eggs,Veggie Wrap,Burrito Bowl,Lentil Soup,Spaghetti,Non-Veg,1598,2450
+27.1,Pancakes,Cereal,Grilled Chicken Salad,Veggie Wrap,Lentil Soup,Grilled Steak,Non-Veg,1364,1700
+25.2,Egg Sandwich,Pancakes,Soup,Burrito Bowl,Grilled Steak,Veggie Pizza,Non-Veg,1269,1950
+18.0,Oatmeal,Scrambled Eggs,Pasta Salad,Grilled Chicken Salad,Tacos,Veggie Pizza,Non-Veg,1509,2450
+28.6,Pancakes,Cereal,Burrito Bowl,Sushi,Stuffed Peppers,Lentil Soup,Veg,1592,1650
+32.2,Cereal,Fruit Salad,Pasta Salad,Grilled Chicken Salad,Tacos,Grilled Steak,Non-Veg,1354,1500
+34.8,Scrambled Eggs,Yogurt,Pasta Salad,Grilled Chicken Salad,Lentil Soup,Chicken Curry,Non-Veg,1669,1850
+15.7,Scrambled Eggs,Oatmeal,Quinoa Salad,Chicken Wrap,Chicken Stir Fry,Grilled Steak,Non-Veg,2003,2500
+31.6,Fruit Salad,Pancakes,Soup,Sushi,Lentil Soup,Chicken Curry,Non-Veg,1892,2050
+28.3,Egg Sandwich,Oatmeal,Quinoa Salad,Chicken Wrap,Veggie Pizza,Chicken Curry,Non-Veg,1963,2250
+23.6,Avocado Toast,Fruit Salad,Quinoa Salad,Vegetable Stir Fry,Chicken Stir Fry,Veggie Burger,Non-Veg,1766,2000
+15.8,Yogurt,Smoothie,Vegetable Stir Fry,Veggie Wrap,Chicken Curry,Tacos,Non-Veg,1492,2450
+30.8,Pancakes,Yogurt,Burrito Bowl,Veggie Wrap,Spaghetti,Stuffed Peppers,Veg,1760,1800
+34.0,Smoothie,Yogurt,Burrito Bowl,Vegetable Stir Fry,Tacos,Veggie Pizza,Veg,1360,1500
+17.8,Egg Sandwich,Oatmeal,Soup,Veggie Wrap,Chicken Curry,Veggie Pizza,Non-Veg,1460,2450
+16.3,Fruit Salad,Pancakes,Soup,Burrito Bowl,Spaghetti,Grilled Salmon,Non-Veg,1464,2500
+27.5,Egg Sandwich,Scrambled Eggs,Veggie Wrap,Vegetable Stir Fry,Spaghetti,Stuffed Peppers,Non-Veg,1589,1750
+15.1,Cereal,Yogurt,Vegetable Stir Fry,Soup,Grilled Steak,Lentil Soup,Non-Veg,1597,2200
+15.6,Fruit Salad,Yogurt,Quinoa Salad,Grilled Chicken Salad,Grilled Steak,Veggie Pizza,Non-Veg,2064,2350
+22.7,Egg Sandwich,Fruit Salad,Burrito Bowl,Sushi,Chicken Curry,Grilled Salmon,Non-Veg,1526,2100
+30.7,Scrambled Eggs,Oatmeal,Turkey Sandwich,Sushi,Spaghetti,Tacos,Non-Veg,1311,1500
+22.7,Avocado Toast,Yogurt,Grilled Chicken Salad,Chicken Wrap,Grilled Steak,Chicken Stir Fry,Non-Veg,1452,2050
+28.9,Oatmeal,Cereal,Sushi,Turkey Sandwich,Spaghetti,Chicken Stir Fry,Non-Veg,1285,1650
+19.9,Smoothie,Yogurt,Quinoa Salad,Turkey Sandwich,Stuffed Peppers,Veggie Pizza,Non-Veg,1418,1850
+16.9,Smoothie,Fruit Salad,Grilled Chicken Salad,Veggie Wrap,Lentil Soup,Chicken Stir Fry,Non-Veg,1717,2150
+17.1,Smoothie,Avocado Toast,Burrito Bowl,Vegetable Stir Fry,Lentil Soup,Veggie Pizza,Veg,1154,2450
+31.7,Granola,Avocado Toast,Vegetable Stir Fry,Burrito Bowl,Tacos,Veggie Burger,Veg,1865,2050
+34.6,Avocado Toast,Egg Sandwich,Turkey Sandwich,Pasta Salad,Spaghetti,Grilled Salmon,Non-Veg,1402,1750
+22.1,Smoothie,Yogurt,Pasta Salad,Quinoa Salad,Chicken Curry,Lentil Soup,Non-Veg,1784,1900
+15.3,Avocado Toast,Egg Sandwich,Soup,Pasta Salad,Stuffed Peppers,Grilled Salmon,Non-Veg,1539,2450
+19.2,Avocado Toast,Fruit Salad,Burrito Bowl,Sushi,Spaghetti,Chicken Stir Fry,Non-Veg,1460,2000
+15.6,Yogurt,Avocado Toast,Vegetable Stir Fry,Grilled Chicken Salad,Stuffed Peppers,Grilled Steak,Non-Veg,1275,2400
+17.7,Yogurt,Oatmeal,Vegetable Stir Fry,Soup,Chicken Stir Fry,Veggie Pizza,Non-Veg,1500,2100
+26.1,Yogurt,Avocado Toast,Sushi,Chicken Wrap,Chicken Stir Fry,Chicken Curry,Non-Veg,1705,1750
+31.5,Scrambled Eggs,Fruit Salad,Soup,Pasta Salad,Spaghetti,Stuffed Peppers,Non-Veg,1912,1950
+33.0,Oatmeal,Egg Sandwich,Grilled Chicken Salad,Veggie Wrap,Lentil Soup,Grilled Salmon,Non-Veg,1342,1350
+16.2,Egg Sandwich,Cereal,Soup,Pasta Salad,Veggie Pizza,Spaghetti,Non-Veg,1646,2550
+15.4,Smoothie,Cereal,Burrito Bowl,Quinoa Salad,Tacos,Grilled Salmon,Non-Veg,1698,2600
+31.2,Yogurt,Avocado Toast,Veggie Wrap,Vegetable Stir Fry,Veggie Burger,Veggie Pizza,Veg,1605,1700
+32.4,Oatmeal,Egg Sandwich,Turkey Sandwich,Quinoa Salad,Veggie Burger,Grilled Salmon,Non-Veg,1433,1500
+20.1,Fruit Salad,Cereal,Grilled Chicken Salad,Turkey Sandwich,Veggie Pizza,Chicken Stir Fry,Non-Veg,1501,1800
+17.4,Avocado Toast,Scrambled Eggs,Sushi,Vegetable Stir Fry,Stuffed Peppers,Spaghetti,Non-Veg,1316,2400
+21.8,Scrambled Eggs,Oatmeal,Veggie Wrap,Chicken Wrap,Grilled Salmon,Spaghetti,Non-Veg,1461,2050
+27.8,Egg Sandwich,Pancakes,Grilled Chicken Salad,Burrito Bowl,Tacos,Stuffed Peppers,Non-Veg,1536,1950
+27.5,Yogurt,Granola,Vegetable Stir Fry,Grilled Chicken Salad,Stuffed Peppers,Tacos,Non-Veg,1429,1700
+18.5,Egg Sandwich,Smoothie,Chicken Wrap,Grilled Chicken Salad,Grilled Salmon,Chicken Stir Fry,Non-Veg,1578,2550
+34.9,Granola,Cereal,Vegetable Stir Fry,Burrito Bowl,Spaghetti,Lentil Soup,Veg,1873,2000
+27.2,Egg Sandwich,Fruit Salad,Vegetable Stir Fry,Burrito Bowl,Chicken Curry,Veggie Burger,Non-Veg,1418,1850
+33.1,Granola,Avocado Toast,Veggie Wrap,Burrito Bowl,Lentil Soup,Spaghetti,Veg,1376,1750
+29.2,Fruit Salad,Avocado Toast,Soup,Burrito Bowl,Spaghetti,Grilled Salmon,Non-Veg,1317,1750
+18.4,Avocado Toast,Granola,Chicken Wrap,Turkey Sandwich,Veggie Pizza,Grilled Salmon,Non-Veg,1771,2750
+31.0,Yogurt,Oatmeal,Burrito Bowl,Vegetable Stir Fry,Stuffed Peppers,Grilled Salmon,Non-Veg,1417,1850
+26.5,Oatmeal,Smoothie,Burrito Bowl,Veggie Wrap,Grilled Steak,Veggie Burger,Non-Veg,1280,1850
+20.8,Cereal,Pancakes,Sushi,Quinoa Salad,Veggie Pizza,Grilled Steak,Non-Veg,1658,2000
+25.8,Oatmeal,Fruit Salad,Turkey Sandwich,Grilled Chicken Salad,Lentil Soup,Chicken Curry,Non-Veg,1760,2050
+30.0,Smoothie,Granola,Veggie Wrap,Quinoa Salad,Tacos,Spaghetti,Non-Veg,1354,1700
+18.5,Smoothie,Fruit Salad,Sushi,Veggie Wrap,Tacos,Veggie Pizza,Non-Veg,1345,1800
+25.4,Fruit Salad,Scrambled Eggs,Vegetable Stir Fry,Sushi,Grilled Steak,Spaghetti,Non-Veg,1505,1650
+20.0,Granola,Oatmeal,Vegetable Stir Fry,Sushi,Veggie Burger,Grilled Steak,Non-Veg,1232,2000
+21.7,Cereal,Granola,Veggie Wrap,Burrito Bowl,Spaghetti,Chicken Curry,Non-Veg,1448,2400
+34.5,Yogurt,Smoothie,Pasta Salad,Turkey Sandwich,Tacos,Stuffed Peppers,Veg,1525,1750
+29.2,Oatmeal,Egg Sandwich,Vegetable Stir Fry,Pasta Salad,Spaghetti,Veggie Burger,Non-Veg,1644,1800
+16.1,Oatmeal,Scrambled Eggs,Quinoa Salad,Turkey Sandwich,Lentil Soup,Chicken Stir Fry,Non-Veg,1395,2250
+24.4,Oatmeal,Pancakes,Veggie Wrap,Turkey Sandwich,Veggie Pizza,Chicken Stir Fry,Non-Veg,1491,1900
+31.0,Smoothie,Egg Sandwich,Soup,Veggie Wrap,Tacos,Lentil Soup,Non-Veg,2043,2100
+22.3,Yogurt,Egg Sandwich,Burrito Bowl,Chicken Wrap,Chicken Stir Fry,Chicken Curry,Non-Veg,1373,2250
+32.2,Granola,Fruit Salad,Veggie Wrap,Soup,Grilled Steak,Chicken Stir Fry,Non-Veg,2082,2150
+18.3,Smoothie,Oatmeal,Sushi,Vegetable Stir Fry,Chicken Curry,Chicken Stir Fry,Non-Veg,1375,2300
+20.0,Granola,Oatmeal,Grilled Chicken Salad,Sushi,Veggie Pizza,Grilled Salmon,Non-Veg,1579,1950
+32.0,Avocado Toast,Smoothie,Soup,Grilled Chicken Salad,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1887,2200
+33.9,Granola,Pancakes,Soup,Vegetable Stir Fry,Spaghetti,Veggie Pizza,Non-Veg,1437,1550
+33.9,Scrambled Eggs,Oatmeal,Vegetable Stir Fry,Soup,Grilled Steak,Veggie Burger,Non-Veg,1416,1550
+30.9,Scrambled Eggs,Egg Sandwich,Vegetable Stir Fry,Soup,Spaghetti,Lentil Soup,Non-Veg,1620,1650
+32.1,Cereal,Pancakes,Soup,Pasta Salad,Grilled Steak,Chicken Stir Fry,Non-Veg,1989,2300
+17.0,Avocado Toast,Fruit Salad,Sushi,Chicken Wrap,Stuffed Peppers,Grilled Steak,Non-Veg,1581,2450
+16.3,Pancakes,Cereal,Soup,Quinoa Salad,Veggie Pizza,Grilled Salmon,Non-Veg,1308,2350
+33.5,Egg Sandwich,Avocado Toast,Soup,Vegetable Stir Fry,Veggie Pizza,Tacos,Non-Veg,1555,1700
+16.2,Avocado Toast,Fruit Salad,Chicken Wrap,Vegetable Stir Fry,Grilled Steak,Lentil Soup,Non-Veg,1514,2400
+25.3,Cereal,Smoothie,Turkey Sandwich,Sushi,Spaghetti,Chicken Curry,Non-Veg,1345,1850
+18.1,Cereal,Egg Sandwich,Chicken Wrap,Vegetable Stir Fry,Spaghetti,Tacos,Non-Veg,1623,2700
+22.2,Granola,Fruit Salad,Soup,Quinoa Salad,Tacos,Veggie Burger,Veg,1405,1900
+28.1,Avocado Toast,Oatmeal,Vegetable Stir Fry,Pasta Salad,Spaghetti,Stuffed Peppers,Non-Veg,1881,2100
+31.1,Egg Sandwich,Granola,Quinoa Salad,Vegetable Stir Fry,Grilled Steak,Lentil Soup,Non-Veg,1638,2000
+21.5,Fruit Salad,Egg Sandwich,Soup,Quinoa Salad,Veggie Burger,Veggie Pizza,Non-Veg,1388,1800
+21.7,Oatmeal,Avocado Toast,Sushi,Veggie Wrap,Grilled Steak,Chicken Curry,Non-Veg,1480,2050
+21.2,Egg Sandwich,Smoothie,Sushi,Quinoa Salad,Grilled Salmon,Grilled Steak,Non-Veg,1750,2050
+34.2,Pancakes,Granola,Grilled Chicken Salad,Burrito Bowl,Stuffed Peppers,Grilled Steak,Non-Veg,1919,2000
+17.5,Fruit Salad,Granola,Grilled Chicken Salad,Quinoa Salad,Veggie Burger,Stuffed Peppers,Non-Veg,1343,2400
+19.6,Smoothie,Pancakes,Veggie Wrap,Sushi,Spaghetti,Chicken Stir Fry,Non-Veg,1686,1950
+20.2,Smoothie,Granola,Chicken Wrap,Soup,Tacos,Grilled Salmon,Non-Veg,1809,2100
+28.2,Avocado Toast,Scrambled Eggs,Quinoa Salad,Burrito Bowl,Stuffed Peppers,Grilled Steak,Non-Veg,1358,1900
+23.1,Smoothie,Oatmeal,Pasta Salad,Soup,Veggie Burger,Lentil Soup,Veg,1761,1850
+25.3,Egg Sandwich,Cereal,Soup,Burrito Bowl,Spaghetti,Grilled Steak,Non-Veg,1626,2000
+21.1,Scrambled Eggs,Egg Sandwich,Burrito Bowl,Chicken Wrap,Veggie Burger,Lentil Soup,Non-Veg,1345,2150
+27.6,Scrambled Eggs,Yogurt,Grilled Chicken Salad,Quinoa Salad,Chicken Curry,Stuffed Peppers,Non-Veg,1584,1650
+15.3,Yogurt,Cereal,Turkey Sandwich,Quinoa Salad,Stuffed Peppers,Spaghetti,Veg,1448,2450
+24.2,Pancakes,Scrambled Eggs,Burrito Bowl,Quinoa Salad,Veggie Pizza,Chicken Stir Fry,Non-Veg,1671,2050
+27.1,Granola,Avocado Toast,Vegetable Stir Fry,Veggie Wrap,Grilled Salmon,Tacos,Non-Veg,1738,1850
+20.3,Oatmeal,Scrambled Eggs,Vegetable Stir Fry,Sushi,Grilled Salmon,Grilled Steak,Non-Veg,2126,2300
+20.4,Smoothie,Oatmeal,Veggie Wrap,Turkey Sandwich,Spaghetti,Lentil Soup,Non-Veg,1821,1900
+33.7,Oatmeal,Avocado Toast,Grilled Chicken Salad,Pasta Salad,Tacos,Chicken Curry,Non-Veg,1716,1900
+22.2,Granola,Pancakes,Turkey Sandwich,Chicken Wrap,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1605,2150
+29.0,Avocado Toast,Cereal,Turkey Sandwich,Burrito Bowl,Chicken Curry,Veggie Pizza,Non-Veg,2000,2000
+33.8,Yogurt,Oatmeal,Sushi,Quinoa Salad,Grilled Steak,Chicken Curry,Non-Veg,1891,2200
+17.8,Granola,Egg Sandwich,Soup,Burrito Bowl,Spaghetti,Tacos,Non-Veg,1368,2850
+33.9,Cereal,Smoothie,Grilled Chicken Salad,Veggie Wrap,Chicken Curry,Grilled Salmon,Non-Veg,1419,1500
+21.7,Egg Sandwich,Oatmeal,Soup,Chicken Wrap,Tacos,Veggie Burger,Non-Veg,1473,2000
+24.5,Oatmeal,Pancakes,Pasta Salad,Chicken Wrap,Chicken Stir Fry,Lentil Soup,Non-Veg,1752,1900
+31.6,Pancakes,Scrambled Eggs,Grilled Chicken Salad,Sushi,Tacos,Lentil Soup,Non-Veg,1379,1650
+17.3,Egg Sandwich,Pancakes,Burrito Bowl,Quinoa Salad,Stuffed Peppers,Tacos,Non-Veg,1880,2700
+30.6,Granola,Pancakes,Sushi,Grilled Chicken Salad,Tacos,Lentil Soup,Non-Veg,1643,1750
+30.4,Smoothie,Oatmeal,Vegetable Stir Fry,Grilled Chicken Salad,Chicken Curry,Lentil Soup,Non-Veg,1615,1700
+25.6,Pancakes,Fruit Salad,Turkey Sandwich,Quinoa Salad,Chicken Curry,Stuffed Peppers,Non-Veg,1462,1700
+20.9,Oatmeal,Scrambled Eggs,Sushi,Vegetable Stir Fry,Grilled Salmon,Stuffed Peppers,Non-Veg,1689,1700
+25.5,Fruit Salad,Pancakes,Pasta Salad,Quinoa Salad,Grilled Steak,Chicken Stir Fry,Non-Veg,1480,1700
+18.7,Granola,Oatmeal,Pasta Salad,Vegetable Stir Fry,Veggie Burger,Chicken Curry,Non-Veg,1586,2100
+35.0,Oatmeal,Yogurt,Soup,Grilled Chicken Salad,Chicken Curry,Lentil Soup,Non-Veg,1463,1500
+27.5,Scrambled Eggs,Smoothie,Turkey Sandwich,Pasta Salad,Tacos,Chicken Stir Fry,Non-Veg,1725,1750
+34.2,Avocado Toast,Scrambled Eggs,Pasta Salad,Burrito Bowl,Lentil Soup,Spaghetti,Non-Veg,1448,1650
+32.3,Avocado Toast,Yogurt,Turkey Sandwich,Soup,Lentil Soup,Chicken Curry,Non-Veg,1746,1750
+26.0,Cereal,Granola,Grilled Chicken Salad,Sushi,Stuffed Peppers,Spaghetti,Non-Veg,1502,1800
+29.9,Avocado Toast,Yogurt,Vegetable Stir Fry,Quinoa Salad,Veggie Pizza,Chicken Curry,Non-Veg,1849,2100
+29.2,Oatmeal,Fruit Salad,Sushi,Veggie Wrap,Veggie Burger,Stuffed Peppers,Veg,1475,1650
+34.2,Yogurt,Fruit Salad,Pasta Salad,Veggie Wrap,Grilled Steak,Chicken Stir Fry,Non-Veg,1299,1350
+25.5,Egg Sandwich,Cereal,Soup,Grilled Chicken Salad,Veggie Pizza,Lentil Soup,Non-Veg,1634,1850
+24.1,Smoothie,Egg Sandwich,Vegetable Stir Fry,Chicken Wrap,Grilled Steak,Veggie Pizza,Non-Veg,1548,2150
+15.4,Avocado Toast,Granola,Veggie Wrap,Turkey Sandwich,Tacos,Lentil Soup,Veg,1878,2600
+31.6,Avocado Toast,Yogurt,Quinoa Salad,Veggie Wrap,Stuffed Peppers,Veggie Pizza,Non-Veg,1346,1350
+28.6,Granola,Cereal,Turkey Sandwich,Grilled Chicken Salad,Veggie Burger,Lentil Soup,Non-Veg,1751,2050
+30.1,Smoothie,Pancakes,Vegetable Stir Fry,Chicken Wrap,Stuffed Peppers,Grilled Salmon,Non-Veg,1489,1800
+32.7,Oatmeal,Egg Sandwich,Chicken Wrap,Turkey Sandwich,Veggie Burger,Chicken Stir Fry,Non-Veg,1464,1550
+16.5,Smoothie,Granola,Turkey Sandwich,Grilled Chicken Salad,Veggie Pizza,Tacos,Non-Veg,1458,2650
+32.0,Fruit Salad,Oatmeal,Turkey Sandwich,Veggie Wrap,Grilled Salmon,Chicken Stir Fry,Non-Veg,1627,1750
+33.7,Granola,Scrambled Eggs,Burrito Bowl,Turkey Sandwich,Tacos,Stuffed Peppers,Non-Veg,1311,1750
+25.9,Cereal,Yogurt,Soup,Chicken Wrap,Grilled Salmon,Lentil Soup,Non-Veg,1196,1500
+24.0,Cereal,Fruit Salad,Chicken Wrap,Quinoa Salad,Stuffed Peppers,Veggie Burger,Non-Veg,1646,1850
+32.3,Fruit Salad,Pancakes,Pasta Salad,Burrito Bowl,Stuffed Peppers,Veggie Burger,Veg,1865,1900
+27.8,Scrambled Eggs,Pancakes,Veggie Wrap,Chicken Wrap,Stuffed Peppers,Spaghetti,Non-Veg,1475,1850
+16.8,Cereal,Pancakes,Grilled Chicken Salad,Quinoa Salad,Veggie Burger,Grilled Steak,Non-Veg,1209,2550
+15.1,Oatmeal,Yogurt,Veggie Wrap,Pasta Salad,Tacos,Stuffed Peppers,Non-Veg,1389,2350
+27.9,Pancakes,Fruit Salad,Burrito Bowl,Grilled Chicken Salad,Chicken Stir Fry,Grilled Salmon,Non-Veg,1250,1700
+26.2,Avocado Toast,Egg Sandwich,Veggie Wrap,Burrito Bowl,Chicken Curry,Veggie Pizza,Non-Veg,1839,2050
+34.8,Cereal,Scrambled Eggs,Sushi,Burrito Bowl,Lentil Soup,Stuffed Peppers,Non-Veg,2036,2050
+16.4,Oatmeal,Yogurt,Sushi,Veggie Wrap,Grilled Salmon,Chicken Stir Fry,Non-Veg,1311,2200
+15.8,Fruit Salad,Avocado Toast,Quinoa Salad,Soup,Chicken Curry,Lentil Soup,Non-Veg,1979,2250
+15.7,Scrambled Eggs,Oatmeal,Quinoa Salad,Turkey Sandwich,Lentil Soup,Spaghetti,Non-Veg,1614,2400
+28.3,Yogurt,Granola,Pasta Salad,Sushi,Veggie Pizza,Tacos,Veg,1951,2300
+34.6,Pancakes,Avocado Toast,Quinoa Salad,Grilled Chicken Salad,Veggie Pizza,Lentil Soup,Non-Veg,1983,2300
+18.2,Pancakes,Granola,Grilled Chicken Salad,Burrito Bowl,Grilled Steak,Stuffed Peppers,Non-Veg,1908,2800
+17.9,Oatmeal,Pancakes,Veggie Wrap,Quinoa Salad,Stuffed Peppers,Spaghetti,Veg,1614,2450
+30.1,Pancakes,Egg Sandwich,Quinoa Salad,Grilled Chicken Salad,Spaghetti,Grilled Steak,Non-Veg,1522,1750
+22.6,Smoothie,Pancakes,Vegetable Stir Fry,Turkey Sandwich,Stuffed Peppers,Chicken Stir Fry,Non-Veg,1530,1850
+15.0,Smoothie,Egg Sandwich,Pasta Salad,Soup,Lentil Soup,Stuffed Peppers,Non-Veg,1770,2300
+31.4,Egg Sandwich,Yogurt,Vegetable Stir Fry,Burrito Bowl,Veggie Burger,Grilled Steak,Non-Veg,1460,1650
+32.0,Cereal,Smoothie,Grilled Chicken Salad,Sushi,Spaghetti,Chicken Curry,Non-Veg,1636,1800
+16.6,Yogurt,Cereal,Soup,Pasta Salad,Lentil Soup,Veggie Pizza,Veg,1568,2200
+25.0,Avocado Toast,Fruit Salad,Pasta Salad,Veggie Wrap,Grilled Salmon,Chicken Stir Fry,Non-Veg,1762,1950
+16.2,Oatmeal,Scrambled Eggs,Veggie Wrap,Quinoa Salad,Lentil Soup,Chicken Stir Fry,Non-Veg,1628,2200
+30.6,Pancakes,Scrambled Eggs,Burrito Bowl,Sushi,Grilled Steak,Chicken Curry,Non-Veg,1467,1750
+30.9,Egg Sandwich,Oatmeal,Quinoa Salad,Turkey Sandwich,Veggie Burger,Grilled Steak,Non-Veg,1297,1600
+19.7,Oatmeal,Avocado Toast,Soup,Vegetable Stir Fry,Veggie Pizza,Grilled Salmon,Non-Veg,1631,1750
+32.1,Avocado Toast,Oatmeal,Vegetable Stir Fry,Chicken Wrap,Veggie Burger,Chicken Curry,Non-Veg,1282,1550
+29.5,Fruit Salad,Avocado Toast,Turkey Sandwich,Burrito Bowl,Spaghetti,Chicken Stir Fry,Non-Veg,1383,1850
+28.5,Cereal,Egg Sandwich,Turkey Sandwich,Pasta Salad,Grilled Salmon,Lentil Soup,Non-Veg,1802,2150
+21.2,Smoothie,Scrambled Eggs,Chicken Wrap,Veggie Wrap,Chicken Curry,Chicken Stir Fry,Non-Veg,1379,2050
+16.6,Egg Sandwich,Scrambled Eggs,Pasta Salad,Veggie Wrap,Veggie Burger,Veggie Pizza,Non-Veg,1775,2550
+34.1,Yogurt,Oatmeal,Veggie Wrap,Sushi,Chicken Curry,Chicken Stir Fry,Non-Veg,1858,2000
+27.5,Cereal,Scrambled Eggs,Turkey Sandwich,Veggie Wrap,Chicken Stir Fry,Lentil Soup,Non-Veg,1549,1550
+28.5,Scrambled Eggs,Yogurt,Vegetable Stir Fry,Veggie Wrap,Chicken Curry,Grilled Salmon,Non-Veg,1332,1650
+25.9,Avocado Toast,Egg Sandwich,Grilled Chicken Salad,Vegetable Stir Fry,Veggie Pizza,Chicken Curry,Non-Veg,1452,1850
+30.0,Smoothie,Fruit Salad,Veggie Wrap,Chicken Wrap,Veggie Burger,Tacos,Non-Veg,1904,2050
+31.6,Cereal,Pancakes,Pasta Salad,Turkey Sandwich,Grilled Steak,Chicken Curry,Non-Veg,1966,2100
+23.8,Cereal,Fruit Salad,Veggie Wrap,Sushi,Chicken Stir Fry,Chicken Curry,Non-Veg,1349,1800
+31.7,Fruit Salad,Pancakes,Chicken Wrap,Burrito Bowl,Chicken Stir Fry,Lentil Soup,Non-Veg,1675,1800
+25.3,Fruit Salad,Scrambled Eggs,Sushi,Quinoa Salad,Tacos,Veggie Pizza,Non-Veg,1516,1550
+34.3,Cereal,Scrambled Eggs,Soup,Turkey Sandwich,Grilled Salmon,Stuffed Peppers,Non-Veg,1363,1700
+33.5,Smoothie,Cereal,Vegetable Stir Fry,Chicken Wrap,Grilled Salmon,Veggie Burger,Non-Veg,1678,1750
+21.6,Oatmeal,Egg Sandwich,Vegetable Stir Fry,Quinoa Salad,Grilled Salmon,Lentil Soup,Non-Veg,1338,1800
+30.3,Oatmeal,Smoothie,Pasta Salad,Vegetable Stir Fry,Lentil Soup,Tacos,Veg,1785,2100
+18.2,Scrambled Eggs,Granola,Burrito Bowl,Sushi,Stuffed Peppers,Grilled Steak,Non-Veg,1927,2700
+23.0,Pancakes,Fruit Salad,Turkey Sandwich,Pasta Salad,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1480,1850
+27.8,Egg Sandwich,Yogurt,Soup,Burrito Bowl,Veggie Burger,Grilled Steak,Non-Veg,1591,1850
+33.5,Cereal,Pancakes,Grilled Chicken Salad,Soup,Chicken Stir Fry,Stuffed Peppers,Non-Veg,1893,1950
+17.5,Yogurt,Scrambled Eggs,Grilled Chicken Salad,Vegetable Stir Fry,Grilled Steak,Tacos,Non-Veg,1390,2450
+19.3,Scrambled Eggs,Yogurt,Vegetable Stir Fry,Veggie Wrap,Grilled Salmon,Chicken Curry,Non-Veg,1895,1900
+25.1,Egg Sandwich,Fruit Salad,Soup,Quinoa Salad,Veggie Burger,Grilled Salmon,Non-Veg,1325,1550
+27.2,Oatmeal,Avocado Toast,Burrito Bowl,Turkey Sandwich,Chicken Curry,Grilled Steak,Non-Veg,1864,2050
+27.4,Cereal,Oatmeal,Quinoa Salad,Veggie Wrap,Stuffed Peppers,Chicken Stir Fry,Non-Veg,1473,1500
+22.6,Oatmeal,Granola,Quinoa Salad,Vegetable Stir Fry,Grilled Salmon,Lentil Soup,Non-Veg,1573,1850
+17.8,Oatmeal,Scrambled Eggs,Grilled Chicken Salad,Turkey Sandwich,Spaghetti,Chicken Stir Fry,Non-Veg,1999,2450
+23.7,Pancakes,Fruit Salad,Soup,Turkey Sandwich,Veggie Pizza,Veggie Burger,Veg,1561,1800
+27.6,Pancakes,Avocado Toast,Chicken Wrap,Turkey Sandwich,Chicken Stir Fry,Veggie Burger,Non-Veg,1514,1850
+17.1,Fruit Salad,Avocado Toast,Pasta Salad,Burrito Bowl,Grilled Steak,Stuffed Peppers,Non-Veg,1798,2600
+18.5,Granola,Oatmeal,Sushi,Turkey Sandwich,Spaghetti,Lentil Soup,Veg,1419,2500
+17.4,Granola,Avocado Toast,Pasta Salad,Sushi,Veggie Burger,Chicken Curry,Non-Veg,1536,2700
+31.1,Avocado Toast,Fruit Salad,Pasta Salad,Quinoa Salad,Grilled Salmon,Tacos,Non-Veg,1961,2250
+33.1,Yogurt,Granola,Grilled Chicken Salad,Veggie Wrap,Veggie Pizza,Stuffed Peppers,Non-Veg,1666,1950
+31.6,Cereal,Fruit Salad,Soup,Chicken Wrap,Lentil Soup,Chicken Stir Fry,Non-Veg,1988,2000
+24.3,Multigrain Paratha,Green Tea,Paneer Bhurji with Chapati,Fruit Salad,Bhindi Masala,Millet Roti,Veg,1524,1809
+20.8,Smoothie Bowl,Banana,Dal Tadka with Brown Rice,Sprouts,Palak Paneer,Quinoa,Veg,1854,2251
+26.1,Idli with Sambar,Papaya,Vegetable Stir Fry with Brown Rice,Salad,Kadhi with Brown Rice,Phulka,Veg,1699,2181
+27.0,Idli with Sambar,Papaya,Paneer Bhurji with Chapati,Cucumber,Kadhi with Brown Rice,Phulka,Veg,1726,2195
+28.9,Upma,Apple,Rajma with Brown Rice,Cucumber,Mixed Veg Curry,Quinoa,Veg,1779,2181
+23.7,Ragi Dosa,Banana,Dal Tadka with Brown Rice,Sprouts,Mixed Veg Curry,Phulka,Veg,1993,2477
+29.7,Idli with Sambar,Lassi (low-fat),Chole with Chapati,Fruit Salad,Baingan Bharta,Phulka,Veg,1610,1873
+18.9,Vegetable Sandwich,Apple,Rajma with Brown Rice,Papad (roasted),Palak Paneer,Whole Wheat Naan,Veg,1470,1966
+21.9,Smoothie Bowl,Green Tea,Paneer Bhurji with Chapati,Fruit Salad,Grilled Vegetables,Roti,Veg,1727,2123
+22.4,Multigrain Paratha,Coconut Water,Paneer Bhurji with Chapati,Steamed Vegetables,Aloo Gobi,Phulka,Veg,1537,1893
+23.5,Idli with Sambar,Coconut Water,Quinoa Salad,Cucumber,Baingan Bharta,Roti,Veg,1978,2275
+21.1,Multigrain Paratha,Buttermilk,Paneer Bhurji with Chapati,Cucumber,Palak Paneer,Phulka,Veg,1657,2050
+22.1,Poha,Coconut Water,Vegetable Stir Fry with Brown Rice,Raita (low-fat),Bhindi Masala,Phulka,Veg,1796,2191
+28.0,Idli with Sambar,Buttermilk,Rajma with Brown Rice,Fruit Salad,Mixed Veg Curry,Roti,Veg,1415,1781
+20.6,Ragi Dosa,Green Tea,Dal Tadka with Brown Rice,Papad (roasted),Baingan Bharta,Millet Roti,Veg,1635,1862
+21.0,Smoothie Bowl,Apple,Paneer Bhurji with Chapati,Sprouts,Palak Paneer,Whole Wheat Naan,Veg,1689,1935
+26.0,Ragi Dosa,Banana,Rajma with Brown Rice,Fruit Salad,Vegetable Soup,Ragi Dosa,Veg,1911,2260
+18.8,Oats,Banana,Paneer Bhurji with Chapati,Steamed Vegetables,Baingan Bharta,Whole Wheat Naan,Veg,1513,1988
+28.5,Smoothie Bowl,Lassi (low-fat),Dal Tadka with Brown Rice,Yogurt (low-fat),Palak Paneer,Brown Rice,Veg,1555,1803
+25.3,Idli with Sambar,Lassi (low-fat),Paneer Bhurji with Chapati,Sprouts,Baingan Bharta,Ragi Dosa,Veg,1757,2012
+22.9,Vegetable Sandwich,Coconut Water,Quinoa Salad,Raita (low-fat),Palak Paneer,Phulka,Veg,1913,2190
+22.7,Vegetable Sandwich,Orange Juice,Chole with Chapati,Fruit Salad,Kadhi with Brown Rice,Brown Rice,Veg,1639,1908
+23.6,Oats,Banana,Quinoa Salad,Papad (roasted),Kadhi with Brown Rice,Quinoa,Veg,1659,2155
+29.1,Vegetable Sandwich,Banana,Chole with Chapati,Sprouts,Palak Paneer,Whole Wheat Naan,Veg,1427,1731
+26.0,Multigrain Paratha,Orange Juice,Paneer Bhurji with Chapati,Salad,Mixed Veg Curry,Chapati,Veg,1948,2309
+26.8,Oats,Apple,Chole with Chapati,Yogurt (low-fat),Bhindi Masala,Roti,Veg,1665,2080
+22.3,Smoothie Bowl,Green Tea,Vegetable Stir Fry with Brown Rice,Salad,Vegetable Soup,Whole Wheat Naan,Veg,1859,2241
+29.2,Smoothie Bowl,Lassi (low-fat),Palak Paneer with Roti,Salad,Baingan Bharta,Ragi Dosa,Veg,1524,1799
+22.0,Smoothie Bowl,Banana,Palak Paneer with Roti,Cucumber,Vegetable Soup,Brown Rice,Veg,1859,2307
+29.1,Idli with Sambar,Apple,Vegetable Stir Fry with Brown Rice,Yogurt (low-fat),Aloo Gobi,Quinoa,Veg,1559,1873
+23.6,Multigrain Paratha,Orange Juice,Rajma with Brown Rice,Papad (roasted),Kadhi with Brown Rice,Chapati,Veg,1480,1689
+24.9,Vegetable Sandwich,Coconut Water,Paneer Bhurji with Chapati,Yogurt (low-fat),Baingan Bharta,Quinoa,Veg,1891,2290
+22.8,Smoothie Bowl,Apple,Palak Paneer with Roti,Raita (low-fat),Bhindi Masala,Brown Rice,Veg,1842,2241
+21.6,Upma,Green Tea,Chole with Chapati,Cucumber,Vegetable Soup,Roti,Veg,1617,2037
+23.3,Smoothie Bowl,Green Tea,Quinoa Salad,Sprouts,Palak Paneer,Roti,Veg,1643,2108
+25.6,Upma,Papaya,Paneer Bhurji with Chapati,Yogurt (low-fat),Mixed Veg Curry,Quinoa,Veg,1452,1773
+22.5,Poha,Banana,Dal Tadka with Brown Rice,Papad (roasted),Vegetable Soup,Quinoa,Veg,1455,1663
+29.4,Smoothie Bowl,Lassi (low-fat),Rajma with Brown Rice,Fruit Salad,Bhindi Masala,Chapati,Veg,1733,2079
+20.0,Poha,Papaya,Vegetable Stir Fry with Brown Rice,Fruit Salad,Aloo Gobi,Whole Wheat Naan,Veg,1492,1845
+29.3,Smoothie Bowl,Buttermilk,Quinoa Salad,Salad,Mixed Veg Curry,Roti,Veg,1433,1859
+25.3,Upma,Orange Juice,Dal Tadka with Brown Rice,Cucumber,Mixed Veg Curry,Phulka,Veg,1817,2245
+23.4,Idli with Sambar,Banana,Dal Tadka with Brown Rice,Salad,Vegetable Soup,Millet Roti,Veg,1910,2382
+24.8,Idli with Sambar,Lassi (low-fat),Dal Tadka with Brown Rice,Yogurt (low-fat),Bhindi Masala,Brown Rice,Veg,1459,1689
+21.1,Upma,Papaya,Palak Paneer with Roti,Cucumber,Vegetable Soup,Millet Roti,Veg,1651,1914
+28.4,Vegetable Sandwich,Lassi (low-fat),Chole with Chapati,Cucumber,Vegetable Soup,Millet Roti,Veg,1768,1992
+22.6,Idli with Sambar,Orange Juice,Chole with Chapati,Yogurt (low-fat),Palak Paneer,Brown Rice,Veg,1628,1944
+19.9,Poha,Papaya,Rajma with Brown Rice,Yogurt (low-fat),Baingan Bharta,Quinoa,Veg,1534,1965
+22.1,Smoothie Bowl,Green Tea,Chole with Chapati,Papad (roasted),Kadhi with Brown Rice,Phulka,Veg,1421,1900
+25.0,Ragi Dosa,Banana,Rajma with Brown Rice,Salad,Palak Paneer,Whole Wheat Naan,Veg,1830,2303
+26.6,Ragi Dosa,Buttermilk,Paneer Bhurji with Chapati,Raita (low-fat),Vegetable Soup,Phulka,Veg,1761,2002
+24.3,Vegetable Sandwich,Green Tea,Chole with Chapati,Papad (roasted),Grilled Vegetables,Ragi Dosa,Veg,1931,2379
+20.0,Idli with Sambar,Buttermilk,Quinoa Salad,Salad,Palak Paneer,Quinoa,Veg,1791,2029
+28.0,Ragi Dosa,Green Tea,Vegetable Stir Fry with Brown Rice,Sprouts,Mixed Veg Curry,Millet Roti,Veg,1623,2088
+28.7,Multigrain Paratha,Banana,Paneer Bhurji with Chapati,Yogurt (low-fat),Grilled Vegetables,Roti,Veg,1504,1743
+26.6,Ragi Dosa,Green Tea,Chole with Chapati,Sprouts,Vegetable Soup,Phulka,Veg,1998,2386
+23.7,Oats,Apple,Quinoa Salad,Fruit Salad,Vegetable Soup,Chapati,Veg,1667,1906
+21.1,Oats,Lassi (low-fat),Quinoa Salad,Cucumber,Kadhi with Brown Rice,Ragi Dosa,Veg,1742,1987
+23.3,Idli with Sambar,Coconut Water,Palak Paneer with Roti,Papad (roasted),Kadhi with Brown Rice,Quinoa,Veg,1937,2277
+28.8,Oats,Apple,Dal Tadka with Brown Rice,Fruit Salad,Aloo Gobi,Phulka,Veg,1942,2358
+29.9,Upma,Lassi (low-fat),Chole with Chapati,Papad (roasted),Palak Paneer,Whole Wheat Naan,Veg,1755,2003
+25.4,Multigrain Paratha,Banana,Chole with Chapati,Fruit Salad,Grilled Vegetables,Chapati,Veg,1578,1786
+20.1,Idli with Sambar,Orange Juice,Rajma with Brown Rice,Cucumber,Aloo Gobi,Whole Wheat Naan,Veg,1777,1994
+20.3,Idli with Sambar,Apple,Dal Tadka with Brown Rice,Raita (low-fat),Aloo Gobi,Quinoa,Veg,1722,1981
+22.8,Smoothie Bowl,Green Tea,Chole with Chapati,Raita (low-fat),Palak Paneer,Whole Wheat Naan,Veg,1689,1923
+21.1,Vegetable Sandwich,Buttermilk,Paneer Bhurji with Chapati,Yogurt (low-fat),Aloo Gobi,Millet Roti,Veg,1616,2075
+27.9,Poha,Green Tea,Rajma with Brown Rice,Cucumber,Baingan Bharta,Brown Rice,Veg,1415,1768
+24.4,Multigrain Paratha,Coconut Water,Vegetable Stir Fry with Brown Rice,Salad,Vegetable Soup,Millet Roti,Veg,1605,1980
+28.8,Ragi Dosa,Banana,Rajma with Brown Rice,Steamed Vegetables,Mixed Veg Curry,Millet Roti,Veg,1985,2216
+21.7,Ragi Dosa,Green Tea,Palak Paneer with Roti,Salad,Aloo Gobi,Whole Wheat Naan,Veg,1818,2047
+28.5,Poha,Lassi (low-fat),Paneer Bhurji with Chapati,Salad,Bhindi Masala,Roti,Veg,1633,1870
+28.2,Oats,Coconut Water,Paneer Bhurji with Chapati,Salad,Bhindi Masala,Phulka,Veg,1531,1887
+26.9,Multigrain Paratha,Apple,Vegetable Stir Fry with Brown Rice,Sprouts,Kadhi with Brown Rice,Brown Rice,Veg,1855,2313
+28.3,Upma,Orange Juice,Dal Tadka with Brown Rice,Fruit Salad,Mixed Veg Curry,Roti,Veg,1726,1939
+28.0,Multigrain Paratha,Apple,Paneer Bhurji with Chapati,Fruit Salad,Grilled Vegetables,Chapati,Veg,1798,2119
+22.6,Oats,Green Tea,Dal Tadka with Brown Rice,Yogurt (low-fat),Baingan Bharta,Brown Rice,Veg,1577,1904
+29.5,Ragi Dosa,Apple,Rajma with Brown Rice,Raita (low-fat),Baingan Bharta,Roti,Veg,1853,2137
+28.5,Vegetable Sandwich,Papaya,Chole with Chapati,Raita (low-fat),Mixed Veg Curry,Chapati,Veg,1684,2050
+29.0,Idli with Sambar,Banana,Palak Paneer with Roti,Sprouts,Bhindi Masala,Quinoa,Veg,2000,2240
+24.8,Idli with Sambar,Apple,Dal Tadka with Brown Rice,Raita (low-fat),Mixed Veg Curry,Chapati,Veg,1744,1970
+20.0,Poha,Banana,Quinoa Salad,Cucumber,Vegetable Soup,Roti,Veg,1513,1878
+20.7,Poha,Papaya,Palak Paneer with Roti,Yogurt (low-fat),Mixed Veg Curry,Whole Wheat Naan,Veg,1424,1794
+26.0,Oats,Apple,Rajma with Brown Rice,Papad (roasted),Bhindi Masala,Quinoa,Veg,1754,2174
+28.4,Vegetable Sandwich,Banana,Paneer Bhurji with Chapati,Papad (roasted),Aloo Gobi,Ragi Dosa,Veg,1709,2022
+28.8,Idli with Sambar,Lassi (low-fat),Vegetable Stir Fry with Brown Rice,Yogurt (low-fat),Grilled Vegetables,Roti,Veg,1995,2260
+26.5,Ragi Dosa,Apple,Paneer Bhurji with Chapati,Raita (low-fat),Mixed Veg Curry,Millet Roti,Veg,1876,2092
+29.9,Vegetable Sandwich,Papaya,Rajma with Brown Rice,Yogurt (low-fat),Kadhi with Brown Rice,Ragi Dosa,Veg,1749,1959
+26.6,Ragi Dosa,Green Tea,Quinoa Salad,Steamed Vegetables,Aloo Gobi,Chapati,Veg,1540,1849
+24.4,Poha,Buttermilk,Quinoa Salad,Raita (low-fat),Kadhi with Brown Rice,Roti,Veg,1526,1913
+29.7,Smoothie Bowl,Lassi (low-fat),Rajma with Brown Rice,Sprouts,Bhindi Masala,Ragi Dosa,Veg,1573,2001
+21.9,Smoothie Bowl,Coconut Water,Quinoa Salad,Steamed Vegetables,Kadhi with Brown Rice,Brown Rice,Veg,1723,2211
+20.7,Idli with Sambar,Coconut Water,Palak Paneer with Roti,Sprouts,Mixed Veg Curry,Chapati,Veg,1592,1802
+20.7,Idli with Sambar,Orange Juice,Chole with Chapati,Salad,Vegetable Soup,Roti,Veg,1684,2006
+20.3,Ragi Dosa,Banana,Quinoa Salad,Salad,Mixed Veg Curry,Chapati,Veg,1448,1945
+28.5,Multigrain Paratha,Lassi (low-fat),Quinoa Salad,Sprouts,Baingan Bharta,Millet Roti,Veg,1900,2225
+27.7,Ragi Dosa,Coconut Water,Chole with Chapati,Cucumber,Kadhi with Brown Rice,Millet Roti,Veg,1984,2350
+25.0,Vegetable Sandwich,Papaya,Chole with Chapati,Raita (low-fat),Palak Paneer,Roti,Veg,1860,2087
+25.9,Multigrain Paratha,Coconut Water,Dal Tadka with Brown Rice,Yogurt (low-fat),Aloo Gobi,Phulka,Veg,1804,2069
+23.5,Oats,Lassi (low-fat),Vegetable Stir Fry with Brown Rice,Sprouts,Aloo Gobi,Brown Rice,Veg,1436,1858
+25.0,Idli with Sambar,Coconut Water,Paneer Bhurji with Chapati,Salad,Palak Paneer,Roti,Veg,1400,1771
+29.7,Vegetable Sandwich,Buttermilk,Palak Paneer with Roti,Salad,Mixed Veg Curry,Chapati,Veg,1548,1983
+29.1,Ragi Dosa,Green Tea,Paneer Bhurji with Chapati,Yogurt (low-fat),Kadhi with Brown Rice,Phulka,Veg,1689,1975
+20.5,Vegetable Sandwich,Papaya,Dal Tadka with Brown Rice,Yogurt (low-fat),Baingan Bharta,Brown Rice,Veg,1984,2433
+28.3,Smoothie Bowl,Buttermilk,Quinoa Salad,Cucumber,Aloo Gobi,Millet Roti,Veg,1770,2215
+22.4,Poha,Buttermilk,Vegetable Stir Fry with Brown Rice,Steamed Vegetables,Kadhi with Brown Rice,Whole Wheat Naan,Veg,1975,2437
+24.2,Vegetable Sandwich,Lassi (low-fat),Quinoa Salad,Cucumber,Bhindi Masala,Phulka,Veg,1954,2393
+23.3,Ragi Dosa,Apple,Paneer Bhurji with Chapati,Fruit Salad,Bhindi Masala,Roti,Veg,1645,1938
+26.5,Smoothie Bowl,Apple,Quinoa Salad,Steamed Vegetables,Mixed Veg Curry,Chapati,Veg,1935,2182
+19.6,Upma,Papaya,Chole with Chapati,Fruit Salad,Aloo Gobi,Brown Rice,Veg,1849,2229
+24.9,Oats,Banana,Chole with Chapati,Fruit Salad,Bhindi Masala,Whole Wheat Naan,Veg,1933,2160
+22.3,Multigrain Paratha,Green Tea,Vegetable Stir Fry with Brown Rice,Papad (roasted),Baingan Bharta,Ragi Dosa,Veg,1872,2199
+29.8,Poha,Green Tea,Paneer Bhurji with Chapati,Papad (roasted),Palak Paneer,Ragi Dosa,Veg,1437,1830
+24.4,Multigrain Paratha,Banana,Palak Paneer with Roti,Salad,Bhindi Masala,Phulka,Veg,1572,1839
+22.6,Vegetable Sandwich,Banana,Dal Tadka with Brown Rice,Fruit Salad,Bhindi Masala,Ragi Dosa,Veg,1426,1814
+29.7,Smoothie Bowl,Buttermilk,Rajma with Brown Rice,Steamed Vegetables,Vegetable Soup,Phulka,Veg,1536,1968
+20.1,Ragi Dosa,Green Tea,Quinoa Salad,Fruit Salad,Bhindi Masala,Chapati,Veg,1615,2070
+29.2,Idli with Sambar,Green Tea,Rajma with Brown Rice,Cucumber,Baingan Bharta,Brown Rice,Veg,1724,2107
+22.7,Idli with Sambar,Orange Juice,Vegetable Stir Fry with Brown Rice,Cucumber,Baingan Bharta,Phulka,Veg,1983,2198
+29.7,Poha,Buttermilk,Dal Tadka with Brown Rice,Sprouts,Bhindi Masala,Ragi Dosa,Veg,1634,1998
+21.2,Multigrain Paratha,Coconut Water,Chole with Chapati,Raita (low-fat),Vegetable Soup,Millet Roti,Veg,1450,1736
+25.1,Ragi Dosa,Buttermilk,Paneer Bhurji with Chapati,Sprouts,Palak Paneer,Brown Rice,Veg,1530,1762
+26.7,Upma,Apple,Quinoa Salad,Papad (roasted),Bhindi Masala,Roti,Veg,1534,1848
+23.7,Poha,Green Tea,Quinoa Salad,Steamed Vegetables,Aloo Gobi,Brown Rice,Veg,1625,2057
+30.0,Multigrain Paratha,Banana,Quinoa Salad,Raita (low-fat),Grilled Vegetables,Whole Wheat Naan,Veg,1719,1946
+26.0,Poha,Orange Juice,Chole with Chapati,Sprouts,Grilled Vegetables,Phulka,Veg,1419,1848
+22.7,Upma,Papaya,Quinoa Salad,Papad (roasted),Kadhi with Brown Rice,Brown Rice,Veg,1544,1983
+24.3,Poha,Banana,Quinoa Salad,Raita (low-fat),Palak Paneer,Brown Rice,Veg,1896,2173
+28.1,Upma,Lassi (low-fat),Paneer Bhurji with Chapati,Cucumber,Kadhi with Brown Rice,Brown Rice,Veg,1497,1863
+29.4,Poha,Lassi (low-fat),Paneer Bhurji with Chapati,Raita (low-fat),Mixed Veg Curry,Millet Roti,Veg,1933,2333
+23.4,Ragi Dosa,Lassi (low-fat),Quinoa Salad,Papad (roasted),Grilled Vegetables,Brown Rice,Veg,1778,2025
+19.3,Multigrain Paratha,Orange Juice,Paneer Bhurji with Chapati,Sprouts,Aloo Gobi,Brown Rice,Veg,1985,2202
+19.4,Ragi Dosa,Buttermilk,Vegetable Stir Fry with Brown Rice,Papad (roasted),Baingan Bharta,Millet Roti,Veg,1432,1805
+23.1,Upma,Coconut Water,Paneer Bhurji with Chapati,Salad,Baingan Bharta,Chapati,Veg,1671,2036
+23.6,Vegetable Sandwich,Buttermilk,Quinoa Salad,Papad (roasted),Aloo Gobi,Whole Wheat Naan,Veg,1449,1863
+27.7,Oats,Papaya,Vegetable Stir Fry with Brown Rice,Raita (low-fat),Aloo Gobi,Brown Rice,Veg,1624,2095
+21.6,Idli with Sambar,Papaya,Chole with Chapati,Fruit Salad,Grilled Vegetables,Roti,Veg,1535,1771
+18.9,Multigrain Paratha,Apple,Rajma with Brown Rice,Fruit Salad,Kadhi with Brown Rice,Ragi Dosa,Veg,1927,2208
+18.7,Ragi Dosa,Banana,Palak Paneer with Roti,Fruit Salad,Vegetable Soup,Whole Wheat Naan,Veg,1409,1909
+23.7,Vegetable Sandwich,Papaya,Palak Paneer with Roti,Steamed Vegetables,Baingan Bharta,Chapati,Veg,1564,1850
+27.0,Ragi Dosa,Banana,Dal Tadka with Brown Rice,Steamed Vegetables,Grilled Vegetables,Whole Wheat Naan,Veg,1588,2073
+23.7,Vegetable Sandwich,Apple,Vegetable Stir Fry with Brown Rice,Salad,Mixed Veg Curry,Whole Wheat Naan,Veg,1673,2103
+21.1,Multigrain Paratha,Banana,Paneer Bhurji with Chapati,Sprouts,Grilled Vegetables,Chapati,Veg,2000,2310
+24.3,Oats,Coconut Water,Dal Tadka with Brown Rice,Salad,Grilled Vegetables,Whole Wheat Naan,Veg,1625,2121
+19.3,Multigrain Paratha,Banana,Dal Tadka with Brown Rice,Fruit Salad,Palak Paneer,Brown Rice,Veg,1528,1923
+27.7,Ragi Dosa,Green Tea,Rajma with Brown Rice,Salad,Baingan Bharta,Roti,Veg,1669,1869
+19.9,Idli with Sambar,Orange Juice,Chole with Chapati,Raita (low-fat),Mixed Veg Curry,Chapati,Veg,1508,1816
+27.4,Idli with Sambar,Coconut Water,Vegetable Stir Fry with Brown Rice,Cucumber,Grilled Vegetables,Roti,Veg,1492,1796
+24.8,Upma,Banana,Dal Tadka with Brown Rice,Fruit Salad,Palak Paneer,Whole Wheat Naan,Veg,1996,2478
+22.1,Poha,Green Tea,Dal Tadka with Brown Rice,Yogurt (low-fat),Mixed Veg Curry,Millet Roti,Veg,1487,1801
+22.1,Oats,Banana,Dal Tadka with Brown Rice,Raita (low-fat),Vegetable Soup,Whole Wheat Naan,Veg,1493,1949
+21.9,Multigrain Paratha,Green Tea,Paneer Bhurji with Chapati,Steamed Vegetables,Aloo Gobi,Brown Rice,Veg,1480,1897
+28.9,Poha,Papaya,Paneer Bhurji with Chapati,Raita (low-fat),Grilled Vegetables,Brown Rice,Veg,1860,2149
+21.7,Poha,Apple,Chole with Chapati,Raita (low-fat),Mixed Veg Curry,Phulka,Veg,1992,2304
+25.2,Multigrain Paratha,Apple,Dal Tadka with Brown Rice,Steamed Vegetables,Vegetable Soup,Ragi Dosa,Veg,1981,2407
+28.2,Upma,Orange Juice,Quinoa Salad,Raita (low-fat),Palak Paneer,Chapati,Veg,1577,1865
+23.3,Smoothie Bowl,Orange Juice,Quinoa Salad,Steamed Vegetables,Baingan Bharta,Phulka,Veg,1855,2055
+29.5,Upma,Papaya,Rajma with Brown Rice,Salad,Palak Paneer,Roti,Veg,1821,2238
+22.3,Vegetable Sandwich,Orange Juice,Vegetable Stir Fry with Brown Rice,Raita (low-fat),Palak Paneer,Whole Wheat Naan,Veg,1548,2030
+22.5,Idli with Sambar,Banana,Palak Paneer with Roti,Raita (low-fat),Palak Paneer,Brown Rice,Veg,1920,2331
+23.3,Oats,Papaya,Paneer Bhurji with Chapati,Sprouts,Aloo Gobi,Brown Rice,Veg,1900,2350
+18.9,Ragi Dosa,Lassi (low-fat),Palak Paneer with Roti,Yogurt (low-fat),Grilled Vegetables,Whole Wheat Naan,Veg,1504,1838
+23.4,Upma,Buttermilk,Dal Tadka with Brown Rice,Papad (roasted),Vegetable Soup,Brown Rice,Veg,1925,2146
+21.6,Oats,Apple,Chole with Chapati,Yogurt (low-fat),Baingan Bharta,Brown Rice,Veg,1516,1991
+18.6,Upma,Buttermilk,Vegetable Stir Fry with Brown Rice,Papad (roasted),Palak Paneer,Whole Wheat Naan,Veg,1776,2063
+27.1,Ragi Dosa,Banana,Dal Tadka with Brown Rice,Cucumber,Vegetable Soup,Whole Wheat Naan,Veg,1518,1978
+22.7,Idli with Sambar,Coconut Water,Quinoa Salad,Raita (low-fat),Vegetable Soup,Phulka,Veg,1977,2252
+26.9,Poha,Orange Juice,Rajma with Brown Rice,Steamed Vegetables,Grilled Vegetables,Roti,Veg,1672,2051
+21.7,Oats,Orange Juice,Chole with Chapati,Steamed Vegetables,Grilled Vegetables,Ragi Dosa,Veg,1777,2236
+27.4,Ragi Dosa,Green Tea,Dal Tadka with Brown Rice,Fruit Salad,Baingan Bharta,Whole Wheat Naan,Veg,1454,1729
+20.0,Multigrain Paratha,Lassi (low-fat),Dal Tadka with Brown Rice,Yogurt (low-fat),Bhindi Masala,Ragi Dosa,Veg,1780,2229
+27.5,Poha,Green Tea,Vegetable Stir Fry with Brown Rice,Yogurt (low-fat),Kadhi with Brown Rice,Phulka,Veg,1894,2239
+25.1,Ragi Dosa,Banana,Dal Tadka with Brown Rice,Yogurt (low-fat),Aloo Gobi,Whole Wheat Naan,Veg,1515,1926
+24.6,Upma,Papaya,Palak Paneer with Roti,Fruit Salad,Grilled Vegetables,Chapati,Veg,1619,2103
+26.6,Smoothie Bowl,Banana,Dal Tadka with Brown Rice,Steamed Vegetables,Aloo Gobi,Chapati,Veg,1587,2034
+23.1,Multigrain Paratha,Green Tea,Paneer Bhurji with Chapati,Sprouts,Grilled Vegetables,Roti,Veg,1989,2489
+26.5,Idli with Sambar,Green Tea,Quinoa Salad,Sprouts,Aloo Gobi,Ragi Dosa,Veg,1748,2224
+28.3,Multigrain Paratha,Papaya,Palak Paneer with Roti,Papad (roasted),Palak Paneer,Roti,Veg,1512,1830
+27.9,Oats,Green Tea,Rajma with Brown Rice,Yogurt (low-fat),Palak Paneer,Roti,Veg,1710,2079
+19.5,Vegetable Sandwich,Lassi (low-fat),Quinoa Salad,Salad,Baingan Bharta,Whole Wheat Naan,Veg,1779,2105
+28.8,Idli with Sambar,Papaya,Rajma with Brown Rice,Sprouts,Bhindi Masala,Roti,Veg,1500,1740
+21.4,Vegetable Sandwich,Orange Juice,Paneer Bhurji with Chapati,Cucumber,Mixed Veg Curry,Brown Rice,Veg,1771,2246
+27.2,Poha,Apple,Rajma with Brown Rice,Sprouts,Aloo Gobi,Phulka,Veg,1849,2345
+26.8,Upma,Apple,Chole with Chapati,Salad,Bhindi Masala,Millet Roti,Veg,1840,2225
+23.3,Upma,Orange Juice,Dal Tadka with Brown Rice,Yogurt (low-fat),Palak Paneer,Brown Rice,Veg,1852,2188
+28.0,Smoothie Bowl,Papaya,Chole with Chapati,Raita (low-fat),Palak Paneer,Ragi Dosa,Veg,1932,2197
+21.0,Multigrain Paratha,Lassi (low-fat),Vegetable Stir Fry with Brown Rice,Salad,Bhindi Masala,Millet Roti,Veg,1446,1907
+19.7,Vegetable Sandwich,Lassi (low-fat),Paneer Bhurji with Chapati,Yogurt (low-fat),Palak Paneer,Brown Rice,Veg,1511,1985
+22.8,Multigrain Paratha,Green Tea,Quinoa Salad,Steamed Vegetables,Grilled Vegetables,Roti,Veg,1676,1930
+21.0,Idli with Sambar,Orange Juice,Dal Tadka with Brown Rice,Salad,Mixed Veg Curry,Chapati,Veg,1589,1806
+20.2,Oats,Buttermilk,Vegetable Stir Fry with Brown Rice,Raita (low-fat),Vegetable Soup,Brown Rice,Veg,1586,1921
+28.7,Oats,Green Tea,Palak Paneer with Roti,Papad (roasted),Mixed Veg Curry,Roti,Veg,1513,1973
+23.7,Idli with Sambar,Green Tea,Quinoa Salad,Cucumber,Grilled Vegetables,Chapati,Veg,1627,1829
+24.2,Oats,Banana,Dal Tadka with Brown Rice,Salad,Grilled Vegetables,Phulka,Veg,1473,1820
+18.9,Poha,Banana,Chole with Chapati,Papad (roasted),Vegetable Soup,Quinoa,Veg,1613,1984
+22.0,Multigrain Paratha,Buttermilk,Palak Paneer with Roti,Raita (low-fat),Aloo Gobi,Brown Rice,Veg,1421,1765
+19.5,Idli with Sambar,Orange Juice,Dal Tadka with Brown Rice,Steamed Vegetables,Palak Paneer,Ragi Dosa,Veg,1667,2128
+23.2,Smoothie Bowl,Lassi (low-fat),Paneer Bhurji with Chapati,Steamed Vegetables,Baingan Bharta,Whole Wheat Naan,Veg,1628,1876
+21.9,Idli with Sambar,Apple,Rajma with Brown Rice,Steamed Vegetables,Aloo Gobi,Chapati,Veg,1750,2250
+27.6,Ragi Dosa,Coconut Water,Palak Paneer with Roti,Steamed Vegetables,Mixed Veg Curry,Quinoa,Veg,1649,2026
+27.5,Smoothie Bowl,Apple,Rajma with Brown Rice,Raita (low-fat),Mixed Veg Curry,Chapati,Veg,1626,2030
+23.2,Smoothie Bowl,Green Tea,Chole with Chapati,Sprouts,Kadhi with Brown Rice,Brown Rice,Veg,1559,1790
+20.0,Smoothie Bowl,Banana,Palak Paneer with Roti,Fruit Salad,Kadhi with Brown Rice,Quinoa,Veg,1873,2266
+25.5,Poha,Buttermilk,Chole with Chapati,Fruit Salad,Kadhi with Brown Rice,Phulka,Veg,1599,1837
+24.3,Upma,Coconut Water,Vegetable Stir Fry with Brown Rice,Yogurt (low-fat),Baingan Bharta,Ragi Dosa,Veg,1903,2160
+26.2,Poha,Papaya,Quinoa Salad,Cucumber,Baingan Bharta,Roti,Veg,1953,2379
+24.2,Poha,Apple,Quinoa Salad,Steamed Vegetables,Vegetable Soup,Brown Rice,Veg,1881,2256
+23.9,Vegetable Sandwich,Papaya,Palak Paneer with Roti,Papad (roasted),Vegetable Soup,Ragi Dosa,Veg,1945,2361
+19.7,Ragi Dosa,Buttermilk,Palak Paneer with Roti,Cucumber,Baingan Bharta,Millet Roti,Veg,1883,2100
+22.0,Ragi Dosa,Green Tea,Paneer Bhurji with Chapati,Yogurt (low-fat),Aloo Gobi,Millet Roti,Veg,1583,1942
+27.1,Poha,Buttermilk,Quinoa Salad,Papad (roasted),Vegetable Soup,Brown Rice,Veg,1957,2434
+18.5,Multigrain Paratha,Lassi (low-fat),Rajma with Brown Rice,Raita (low-fat),Bhindi Masala,Quinoa,Veg,1818,2035
+28.5,Poha,Orange Juice,Chole with Chapati,Fruit Salad,Kadhi with Brown Rice,Quinoa,Veg,1496,1701
+27.9,Poha,Green Tea,Chole with Chapati,Fruit Salad,Palak Paneer,Ragi Dosa,Veg,1962,2350
+21.4,Poha,Buttermilk,Vegetable Stir Fry with Brown Rice,Steamed Vegetables,Baingan Bharta,Whole Wheat Naan,Veg,1808,2143
+26.5,Ragi Dosa,Green Tea,Dal Tadka with Brown Rice,Yogurt (low-fat),Vegetable Soup,Roti,Veg,1458,1755
+18.5,Ragi Dosa,Lassi (low-fat),Paneer Bhurji with Chapati,Papad (roasted),Bhindi Masala,Quinoa,Veg,1720,1927
+20.5,Idli with Sambar,Banana,Paneer Bhurji with Chapati,Sprouts,Baingan Bharta,Phulka,Veg,1695,2133
+29.9,Upma,Green Tea,Paneer Bhurji with Chapati,Sprouts,Mixed Veg Curry,Millet Roti,Veg,1832,2215
+27.9,Idli with Sambar,Banana,Paneer Bhurji with Chapati,Salad,Grilled Vegetables,Ragi Dosa,Veg,1968,2345
+22.6,Vegetable Sandwich,Papaya,Palak Paneer with Roti,Papad (roasted),Bhindi Masala,Phulka,Veg,1458,1883
+19.2,Smoothie Bowl,Papaya,Dal Tadka with Brown Rice,Fruit Salad,Bhindi Masala,Brown Rice,Veg,1923,2362
+27.8,Oats,Coconut Water,Quinoa Salad,Cucumber,Mixed Veg Curry,Ragi Dosa,Veg,1846,2050
+28.3,Oats,Banana,Paneer Bhurji with Chapati,Steamed Vegetables,Baingan Bharta,Quinoa,Veg,1608,1857
+24.1,Poha,Banana,Quinoa Salad,Sprouts,Kadhi with Brown Rice,Brown Rice,Veg,1841,2157
+27.7,Poha,Lassi (low-fat),Paneer Bhurji with Chapati,Salad,Vegetable Soup,Roti,Veg,1645,1967
+23.1,Idli with Sambar,Orange Juice,Rajma with Brown Rice,Yogurt (low-fat),Aloo Gobi,Ragi Dosa,Veg,1481,1742
+22.4,Oats,Lassi (low-fat),Dal Tadka with Brown Rice,Raita (low-fat),Vegetable Soup,Whole Wheat Naan,Veg,1467,1931
+26.4,Upma,Buttermilk,Chole with Chapati,Steamed Vegetables,Grilled Vegetables,Quinoa,Veg,1825,2178
+26.6,Poha,Orange Juice,Vegetable Stir Fry with Brown Rice,Papad (roasted),Grilled Vegetables,Ragi Dosa,Veg,1439,1679
+26.4,Smoothie Bowl,Apple,Vegetable Stir Fry with Brown Rice,Papad (roasted),Aloo Gobi,Whole Wheat Naan,Veg,1568,1811
+26.1,Oats,Papaya,Quinoa Salad,Papad (roasted),Palak Paneer,Roti,Veg,1877,2100
+19.5,Vegetable Sandwich,Apple,Paneer Bhurji with Chapati,Cucumber,Mixed Veg Curry,Chapati,Veg,1861,2293
+27.4,Multigrain Paratha,Apple,Rajma with Brown Rice,Yogurt (low-fat),Baingan Bharta,Phulka,Veg,1602,1841
+19.0,Ragi Dosa,Banana,Quinoa Salad,Salad,Aloo Gobi,Phulka,Veg,1564,2012
+21.3,Multigrain Paratha,Lassi (low-fat),Quinoa Salad,Yogurt (low-fat),Aloo Gobi,Roti,Veg,1947,2169
+27.5,Ragi Dosa,Papaya,Quinoa Salad,Cucumber,Baingan Bharta,Whole Wheat Naan,Veg,1476,1813
+24.6,Smoothie Bowl,Apple,Rajma with Brown Rice,Salad,Vegetable Soup,Phulka,Veg,1883,2335
+24.0,Ragi Dosa,Banana,Paneer Bhurji with Chapati,Fruit Salad,Baingan Bharta,Ragi Dosa,Veg,1815,2303
+29.9,Vegetable Sandwich,Green Tea,Vegetable Stir Fry with Brown Rice,Fruit Salad,Aloo Gobi,Chapati,Veg,1526,1904
+25.0,Oats,Buttermilk,Dal Tadka with Brown Rice,Papad (roasted),Vegetable Soup,Quinoa,Veg,1905,2382
+24.8,Oats,Banana,Chole with Chapati,Raita (low-fat),Palak Paneer,Chapati,Veg,1646,2070
+23.7,Smoothie Bowl,Green Tea,Rajma with Brown Rice,Salad,Palak Paneer,Millet Roti,Veg,1656,1920
+23.9,Vegetable Sandwich,Apple,Paneer Bhurji with Chapati,Yogurt (low-fat),Vegetable Soup,Millet Roti,Veg,1931,2131
+24.8,Poha,Buttermilk,Rajma with Brown Rice,Cucumber,Kadhi with Brown Rice,Brown Rice,Veg,1698,1965
+28.4,Ragi Dosa,Green Tea,Dal Tadka with Brown Rice,Papad (roasted),Mixed Veg Curry,Roti,Veg,1432,1655
+26.1,Upma,Green Tea,Vegetable Stir Fry with Brown Rice,Raita (low-fat),Kadhi with Brown Rice,Quinoa,Veg,1400,1803
+19.3,Vegetable Sandwich,Coconut Water,Quinoa Salad,Fruit Salad,Aloo Gobi,Brown Rice,Veg,1498,1737
+28.7,Poha,Banana,Palak Paneer with Roti,Steamed Vegetables,Baingan Bharta,Brown Rice,Veg,1823,2053
+20.4,Smoothie Bowl,Lassi (low-fat),Palak Paneer with Roti,Raita (low-fat),Palak Paneer,Millet Roti,Veg,1413,1797
+29.9,Multigrain Paratha,Buttermilk,Chole with Chapati,Fruit Salad,Mixed Veg Curry,Roti,Veg,1562,2030
+24.1,Vegetable Sandwich,Banana,Vegetable Stir Fry with Brown Rice,Raita (low-fat),Palak Paneer,Whole Wheat Naan,Veg,1715,1931
+27.1,Smoothie Bowl,Buttermilk,Paneer Bhurji with Chapati,Papad (roasted),Baingan Bharta,Brown Rice,Veg,1945,2300
+20.0,Ragi Dosa,Orange Juice,Palak Paneer with Roti,Papad (roasted),Bhindi Masala,Millet Roti,Veg,1637,2026
+28.2,Upma,Papaya,Rajma with Brown Rice,Fruit Salad,Kadhi with Brown Rice,Roti,Veg,1744,2193
+20.7,Idli with Sambar,Apple,Dal Tadka with Brown Rice,Yogurt (low-fat),Grilled Vegetables,Millet Roti,Veg,1788,2066
+28.3,Multigrain Paratha,Papaya,Chole with Chapati,Yogurt (low-fat),Bhindi Masala,Ragi Dosa,Veg,1803,2133
+20.9,Ragi Dosa,Green Tea,Palak Paneer with Roti,Cucumber,Mixed Veg Curry,Ragi Dosa,Veg,1593,2055
+25.1,Poha,Green Tea,Dal Tadka with Brown Rice,Salad,Mixed Veg Curry,Quinoa,Veg,1815,2113
+20.3,Smoothie Bowl,Apple,Rajma with Brown Rice,Yogurt (low-fat),Palak Paneer,Whole Wheat Naan,Veg,1924,2165
+29.4,Idli with Sambar,Papaya,Palak Paneer with Roti,Raita (low-fat),Bhindi Masala,Chapati,Veg,1410,1895
+22.8,Multigrain Paratha,Green Tea,Vegetable Stir Fry with Brown Rice,Raita (low-fat),Vegetable Soup,Phulka,Veg,1501,1751
+25.0,Upma,Banana,Quinoa Salad,Papad (roasted),Kadhi with Brown Rice,Quinoa,Veg,1961,2161
+26.9,Multigrain Paratha,Apple,Paneer Bhurji with Chapati,Salad,Aloo Gobi,Whole Wheat Naan,Veg,1869,2163
+23.7,Oats,Banana,Chole with Chapati,Steamed Vegetables,Bhindi Masala,Roti,Veg,1927,2262
+26.8,Oats,Lassi (low-fat),Chole with Chapati,Steamed Vegetables,Vegetable Soup,Roti,Veg,1488,1776
+21.0,Multigrain Paratha,Lassi (low-fat),Dal Tadka with Brown Rice,Sprouts,Baingan Bharta,Roti,Veg,1973,2379
+19.1,Idli with Sambar,Green Tea,Rajma with Brown Rice,Cucumber,Baingan Bharta,Chapati,Veg,1863,2179
+26.6,Ragi Dosa,Orange Juice,Rajma with Brown Rice,Raita (low-fat),Kadhi with Brown Rice,Millet Roti,Veg,1994,2488
+26.7,Idli with Sambar,Lassi (low-fat),Palak Paneer with Roti,Papad (roasted),Grilled Vegetables,Millet Roti,Veg,1815,2310
+28.5,Multigrain Paratha,Orange Juice,Paneer Bhurji with Chapati,Raita (low-fat),Vegetable Soup,Brown Rice,Veg,1434,1676
+29.6,Upma,Coconut Water,Dal Tadka with Brown Rice,Salad,Grilled Vegetables,Millet Roti,Veg,1582,1825
+22.2,Smoothie Bowl,Orange Juice,Palak Paneer with Roti,Yogurt (low-fat),Palak Paneer,Whole Wheat Naan,Veg,1775,2263
+24.9,Idli with Sambar,Banana,Paneer Bhurji with Chapati,Cucumber,Grilled Vegetables,Roti,Veg,1872,2108
+25.7,Ragi Dosa,Papaya,Quinoa Salad,Papad (roasted),Baingan Bharta,Millet Roti,Veg,1987,2268
+22.2,Smoothie Bowl,Coconut Water,Paneer Bhurji with Chapati,Raita (low-fat),Aloo Gobi,Brown Rice,Veg,1487,1832
+28.0,Idli with Sambar,Orange Juice,Vegetable Stir Fry with Brown Rice,Fruit Salad,Aloo Gobi,Chapati,Veg,1766,2186
+20.8,Vegetable Sandwich,Buttermilk,Quinoa Salad,Sprouts,Vegetable Soup,Chapati,Veg,1555,1807
+19.9,Smoothie Bowl,Coconut Water,Vegetable Stir Fry with Brown Rice,Yogurt (low-fat),Grilled Vegetables,Quinoa,Veg,1447,1679
+20.5,Smoothie Bowl,Banana,Dal Tadka with Brown Rice,Raita (low-fat),Palak Paneer,Phulka,Veg,1990,2213
+26.1,Idli with Sambar,Orange Juice,Paneer Bhurji with Chapati,Sprouts,Palak Paneer,Quinoa,Veg,1588,1816
+23.3,Upma,Papaya,Paneer Bhurji with Chapati,Fruit Salad,Vegetable Soup,Quinoa,Veg,1971,2367
+28.7,Vegetable Sandwich,Papaya,Quinoa Salad,Yogurt (low-fat),Vegetable Soup,Roti,Veg,1593,1954
+22.6,Vegetable Sandwich,Lassi (low-fat),Dal Tadka with Brown Rice,Papad (roasted),Palak Paneer,Quinoa,Veg,1428,1870
+27.3,Upma,Coconut Water,Chole with Chapati,Cucumber,Palak Paneer,Brown Rice,Veg,1777,2128
+19.2,Smoothie Bowl,Orange Juice,Quinoa Salad,Cucumber,Aloo Gobi,Brown Rice,Veg,1407,1725
+19.2,Idli with Sambar,Buttermilk,Quinoa Salad,Yogurt (low-fat),Mixed Veg Curry,Chapati,Veg,1623,1948
+18.8,Vegetable Sandwich,Banana,Chole with Chapati,Steamed Vegetables,Baingan Bharta,Millet Roti,Veg,1880,2299
+27.5,Ragi Dosa,Lassi (low-fat),Rajma with Brown Rice,Raita (low-fat),Aloo Gobi,Quinoa,Veg,1535,1920
+21.0,Smoothie Bowl,Coconut Water,Quinoa Salad,Salad,Kadhi with Brown Rice,Roti,Veg,1522,1803
+22.4,Idli with Sambar,Coconut Water,Quinoa Salad,Salad,Baingan Bharta,Chapati,Veg,1680,2061
+26.0,Multigrain Paratha,Banana,Chole with Chapati,Papad (roasted),Grilled Vegetables,Ragi Dosa,Veg,1749,2047
+20.2,Poha,Coconut Water,Dal Tadka with Brown Rice,Papad (roasted),Grilled Vegetables,Roti,Veg,1733,2122
+28.2,Ragi Dosa,Coconut Water,Vegetable Stir Fry with Brown Rice,Raita (low-fat),Kadhi with Brown Rice,Millet Roti,Veg,1999,2377
+27.0,Smoothie Bowl,Lassi (low-fat),Rajma with Brown Rice,Sprouts,Baingan Bharta,Ragi Dosa,Veg,1745,2192
+25.3,Poha,Green Tea,Palak Paneer with Roti,Yogurt (low-fat),Grilled Vegetables,Chapati,Veg,1750,2143
+28.2,Idli with Sambar,Green Tea,Dal Tadka with Brown Rice,Salad,Palak Paneer,Millet Roti,Veg,1582,2038
+20.5,Poha,Green Tea,Rajma with Brown Rice,Raita (low-fat),Mixed Veg Curry,Quinoa,Veg,1989,2364
+19.0,Smoothie Bowl,Green Tea,Dal Tadka with Brown Rice,Raita (low-fat),Grilled Vegetables,Phulka,Veg,1580,1799
+22.8,Smoothie Bowl,Coconut Water,Palak Paneer with Roti,Yogurt (low-fat),Vegetable Soup,Quinoa,Veg,1554,1931
+20.8,Multigrain Paratha,Orange Juice,Paneer Bhurji with Chapati,Steamed Vegetables,Aloo Gobi,Millet Roti,Veg,1835,2096
+20.0,Upma,Banana,Quinoa Salad,Cucumber,Mixed Veg Curry,Phulka,Veg,1857,2125
+23.7,Ragi Dosa,Green Tea,Vegetable Stir Fry with Brown Rice,Papad (roasted),Palak Paneer,Millet Roti,Veg,1515,1956
+23.6,Vegetable Sandwich,Buttermilk,Paneer Bhurji with Chapati,Fruit Salad,Mixed Veg Curry,Brown Rice,Veg,1465,1685
+26.5,Multigrain Paratha,Green Tea,Rajma with Brown Rice,Papad (roasted),Mixed Veg Curry,Ragi Dosa,Veg,1810,2288
+27.7,Poha,Coconut Water,Paneer Bhurji with Chapati,Yogurt (low-fat),Grilled Vegetables,Chapati,Veg,1796,2147
+18.9,Vegetable Sandwich,Papaya,Palak Paneer with Roti,Yogurt (low-fat),Baingan Bharta,Millet Roti,Veg,1615,1861
+25.0,Upma,Apple,Chole with Chapati,Papad (roasted),Vegetable Soup,Ragi Dosa,Veg,1667,1947
+24.0,Poha,Banana,Paneer Bhurji with Chapati,Fruit Salad,Mixed Veg Curry,Whole Wheat Naan,Veg,1755,2111
+25.1,Multigrain Paratha,Papaya,Chole with Chapati,Cucumber,Grilled Vegetables,Chapati,Veg,1551,1889
+25.0,Upma,Buttermilk,Vegetable Stir Fry with Brown Rice,Sprouts,Aloo Gobi,Roti,Veg,1945,2416
+19.4,Upma,Green Tea,Quinoa Salad,Cucumber,Bhindi Masala,Roti,Veg,1764,2198
+20.9,Idli with Sambar,Coconut Water,Chole with Chapati,Cucumber,Baingan Bharta,Roti,Veg,1817,2217
+21.7,Multigrain Paratha,Papaya,Palak Paneer with Roti,Raita (low-fat),Grilled Vegetables,Whole Wheat Naan,Veg,1414,1683
+21.9,Smoothie Bowl,Coconut Water,Dal Tadka with Brown Rice,Raita (low-fat),Palak Paneer,Whole Wheat Naan,Veg,1746,2129
+27.3,Poha,Buttermilk,Paneer Bhurji with Chapati,Raita (low-fat),Mixed Veg Curry,Phulka,Veg,1506,1765
+22.4,Oats,Apple,Paneer Bhurji with Chapati,Papad (roasted),Palak Paneer,Millet Roti,Veg,1805,2101
+19.7,Smoothie Bowl,Lassi (low-fat),Dal Tadka with Brown Rice,Sprouts,Vegetable Soup,Chapati,Veg,1470,1747
+29.5,Vegetable Sandwich,Apple,Rajma with Brown Rice,Salad,Aloo Gobi,Quinoa,Veg,1696,1923
+22.8,Oats,Orange Juice,Dal Tadka with Brown Rice,Cucumber,Vegetable Soup,Brown Rice,Veg,1966,2450
+24.9,Oats,Coconut Water,Dal Tadka with Brown Rice,Fruit Salad,Palak Paneer,Phulka,Veg,1863,2258
+28.9,Oats,Lassi (low-fat),Rajma with Brown Rice,Salad,Palak Paneer,Quinoa,Veg,1432,1905
+29.9,Oats,Green Tea,Paneer Bhurji with Chapati,Yogurt (low-fat),Palak Paneer,Whole Wheat Naan,Veg,1972,2312
+26.3,Idli with Sambar,Orange Juice,Vegetable Stir Fry with Brown Rice,Cucumber,Grilled Vegetables,Quinoa,Veg,1798,2193
+23.4,Upma,Coconut Water,Rajma with Brown Rice,Fruit Salad,Palak Paneer,Ragi Dosa,Veg,1486,1742
+27.1,Poha,Lassi (low-fat),Quinoa Salad,Yogurt (low-fat),Mixed Veg Curry,Brown Rice,Veg,1991,2243
+21.4,Multigrain Paratha,Apple,Chole with Chapati,Steamed Vegetables,Grilled Vegetables,Ragi Dosa,Veg,1899,2267
+21.5,Upma,Coconut Water,Quinoa Salad,Papad (roasted),Grilled Vegetables,Quinoa,Veg,1857,2070
+28.9,Poha,Orange Juice,Vegetable Stir Fry with Brown Rice,Sprouts,Palak Paneer,Brown Rice,Veg,1509,1749
+23.3,Multigrain Paratha,Banana,Quinoa Salad,Sprouts,Palak Paneer,Roti,Veg,1703,1983
+20.4,Multigrain Paratha,Apple,Quinoa Salad,Steamed Vegetables,Vegetable Soup,Chapati,Veg,1411,1714
+20.0,Oats,Lassi (low-fat),Rajma with Brown Rice,Salad,Palak Paneer,Phulka,Veg,1633,1874
+23.9,Oats,Buttermilk,Quinoa Salad,Cucumber,Aloo Gobi,Roti,Veg,1499,1719
+22.9,Multigrain Paratha,Banana,Chole with Chapati,Yogurt (low-fat),Grilled Vegetables,Phulka,Veg,1621,2013
+19.4,Idli with Sambar,Lassi (low-fat),Palak Paneer with Roti,Cucumber,Palak Paneer,Chapati,Veg,1548,1860
+30.0,Smoothie Bowl,Buttermilk,Quinoa Salad,Salad,Aloo Gobi,Quinoa,Veg,1961,2231
+18.7,Poha,Coconut Water,Paneer Bhurji with Chapati,Sprouts,Baingan Bharta,Whole Wheat Naan,Veg,1893,2108
+25.3,Poha,Orange Juice,Vegetable Stir Fry with Brown Rice,Cucumber,Grilled Vegetables,Chapati,Veg,1802,2160
+29.6,Vegetable Sandwich,Apple,Quinoa Salad,Fruit Salad,Kadhi with Brown Rice,Whole Wheat Naan,Veg,1909,2175
+29.1,Vegetable Sandwich,Papaya,Dal Tadka with Brown Rice,Salad,Aloo Gobi,Phulka,Veg,1494,1835
+23.8,Multigrain Paratha,Orange Juice,Quinoa Salad,Steamed Vegetables,Kadhi with Brown Rice,Ragi Dosa,Veg,1538,2019
+25.9,Upma,Buttermilk,Palak Paneer with Roti,Raita (low-fat),Mixed Veg Curry,Chapati,Veg,1407,1731
+20.3,Smoothie Bowl,Lassi (low-fat),Paneer Bhurji with Chapati,Sprouts,Baingan Bharta,Phulka,Veg,1689,2023
+20.8,Poha,Orange Juice,Quinoa Salad,Salad,Mixed Veg Curry,Phulka,Veg,1737,2102
+27.4,Oats,Banana,Palak Paneer with Roti,Raita (low-fat),Bhindi Masala,Roti,Veg,1425,1644
+19.5,Smoothie Bowl,Papaya,Paneer Bhurji with Chapati,Steamed Vegetables,Grilled Vegetables,Roti,Veg,1970,2175
+26.5,Idli with Sambar,Banana,Dal Tadka with Brown Rice,Yogurt (low-fat),Aloo Gobi,Whole Wheat Naan,Veg,1843,2112
+23.6,Vegetable Sandwich,Banana,Rajma with Brown Rice,Cucumber,Palak Paneer,Quinoa,Veg,1495,1814
+28.1,Ragi Dosa,Lassi (low-fat),Dal Tadka with Brown Rice,Yogurt (low-fat),Baingan Bharta,Whole Wheat Naan,Veg,1888,2356
+26.2,Upma,Buttermilk,Rajma with Brown Rice,Steamed Vegetables,Grilled Vegetables,Brown Rice,Veg,1692,2187
+26.3,Vegetable Sandwich,Lassi (low-fat),Rajma with Brown Rice,Cucumber,Palak Paneer,Chapati,Veg,1972,2279
+19.4,Idli with Sambar,Papaya,Chole with Chapati,Yogurt (low-fat),Grilled Vegetables,Brown Rice,Veg,1836,2248
+22.4,Ragi Dosa,Banana,Palak Paneer with Roti,Fruit Salad,Grilled Vegetables,Phulka,Veg,1615,1946
+26.6,Oats,Papaya,Quinoa Salad,Sprouts,Palak Paneer,Chapati,Veg,1452,1679
+21.9,Smoothie Bowl,Apple,Vegetable Stir Fry with Brown Rice,Salad,Kadhi with Brown Rice,Chapati,Veg,1631,1950
+20.3,Multigrain Paratha,Orange Juice,Quinoa Salad,Yogurt (low-fat),Kadhi with Brown Rice,Chapati,Veg,1891,2262
+27.9,Multigrain Paratha,Orange Juice,Paneer Bhurji with Chapati,Raita (low-fat),Kadhi with Brown Rice,Brown Rice,Veg,1768,2047
+26.3,Multigrain Paratha,Buttermilk,Vegetable Stir Fry with Brown Rice,Cucumber,Aloo Gobi,Millet Roti,Veg,1552,1967
+24.8,Poha,Orange Juice,Quinoa Salad,Fruit Salad,Palak Paneer,Millet Roti,Veg,1678,2110
+23.2,Multigrain Paratha,Lassi (low-fat),Dal Tadka with Brown Rice,Cucumber,Kadhi with Brown Rice,Quinoa,Veg,1822,2110
+19.6,Multigrain Paratha,Green Tea,Vegetable Stir Fry with Brown Rice,Fruit Salad,Baingan Bharta,Quinoa,Veg,1747,1995
+23.2,Poha,Buttermilk,Palak Paneer with Roti,Papad (roasted),Bhindi Masala,Millet Roti,Veg,1727,2181
+26.5,Poha,Lassi (low-fat),Paneer Bhurji with Chapati,Sprouts,Palak Paneer,Quinoa,Veg,1616,1872
+25.2,Idli with Sambar,Apple,Palak Paneer with Roti,Cucumber,Baingan Bharta,Phulka,Veg,1424,1657
+27.1,Poha,Coconut Water,Rajma with Brown Rice,Raita (low-fat),Palak Paneer,Roti,Veg,1693,2113
+23.5,Idli with Sambar,Papaya,Dal Tadka with Brown Rice,Papad (roasted),Vegetable Soup,Millet Roti,Veg,1701,2148
+24.5,Multigrain Paratha,Buttermilk,Chole with Chapati,Cucumber,Baingan Bharta,Chapati,Veg,1835,2333
+28.4,Smoothie Bowl,Banana,Rajma with Brown Rice,Papad (roasted),Bhindi Masala,Phulka,Veg,1408,1678
+22.0,Multigrain Paratha,Orange Juice,Chole with Chapati,Fruit Salad,Kadhi with Brown Rice,Chapati,Veg,1743,1992
+19.3,Oats,Banana,Rajma with Brown Rice,Cucumber,Grilled Vegetables,Ragi Dosa,Veg,1814,2312
+21.7,Smoothie Bowl,Banana,Palak Paneer with Roti,Papad (roasted),Baingan Bharta,Phulka,Veg,1720,1935
+25.2,Poha,Buttermilk,Dal Tadka with Brown Rice,Yogurt (low-fat),Baingan Bharta,Ragi Dosa,Veg,1649,1924
+26.7,Vegetable Sandwich,Coconut Water,Rajma with Brown Rice,Yogurt (low-fat),Palak Paneer,Whole Wheat Naan,Veg,1526,1982
+23.0,Oats,Green Tea,Vegetable Stir Fry with Brown Rice,Raita (low-fat),Kadhi with Brown Rice,Brown Rice,Veg,1646,2021
+19.6,Upma,Coconut Water,Dal Tadka with Brown Rice,Fruit Salad,Baingan Bharta,Quinoa,Veg,1544,1962
+25.6,Ragi Dosa,Green Tea,Rajma with Brown Rice,Yogurt (low-fat),Grilled Vegetables,Chapati,Veg,1672,2168
+28.7,Idli with Sambar,Coconut Water,Rajma with Brown Rice,Cucumber,Palak Paneer,Quinoa,Veg,1915,2241
+25.6,Oats,Papaya,Quinoa Salad,Yogurt (low-fat),Palak Paneer,Whole Wheat Naan,Veg,1552,2023
+19.3,Smoothie Bowl,Lassi (low-fat),Paneer Bhurji with Chapati,Cucumber,Vegetable Soup,Phulka,Veg,1493,1731
+28.4,Vegetable Sandwich,Buttermilk,Paneer Bhurji with Chapati,Yogurt (low-fat),Vegetable Soup,Phulka,Veg,1782,2013
+19.4,Oats,Green Tea,Chole with Chapati,Fruit Salad,Palak Paneer,Phulka,Veg,1644,1859
+23.3,Oats,Apple,Dal Tadka with Brown Rice,Yogurt (low-fat),Aloo Gobi,Brown Rice,Veg,1747,1969
+29.0,Idli with Sambar,Green Tea,Quinoa Salad,Sprouts,Vegetable Soup,Whole Wheat Naan,Veg,1401,1806
+25.1,Oats,Apple,Paneer Bhurji with Chapati,Raita (low-fat),Palak Paneer,Millet Roti,Veg,1718,2213
+19.1,Vegetable Sandwich,Buttermilk,Palak Paneer with Roti,Fruit Salad,Baingan Bharta,Millet Roti,Veg,1448,1736
+27.8,Oats,Papaya,Dal Tadka with Brown Rice,Cucumber,Kadhi with Brown Rice,Millet Roti,Veg,1742,1946
+21.0,Idli with Sambar,Lassi (low-fat),Dal Tadka with Brown Rice,Steamed Vegetables,Kadhi with Brown Rice,Quinoa,Veg,1895,2297
+26.7,Idli with Sambar,Banana,Dal Tadka with Brown Rice,Papad (roasted),Bhindi Masala,Roti,Veg,1790,2128
+24.6,Ragi Dosa,Coconut Water,Palak Paneer with Roti,Raita (low-fat),Grilled Vegetables,Whole Wheat Naan,Veg,1425,1667
+24.1,Smoothie Bowl,Orange Juice,Vegetable Stir Fry with Brown Rice,Sprouts,Bhindi Masala,Quinoa,Veg,1724,1924
+25.0,Poha,Orange Juice,Vegetable Stir Fry with Brown Rice,Steamed Vegetables,Vegetable Soup,Phulka,Veg,1438,1745
+22.2,Multigrain Paratha,Buttermilk,Dal Tadka with Brown Rice,Papad (roasted),Baingan Bharta,Roti,Veg,1498,1951
+29.4,Smoothie Bowl,Lassi (low-fat),Dal Tadka with Brown Rice,Papad (roasted),Baingan Bharta,Quinoa,Veg,1782,2190
+28.9,Poha,Apple,Rajma with Brown Rice,Salad,Bhindi Masala,Phulka,Veg,1736,2176
+21.2,Smoothie Bowl,Lassi (low-fat),Palak Paneer with Roti,Steamed Vegetables,Baingan Bharta,Brown Rice,Veg,1693,1979
+29.5,Upma,Apple,Rajma with Brown Rice,Raita (low-fat),Baingan Bharta,Phulka,Veg,1893,2233
+19.0,Poha,Coconut Water,Palak Paneer with Roti,Papad (roasted),Kadhi with Brown Rice,Millet Roti,Veg,1746,2140
+20.0,Upma,Banana,Quinoa Salad,Fruit Salad,Vegetable Soup,Ragi Dosa,Veg,1562,1909
+23.9,Idli with Sambar,Banana,Paneer Bhurji with Chapati,Steamed Vegetables,Kadhi with Brown Rice,Roti,Veg,1978,2207
+29.7,Poha,Coconut Water,Quinoa Salad,Papad (roasted),Baingan Bharta,Whole Wheat Naan,Veg,1591,1939
+23.4,Idli with Sambar,Papaya,Vegetable Stir Fry with Brown Rice,Papad (roasted),Baingan Bharta,Ragi Dosa,Veg,1509,1712
+19.8,Smoothie Bowl,Coconut Water,Vegetable Stir Fry with Brown Rice,Sprouts,Mixed Veg Curry,Phulka,Veg,1696,2147
+22.9,Poha,Orange Juice,Quinoa Salad,Cucumber,Baingan Bharta,Chapati,Veg,1820,2210
+27.2,Smoothie Bowl,Papaya,Paneer Bhurji with Chapati,Steamed Vegetables,Aloo Gobi,Chapati,Veg,1703,2121
+28.6,Poha,Orange Juice,Rajma with Brown Rice,Papad (roasted),Bhindi Masala,Ragi Dosa,Veg,1807,2105
+28.1,Idli with Sambar,Banana,Palak Paneer with Roti,Steamed Vegetables,Vegetable Soup,Roti,Veg,1799,2096
+20.7,Smoothie Bowl,Banana,Dal Tadka with Brown Rice,Sprouts,Palak Paneer,Ragi Dosa,Veg,1404,1687
+20.0,Idli with Sambar,Orange Juice,Palak Paneer with Roti,Salad,Grilled Vegetables,Chapati,Veg,1618,2037
+23.9,Multigrain Paratha,Banana,Rajma with Brown Rice,Steamed Vegetables,Grilled Vegetables,Whole Wheat Naan,Veg,1934,2338
+22.1,Upma,Apple,Vegetable Stir Fry with Brown Rice,Yogurt (low-fat),Grilled Vegetables,Whole Wheat Naan,Veg,1737,2061
+20.4,Smoothie Bowl,Coconut Water,Paneer Bhurji with Chapati,Yogurt (low-fat),Baingan Bharta,Whole Wheat Naan,Veg,1752,2129
+23.5,Multigrain Paratha,Green Tea,Quinoa Salad,Fruit Salad,Grilled Vegetables,Ragi Dosa,Veg,1606,1950
+20.3,Oats,Buttermilk,Vegetable Stir Fry with Brown Rice,Raita (low-fat),Baingan Bharta,Roti,Veg,1530,1939
+28.6,Multigrain Paratha,Lassi (low-fat),Vegetable Stir Fry with Brown Rice,Papad (roasted),Baingan Bharta,Brown Rice,Veg,1443,1842
+24.7,Poha,Papaya,Palak Paneer with Roti,Yogurt (low-fat),Baingan Bharta,Millet Roti,Veg,1490,1881
+23.6,Idli with Sambar,Apple,Paneer Bhurji with Chapati,Yogurt (low-fat),Mixed Veg Curry,Millet Roti,Veg,1576,1986
+20.7,Multigrain Paratha,Coconut Water,Palak Paneer with Roti,Cucumber,Baingan Bharta,Ragi Dosa,Veg,1775,2202
+21.0,Ragi Dosa,Coconut Water,Dal Tadka with Brown Rice,Cucumber,Palak Paneer,Millet Roti,Veg,1746,1996
+26.3,Smoothie Bowl,Buttermilk,Chole with Chapati,Salad,Palak Paneer,Whole Wheat Naan,Veg,1706,2147
+22.5,Upma,Papaya,Dal Tadka with Brown Rice,Steamed Vegetables,Kadhi with Brown Rice,Millet Roti,Veg,1465,1692
+21.9,Upma,Papaya,Rajma with Brown Rice,Papad (roasted),Vegetable Soup,Millet Roti,Veg,1696,2001
+26.7,Ragi Dosa,Papaya,Paneer Bhurji with Chapati,Cucumber,Palak Paneer,Whole Wheat Naan,Veg,1818,2179
+18.7,Oats,Banana,Chole with Chapati,Steamed Vegetables,Kadhi with Brown Rice,Phulka,Veg,1450,1927
+20.5,Poha,Coconut Water,Dal Tadka with Brown Rice,Raita (low-fat),Mixed Veg Curry,Whole Wheat Naan,Veg,1655,1910
+27.7,Upma,Apple,Vegetable Stir Fry with Brown Rice,Steamed Vegetables,Vegetable Soup,Roti,Veg,1493,1769
+18.8,Poha,Papaya,Vegetable Stir Fry with Brown Rice,Papad (roasted),Bhindi Masala,Whole Wheat Naan,Veg,1759,2002
+21.7,Multigrain Paratha,Orange Juice,Rajma with Brown Rice,Raita (low-fat),Bhindi Masala,Ragi Dosa,Veg,1673,2152
+26.3,Oats,Buttermilk,Vegetable Stir Fry with Brown Rice,Sprouts,Bhindi Masala,Whole Wheat Naan,Veg,1568,1928
+22.3,Smoothie Bowl,Papaya,Chole with Chapati,Fruit Salad,Kadhi with Brown Rice,Roti,Veg,1923,2188
+26.5,Smoothie Bowl,Buttermilk,Paneer Bhurji with Chapati,Raita (low-fat),Bhindi Masala,Ragi Dosa,Veg,1514,1922
+23.6,Ragi Dosa,Coconut Water,Palak Paneer with Roti,Yogurt (low-fat),Aloo Gobi,Whole Wheat Naan,Veg,1408,1690
+23.8,Poha,Lassi (low-fat),Paneer Bhurji with Chapati,Sprouts,Baingan Bharta,Ragi Dosa,Veg,1757,2114
+23.1,Upma,Papaya,Rajma with Brown Rice,Cucumber,Bhindi Masala,Roti,Veg,1690,2154
+26.3,Multigrain Paratha,Green Tea,Chole with Chapati,Sprouts,Vegetable Soup,Quinoa,Veg,1831,2273
+28.7,Vegetable Sandwich,Buttermilk,Paneer Bhurji with Chapati,Cucumber,Palak Paneer,Brown Rice,Veg,1941,2234
+23.0,Upma,Green Tea,Paneer Bhurji with Chapati,Yogurt (low-fat),Kadhi with Brown Rice,Millet Roti,Veg,1983,2235
+26.1,Upma,Orange Juice,Quinoa Salad,Papad (roasted),Mixed Veg Curry,Chapati,Veg,1489,1795
+25.1,Idli with Sambar,Orange Juice,Rajma with Brown Rice,Sprouts,Kadhi with Brown Rice,Millet Roti,Veg,1808,2046
+23.5,Poha,Orange Juice,Vegetable Stir Fry with Brown Rice,Steamed Vegetables,Grilled Vegetables,Millet Roti,Veg,1822,2167
+22.6,Idli with Sambar,Green Tea,Dal Tadka with Brown Rice,Sprouts,Vegetable Soup,Brown Rice,Veg,1980,2459
+29.7,Multigrain Paratha,Lassi (low-fat),Palak Paneer with Roti,Cucumber,Kadhi with Brown Rice,Whole Wheat Naan,Veg,1563,1786
+30.0,Vegetable Sandwich,Orange Juice,Palak Paneer with Roti,Papad (roasted),Grilled Vegetables,Roti,Veg,1768,2173
+25.7,Poha,Coconut Water,Vegetable Stir Fry with Brown Rice,Papad (roasted),Mixed Veg Curry,Whole Wheat Naan,Veg,1961,2333
+20.7,Upma,Lassi (low-fat),Rajma with Brown Rice,Sprouts,Palak Paneer,Roti,Veg,1960,2219
+22.0,Ragi Dosa,Lassi (low-fat),Paneer Bhurji with Chapati,Papad (roasted),Kadhi with Brown Rice,Phulka,Veg,1606,1950
+24.1,Ragi Dosa,Banana,Palak Paneer with Roti,Steamed Vegetables,Baingan Bharta,Brown Rice,Veg,1853,2282
+21.8,Smoothie Bowl,Lassi (low-fat),Chole with Chapati,Steamed Vegetables,Baingan Bharta,Brown Rice,Veg,1837,2188
+20.1,Smoothie Bowl,Papaya,Dal Tadka with Brown Rice,Papad (roasted),Baingan Bharta,Chapati,Veg,1687,1908
+21.5,Smoothie Bowl,Papaya,Dal Tadka with Brown Rice,Cucumber,Vegetable Soup,Ragi Dosa,Veg,1678,1933
+22.8,Vegetable Sandwich,Papaya,Quinoa Salad,Yogurt (low-fat),Baingan Bharta,Phulka,Veg,1762,2058
+22.0,Oats,Green Tea,Dal Tadka with Brown Rice,Yogurt (low-fat),Palak Paneer,Ragi Dosa,Veg,1823,2265
+24.5,Multigrain Paratha,Lassi (low-fat),Quinoa Salad,Fruit Salad,Grilled Vegetables,Millet Roti,Veg,1852,2108
+23.8,Multigrain Paratha,Green Tea,Vegetable Stir Fry with Brown Rice,Salad,Aloo Gobi,Brown Rice,Veg,1476,1696
+25.5,Upma,Green Tea,Vegetable Stir Fry with Brown Rice,Raita (low-fat),Vegetable Soup,Roti,Veg,1792,2244
+21.6,Multigrain Paratha,Papaya,Palak Paneer with Roti,Yogurt (low-fat),Grilled Vegetables,Ragi Dosa,Veg,1866,2331
+19.6,Multigrain Paratha,Green Tea,Rajma with Brown Rice,Steamed Vegetables,Vegetable Soup,Phulka,Veg,1791,2236
+21.5,Smoothie Bowl,Coconut Water,Paneer Bhurji with Chapati,Papad (roasted),Grilled Vegetables,Ragi Dosa,Veg,1493,1853
+23.3,Poha,Orange Juice,Palak Paneer with Roti,Papad (roasted),Bhindi Masala,Roti,Veg,1953,2188
+20.2,Upma,Banana,Quinoa Salad,Yogurt (low-fat),Kadhi with Brown Rice,Roti,Veg,1692,1980
+21.8,Multigrain Paratha,Buttermilk,Vegetable Stir Fry with Brown Rice,Raita (low-fat),Palak Paneer,Quinoa,Veg,1794,2217
+25.8,Idli with Sambar,Papaya,Vegetable Stir Fry with Brown Rice,Salad,Grilled Vegetables,Chapati,Veg,1413,1716
+23.8,Multigrain Paratha,Apple,Quinoa Salad,Yogurt (low-fat),Palak Paneer,Phulka,Veg,1404,1846
+26.8,Smoothie Bowl,Orange Juice,Chole with Chapati,Yogurt (low-fat),Bhindi Masala,Millet Roti,Veg,1584,1955
+18.8,Ragi Dosa,Buttermilk,Paneer Bhurji with Chapati,Fruit Salad,Mixed Veg Curry,Chapati,Veg,1653,2115
+26.2,Multigrain Paratha,Orange Juice,Rajma with Brown Rice,Salad,Grilled Vegetables,Millet Roti,Veg,1919,2307
+19.0,Poha,Lassi (low-fat),Vegetable Stir Fry with Brown Rice,Salad,Palak Paneer,Whole Wheat Naan,Veg,1615,1821
+22.9,Oats,Papaya,Rajma with Brown Rice,Raita (low-fat),Aloo Gobi,Phulka,Veg,1898,2203
+20.7,Poha,Lassi (low-fat),Quinoa Salad,Fruit Salad,Bhindi Masala,Phulka,Veg,1874,2126
+25.5,Ragi Dosa,Buttermilk,Palak Paneer with Roti,Cucumber,Kadhi with Brown Rice,Whole Wheat Naan,Veg,1954,2394
+24.3,Idli with Sambar,Orange Juice,Paneer Bhurji with Chapati,Cucumber,Vegetable Soup,Roti,Veg,1648,1964
+20.0,Vegetable Sandwich,Banana,Vegetable Stir Fry with Brown Rice,Salad,Bhindi Masala,Millet Roti,Veg,1981,2190
+27.7,Oats,Green Tea,Rajma with Brown Rice,Salad,Vegetable Soup,Phulka,Veg,1544,1870
+27.8,Poha,Green Tea,Paneer Bhurji with Chapati,Cucumber,Vegetable Soup,Quinoa,Veg,1447,1913
+28.2,Vegetable Sandwich,Papaya,Rajma with Brown Rice,Salad,Grilled Vegetables,Phulka,Veg,1612,2080
+29.5,Smoothie Bowl,Coconut Water,Dal Tadka with Brown Rice,Steamed Vegetables,Grilled Vegetables,Brown Rice,Veg,1885,2289
+19.1,Oats,Lassi (low-fat),Paneer Bhurji with Chapati,Cucumber,Kadhi with Brown Rice,Whole Wheat Naan,Veg,1955,2157
+23.5,Idli with Sambar,Coconut Water,Dal Tadka with Brown Rice,Yogurt (low-fat),Palak Paneer,Millet Roti,Veg,1979,2418
+21.3,Vegetable Sandwich,Green Tea,Dal Tadka with Brown Rice,Sprouts,Vegetable Soup,Chapati,Veg,1511,1957
+23.9,Oats,Green Tea,Paneer Bhurji with Chapati,Sprouts,Baingan Bharta,Ragi Dosa,Veg,1719,1987
+19.3,Vegetable Sandwich,Coconut Water,Dal Tadka with Brown Rice,Salad,Mixed Veg Curry,Whole Wheat Naan,Veg,1813,2164
+23.8,Idli with Sambar,Banana,Paneer Bhurji with Chapati,Sprouts,Kadhi with Brown Rice,Millet Roti,Veg,1673,1882
+23.0,Smoothie Bowl,Coconut Water,Quinoa Salad,Yogurt (low-fat),Vegetable Soup,Phulka,Veg,1994,2205
+25.7,Vegetable Sandwich,Orange Juice,Paneer Bhurji with Chapati,Fruit Salad,Vegetable Soup,Brown Rice,Veg,1544,1806
+22.7,Poha,Apple,Rajma with Brown Rice,Cucumber,Kadhi with Brown Rice,Millet Roti,Veg,1527,1967
+22.3,Smoothie Bowl,Buttermilk,Palak Paneer with Roti,Steamed Vegetables,Aloo Gobi,Quinoa,Veg,1450,1746
+22.7,Ragi Dosa,Apple,Quinoa Salad,Cucumber,Grilled Vegetables,Whole Wheat Naan,Veg,1436,1783
+21.0,Upma,Orange Juice,Quinoa Salad,Cucumber,Baingan Bharta,Phulka,Veg,1978,2335
+24.8,Idli with Sambar,Banana,Paneer Bhurji with Chapati,Cucumber,Aloo Gobi,Brown Rice,Veg,1418,1748
+21.2,Oats,Apple,Vegetable Stir Fry with Brown Rice,Papad (roasted),Kadhi with Brown Rice,Whole Wheat Naan,Veg,1884,2148
+27.4,Smoothie Bowl,Papaya,Quinoa Salad,Salad,Palak Paneer,Roti,Veg,1657,1940
+19.8,Smoothie Bowl,Apple,Dal Tadka with Brown Rice,Steamed Vegetables,Vegetable Soup,Whole Wheat Naan,Veg,1929,2383
+21.3,Poha,Buttermilk,Vegetable Stir Fry with Brown Rice,Papad (roasted),Bhindi Masala,Roti,Veg,1489,1708
+29.1,Upma,Coconut Water,Palak Paneer with Roti,Yogurt (low-fat),Kadhi with Brown Rice,Phulka,Veg,1985,2302
+27.1,Poha,Coconut Water,Vegetable Stir Fry with Brown Rice,Yogurt (low-fat),Vegetable Soup,Chapati,Veg,1421,1877
+27.9,Idli with Sambar,Apple,Vegetable Stir Fry with Brown Rice,Raita (low-fat),Aloo Gobi,Ragi Dosa,Veg,1991,2258
+28.7,Oats,Papaya,Paneer Bhurji with Chapati,Fruit Salad,Bhindi Masala,Roti,Veg,1438,1852
+25.8,Multigrain Paratha,Buttermilk,Palak Paneer with Roti,Raita (low-fat),Vegetable Soup,Ragi Dosa,Veg,1731,1956
+24.3,Upma,Coconut Water,Rajma with Brown Rice,Sprouts,Palak Paneer,Phulka,Veg,1782,2185
+26.0,Upma,Banana,Dal Tadka with Brown Rice,Steamed Vegetables,Baingan Bharta,Roti,Veg,1401,1759
+19.0,Ragi Dosa,Apple,Quinoa Salad,Fruit Salad,Baingan Bharta,Whole Wheat Naan,Veg,1651,2099
+25.7,Smoothie Bowl,Orange Juice,Rajma with Brown Rice,Cucumber,Palak Paneer,Quinoa,Veg,1847,2182
+20.9,Upma,Orange Juice,Chole with Chapati,Cucumber,Vegetable Soup,Ragi Dosa,Veg,1560,2055
+

@@ -1,0 +1,76 @@
+.container {
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    /* background-color: #f5f8fa; */
+}
+
+@media screen and (max-width:600px) {
+    .logo {
+        width: 50%;
+        padding-left: 5vw;
+        margin-top: 2vh;
+        height: auto;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    .icon {
+        width: 60%;
+        height: auto;
+        filter: invert(100%);
+
+
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .centericon {
+        width: 15%;
+        height: auto;
+        background-color: transparent;
+        filter: invert(100%);
+    }
+}
+
+.body-map__muscle path:hover {
+    fill: crimson;
+}
+
+@media screen and (max-width:600px) {
+    .heading li {
+        background-color: white;
+        counter-increment: steps;
+        padding: 0.5em;
+        font-size: medium;
+        border-style: outset;
+        position: relative;
+        padding-left: 5vw;
+    }
+
+}
+
+@media screen and (max-width:600px) {
+    .heading ol li::before {
+        top: 50%;
+        content: counter(steps);
+        border-radius: 500px;
+        background: #20409a;
+        position: absolute;
+        width: 2.5rem;
+        height: auto;
+        color: white;
+        text-align: center;
+        left: -2rem;
+        line-height: 260%;
+        transform: translateY(-50%);
+        box-shadow: 0 0 3px rgb(0 0 0 / 40%),
+            0 0 0 5px #f5f8fa, 5px 0 2px rgb(0 0 0 / 60%);
+    }
+}
+
+@media screen and (max-width:600px) {
+    svg {
+        width: 100% !important;
+    }
+}

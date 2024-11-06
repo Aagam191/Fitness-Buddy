@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap');
+
+:root {
+  --red: #ff0000;
+  --black: #000000;
+  --white: #ffffff;
+  --grey: #8f8f8f;
+  --light-grey: #f0f0f0;
+}
+
+body {
+  padding-top: 15px;
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  background-color: var(--black);
+  font-size: 16px;
+}
+
+.login-page {
+  display: flex;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.image-section {
+  flex: 1.5;
+  background-image: url('/public/images/feature2.png');
+  background-size: cover;
+  background-position: center;
+  padding-top: 90px;
+  opacity: 0.3;
+  /* Adjust this based on navbar height */
+}
+
+.form-section {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--black);
+  padding: 3rem;
+}
+
+.login-body {
+  width: 100%;
+  max-width: 500px;
+  padding: 3rem;
+}
+
+.login-header {
+  color: var(--red);
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-bottom: 2.5rem;
+  text-align: center;
+}
+
+/* Input and form styling */
+.input-group {
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.input-group label {
+  display: none;
+}
+
+.input {
+  width: 100%;
+  padding: 1rem 1rem 1rem 3.5rem;
+  border: 3px solid var(--grey);
+  border-radius: 8px;
+  font-size: 1.6rem;
+  transition: border-color 0.3s;
+  text-transform: none;
+}
+
+.input:focus {
+  border-color: var(--red);
+  outline: none;
+}
+
+.input-icon {
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 1.8rem;
+  height: 1.8rem;
+  fill: var(--grey);
+}
+
+.submit {
+  width: 100%;
+  padding: 1.2rem;
+  background-color: var(--red);
+  color: var(--white);
+  border: none;
+  border-radius: 8px;
+  font-size: 1.6rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 1.5rem;
+}
+
+.submit:hover {
+  background-color: #cc0000;
+}
+
+/* Footer styling */
+.login-footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
+
+.new-user,
+.forgot-pass {
+  color: var(--grey);
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.new-user:hover,
+.forgot-pass:hover {
+  color: var(--red);
+}
+
+/* Responsive changes */
+@media (max-width: 1200px) {
+  .image-section {
+    width: 50%;
+  }
+
+  .form-section {
+    margin-left: 50%;
+  }
+}
+
+@media (max-width: 992px) {
+
+  .input-icon {
+    display: none;
+  }
+
+  .input {
+    padding-left: 1rem;
+    /* Adjust padding since the icon is removed */
+  }
+
+  .image-section {
+    width: 40%;
+  }
+
+  .form-section {
+    margin-left: 40%;
+  }
+
+  .login-body {
+    padding: 2rem;
+  }
+
+  .login-header {
+    font-size: 3rem;
+  }
+
+  .input,
+  .submit {
+    font-size: 1.4rem;
+  }
+
+  .login-footer {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .login-page {
+    flex-direction: column;
+  }
+
+  .image-section {
+    display: none;
+    /* Hide the image section on mobile */
+  }
+
+  .form-section {
+    margin-left: 0;
+    padding: 2rem;
+  }
+
+  .login-body {
+    padding: 1.5rem;
+    max-width: 100%;
+  }
+
+  .login-header {
+    font-size: 2.8rem;
+  }
+
+  .input,
+  .submit {
+    font-size: 1.5rem;
+    /* Increase the font size for better readability */
+    padding: 1.2rem 1.2rem 1.2rem 3.5rem;
+    /* Adjust padding for better spacing */
+  }
+
+  .input-icon {
+    width: 2rem;
+    /* Larger icon size for mobile */
+    height: 2rem;
+  }
+
+  .login-footer {
+    font-size: 1.4rem;
+    /* Larger footer text */
+    flex-direction: column;
+    /* Stack items in a column */
+    align-items: center;
+    gap: 1.5rem;
+    /* Add spacing between footer links */
+  }
+}
+
+@media (max-width: 480px) {
+  .login-header {
+    font-size: 2.5rem;
+    /* Bigger header for small screens */
+  }
+
+  .input,
+  .submit {
+    font-size: 1.3rem;
+    padding: 1.2rem;
+    /* More padding for better touch interaction */
+  }
+
+  .input-icon {
+    width: 2.2rem;
+    height: 2.2rem;
+  }
+
+  .login-footer {
+    font-size: 1.3rem;
+    /* Larger text in the footer for smaller screens */
+  }
+}

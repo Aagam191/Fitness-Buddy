@@ -1,0 +1,153 @@
+body,
+.root {
+    font-family: 'Roboto', sans-serif;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 20px;
+ font-size:20px;
+    min-height: 100vh;
+}
+
+.planner-heading {
+    font-size: 36px;
+    /* Font size for the heading */
+    text-align: center;
+    color: #ff5733;
+    /* Theme color */
+    margin-bottom: 30px;
+}
+
+.days-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    /* Reduced space between cards */
+}
+
+.day-card {
+    background-color: #a70000;
+    /* Red card background */
+    padding: 15px;
+    /* Padding inside the card */
+    border-radius: 10px;
+    color: #fff;
+    flex: 1;
+    max-width: 500px;
+    /* Increased card width */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    /* Shadow for card */
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.day-card:hover {
+    transform: translateY(-3px);
+    /* Hover effect for card */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);
+    /* Enhanced shadow on hover */
+}
+
+.day-label {
+    font-size: 22px;
+    /* Font size for day label */
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #020202;
+    /* Bright red background */
+    padding: 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+.meal-time {
+    font-size: 16px;
+    /* Font size for meal times */
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.meal-list {
+    margin: 10px 0;
+    padding-left: 20px;
+    list-style-type: disc;
+}
+
+.white-background {
+    background-color: #1a1a1a;
+    /* Darker background */
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.meal-list li {
+    margin: 5px 0;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    /* Space between buttons */
+    margin-top: 30px;
+}
+
+.save-profile-btn,
+.calculate-again-btn {
+    padding: 10px 20px;
+    /* Button padding */
+    font-size: 18px;
+    /* Button font size */
+    color: #fff;
+    background-color: #ff5733;
+    /* Button color */
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.save-profile-btn:hover,
+.calculate-again-btn:hover {
+    background-color: #e74c3c;
+    /* Button hover color */
+    transform: scale(1.03);
+    /* Button hover effect */
+}
+
+/* Responsive Breakpoints */
+@media (max-width: 1024px) {
+    .days-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .day-card {
+        max-width: 100%;
+        /* Full width on smaller screens */
+    }
+
+    .save-profile-btn,
+    .calculate-again-btn {
+        padding: 8px 16px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    .planner-heading {
+        font-size: 28px;
+        /* Font size for smaller screens */
+    }
+
+    .day-label {
+        font-size: 20px;
+        /* Font size for day label on smaller screens */
+    }
+
+    .meal-time {
+        font-size: 14px;
+        /* Font size for meal times on smaller screens */
+    }
+}
