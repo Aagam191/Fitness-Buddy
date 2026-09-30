@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Crunches",
+    "body_part": "abs",
+    "video_front": "/exercise videos/crunches.mp4",
+    "video_side": "/exercise videos/crunches side.mp4",
+    "instructions": [
+      "Sit on the floor and flex your knees and hips to a 90 degree angle.",
+      "Rotate your upper spine to engage your obliques."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Russian Dumbell Twist",
+    "body_part": "abs",
+    "video_front": "/exercise videos/dumb russian twist.mp4",
+    "video_side": "/exercise videos/dumb russian twist side.mp4",
+    "instructions": [
+      "Stand with feet slightly wider than shoulder width apart. Hold the kettlebell in one hand and extend your arm above your head.",
+      "Keeping your legs straight and the kettlebell above your head, lower the relaxed arm towards the ground, twisting your body towards the side of the raised arm.",
+      "Return to the starting potion, tilt your pelvis forward and repeat."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Barbell Curl",
+    "body_part": "biceps",
+    "video_front": "/exercise videos/barbell curl.mp4",
+    "video_side": "/exercise videos/barbell curl side.mp4",
+    "instructions": [
+      "While holding the upper arms stationary, curl the weights forward while contracting the\n                  biceps as you breathe out.",
+      "Continue the movement until your biceps are fully contracted and the bar is at shoulder\n                  level.",
+      "Hold the contracted position for a second and squeeze the biceps hard.",
+      "Slowly bring the weight back down to the starting position."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Dumbbell Hammer Curl",
+    "body_part": "biceps",
+    "video_front": "/exercise videos/dumbell curl.mp4",
+    "video_side": "/exercise videos/dumbell curl side.mp4",
+    "instructions": [
+      "Hold the dumbbells with a neutral grip (thumbs facing the ceiling).",
+      "Slowly lift the dumbbell up to chest height.",
+      "Return to starting position and repeat."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Dumbbell Spider Curl",
+    "body_part": "biceps",
+    "video_front": "/exercise videos/dumbell spider curl.mp4",
+    "video_side": "/exercise videos/dumbell spider curl side.mp4",
+    "instructions": [
+      "Hold the dumbbells with a neutral grip (thumbs facing the ceiling).",
+      "Slowly lift the dumbbell up to chest height.",
+      "Return to starting position and repeat."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Machine Standing Calf Raises",
+    "body_part": "calves",
+    "video_front": "/exercise videos/calves raises1.mp4",
+    "video_side": "/exercise videos/calves raises2.mp4",
+    "instructions": [
+      "Adjust the machine in accordance with your height and place your shoulders underneath the padded lever.",
+      "The balls of your feet should be supporting your weight on the calve block, your heels extending off of it.",
+      "Extend your heels upwards while keeping your knees stationary, and pause at the contracted position.",
+      "Slowly return to the starting position. Repeat."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Machine Seated Calf Raises",
+    "body_part": "calves",
+    "video_front": "/exercise videos/calves seated raises1.mp4",
+    "video_side": "/exercise videos/calves seated raises2.mp4",
+    "instructions": [
+      "Get comfortable on the machine, then place your lower thighs beneath the padded lever.\n                  Place your toes and the balls of your feet onto the foot supports.",
+      "Prevent the weight from slipping forward by gripping the handles, and release the safety bar.\n                  Lower the weight until your calves are extended.",
+      "Push your heels up to lift the padded lever and hold the contracted position, then slowly lower back down to the starting position. Repeat."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Dumbell Incline Bench Press",
+    "body_part": "chest",
+    "video_front": "/exercise videos/incline bench press.mp4",
+    "video_side": "/exercise videos/incline bench press side.mp4",
+    "instructions": [
+      "Lay flat on the bench with your feet on the ground. With\n                  straight arms unrack the bar.",
+      "Lower the bar to your mid chest",
+      "Raise the bar until you've locked your elbows."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Push UP",
+    "body_part": "chest",
+    "video_front": "/exercise videos/pushup video.mp4",
+    "video_side": "/exercise videos/pushup side.mp4",
+    "instructions": [
+      "{\" \"}\n                  Place your hands firmly on the ground, directly under\n                  shoulders.",
+      "Flatten your back so your entire body is straight and slowly\n                  lower your body",
+      "{\" \"}\n                  Draw shoulder blades back and down, keeping elbows tucked\n                  close to your body.",
+      "Exhale as you push back to the starting position."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Dumbbell Wrist Curl",
+    "body_part": "forearms",
+    "video_front": "/exercise videos/dumbell wrist curl.mp4",
+    "video_side": "/exercise videos/dumbell wrist curl side.mp4",
+    "instructions": [
+      "Grip the dumbbell with your palm facing upwards with your forearm rested against the bench.",
+      "Slowly curl your wrist upwards in a semicircular motion.",
+      "Return to starting position and repeat."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Dumbell Wrist Extension",
+    "body_part": "forearms",
+    "video_front": "/exercise videos/dumbell wrist extension.mp4",
+    "video_side": "/exercise videos/dumbell wrist extension side.mp4",
+    "instructions": [
+      "Grab two dumbbells with an overhand grip and lay your forearms across your knees.",
+      "Let your wrists flex fully, then extend your wrists."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Barbell Hip Thrusts",
+    "body_part": "glutes",
+    "video_front": "/exercise videos/glutes hip thrusts1.mp4",
+    "video_side": "/exercise videos/glutes hip thrusts2.mp4",
+    "instructions": [
+      "Sit on the ground with a bench behind you. Have the barbell over your legs just above your hips.",
+      "Lean back against the bench so that your shoulders are resting upon it, stretch your arms out to either side using the bench as support.",
+      "Raise the weight by driving through your feet and extending your hips upwards. Support the weight with your shoulders and feet.",
+      "Slowly extend as far as you can, and then slowly return to the starting position."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Barbell Squats",
+    "body_part": "glutes",
+    "video_front": "/exercise videos/glutes squat1.mp4",
+    "video_side": "/exercise videos/glutes squat2.mp4",
+    "instructions": [
+      "Stand with your feet shoulder-width apart. Maintain the natural arch in your back, squeezing your shoulder blades and raising your chest.",
+      "Grip the bar across your shoulders and support it on your upper back. Unwrack the bar by straightening your legs, and take a step back.",
+      "Bend your knees as you lower the weight without altering the form of your back until your hips are below your knees.",
+      "Raise the bar back to starting position, lift with your legs and exhale at the top."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Barbell Stiff Leg Deadlifts",
+    "body_part": "hamstring",
+    "video_front": "/exercise videos/hamstrings stiff leg1.mp4",
+    "video_side": "/exercise videos/hamstrings stiff leg2.mp4",
+    "instructions": [
+      "Stand with a barbell at your shins with your feet shoulder width apart.",
+      "Bend forward at your hips and keep your knees as fully extended as possible.",
+      "Grab the barbell and then extend your hips while maintaining a straight back.",
+      "From the standing position, lower the weight in a controlled manner."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Machine Hamstring Curl",
+    "body_part": "hamstring",
+    "video_front": "/exercise videos/hamstrings curl.mp4",
+    "video_side": "/exercise videos/hamstrings curl2.mp4",
+    "instructions": [
+      "Lay down on the machine, placing your legs beneath the padded lever. Position your legs so that the padded lever is below your calve muscles.",
+      "Support yourself by grabbing the side handles of the machine, and slowly raise the weight with your legs, toes pointed straight.",
+      "Pause at the apex of the motion, then slowly return to starting position."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Chin Ups",
+    "body_part": "lats",
+    "video_front": "/exercise videos/lats chin ups1.mp4",
+    "video_side": "/exercise videos/lats chin ups2.mp4",
+    "instructions": [
+      "Grab the bar shoulder width apart with a supinated grip (palms facing you).",
+      "With your body hanging and arms fully extended, pull yourself up until your chin is past the bar.",
+      "Slowly return to starting position. Repeat."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Barbell Squats",
+    "body_part": "lats",
+    "video_front": "/exercise videos/lats dumbbell1.mp4",
+    "video_side": "/exercise videos/lats dumbbell2.mp4",
+    "instructions": [
+      "Brace your off arm against something stable (bench, box). Stagger your stance so your leg on the side of your working arm is back.",
+      "Try to get your torso to parallel with the ground. That will extend your range of motion.",
+      "Let your arm hang freely and then pull your elbow back. Imagine you've got a tennis ball in your armpit and squeeze it each rep."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Barbell Deadlift",
+    "body_part": "lowerback",
+    "video_front": "/exercise videos/lowerback barbell1.mp4",
+    "video_side": "/exercise videos/lowerback barbell2.mp4",
+    "instructions": [
+      "Stand with your mid-foot under the bar and grip the bar with your hands, about a shoulder width apart.",
+      "Bend your knees, then lift the bar by straightening your back. It is important to keep your back straight.",
+      "Stand to your full height and hold.",
+      "Lower the bar to the floor by bending your knees and keeping your back straight."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Machine 45 Degree Back Extension",
+    "body_part": "lowerback",
+    "video_front": "/exercise videos/lowerback machine1.mp4",
+    "video_side": "/exercise videos/lowerback machine2.mp4",
+    "instructions": [
+      "Position your thighs on the padding and hook your feet on the platform supports.",
+      "Keeping your back straight, slowly bend at your waist until your legs and back are at a 45\u00b0 angle.",
+      "Slowly raise your body to the starting position."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Hand Side Plank",
+    "body_part": "obliques",
+    "video_front": "/exercise videos/handside plank.mp4",
+    "video_side": "/exercise videos/handside plank side.mp4",
+    "instructions": [
+      "Press your hand into the ground and pick up your hip off the ground.",
+      "Open your chest and maintain this position for the allotted amount of time."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Dumbbell Russian Twist",
+    "body_part": "obliques",
+    "video_front": "/exercise videos/dumb russian twist.mp4",
+    "video_side": "/exercise videos/dumb russian twist side.mp4",
+    "instructions": [
+      "Sit on the floor and flex your knees and hips to a 90 degree angle.",
+      "Your feet should be hovering off the ground. (If that's too hard start with heels on the\n                  floor).",
+      "Rotate your upper spine to engage your obliques."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Barbell Squat",
+    "body_part": "quads",
+    "video_front": "/exercise videos/bulgarian split squat.mp4",
+    "video_side": "/exercise videos/bulgarian split squat side.mp4",
+    "instructions": [
+      "Stand with your feet shoulder-width apart. Maintain the natural arch in your back, squeezing\n                  your shoulder blades and raising your chest.",
+      "Grip the bar across your shoulders and support it on your upper back. Unwrack the bar by\n                  straightening your legs, and take a step back.",
+      "Bend your knees as you lower the weight without altering the form of your back until your\n                  hips are below your knees.",
+      "Raise the bar back to starting position, lift with your legs and exhale at the top."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Kettlebell Step Up",
+    "body_part": "quads",
+    "video_front": "/exercise videos/glute bridge.mp4",
+    "video_side": "/exercise videos/glute bridge side.mp4",
+    "instructions": [
+      "Standing up straight, using a bench as a step, raise one foot onto the bench and hold the\n                  kettlebell in the same arm as the straight leg.",
+      "Stand and bring both feet onto the bench. Slowly lower your leg back down to the starting\n                  position.",
+      "Repeat."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Barbell Overhead Press",
+    "body_part": "shoulders",
+    "video_front": "/exercise videos/barbell overhead press side.mp4",
+    "video_side": "",
+    "instructions": [
+      "Take a roughly shoulder width grip. There should be a straight line from your elbow to fist\n                  (vertical forearms).",
+      "Pull your chin back and press the weight toward the ceiling by extending at the elbow joint\n                  and flexing at the shoulder joint.",
+      "Press until your elbows are extended and push your head forward slightly.",
+      "Return to the start position with control. Pulling your chin back to allow the bar to pass\n                  your face safely."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Dumbbell Seated Overhead Press",
+    "body_part": "shoulders",
+    "video_front": "/exercise videos/dumb seated overhead press.mp4",
+    "video_side": "/exercise videos/dumb seated overhead press side.mp4",
+    "instructions": [
+      "Sit on a bench with back support. Raise the dumbbells to shoulder height with your palms\n                  forward.",
+      "Raise the dumbbells upwards and pause at the contracted position.",
+      "Lower the weights back to starting position."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Dumbbell Seated Shrug",
+    "body_part": "traps",
+    "video_front": "/exercise videos/seated shrug.mp4",
+    "video_side": "/exercise videos/seated shrug side.mp4",
+    "instructions": [
+      "Sit on a bench with dumbbells in both hands, palms facing your body, back straight.",
+      "Elevate your shoulders and hold the contracted position at the apex of the motion.",
+      "Slowly lower your shoulders back to starting position."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Barbell Silverback Shrug",
+    "body_part": "traps",
+    "video_front": "/exercise videos/silverback shrug.mp4",
+    "video_side": "/exercise videos/silverback shrug side.mp4",
+    "instructions": [
+      "Stand with your feet shoulder width apart holding the Barbell with both hands in front just\n                  past shoulder width.",
+      "Bend forward at the hips with a slight bend in your knees, keeping your back straight.",
+      "Engage your shoulder blades, as if you are trying to touch them together.",
+      "Release the shrug."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Barbell Deadlift",
+    "body_part": "trapsmiddle",
+    "video_front": "/exercise videos/traps-middle barbell deadlift1.mp4",
+    "video_side": "/exercise videos/traps-middle barbell deadlift2.mp4",
+    "instructions": [
+      "Stand with your mid-foot under the bar and grip the bar with your hands, about a shoulder width apart.",
+      "Bend your knees, then lift the bar by straightening your back. It is important to keep your back straight.",
+      "Stand to your full height and hold.",
+      "Lower the bar to the floor by bending your knees and keeping your back straight."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Pull UPS",
+    "body_part": "trapsmiddle",
+    "video_front": "/exercise videos/traps-middle pullup1.mp4",
+    "video_side": "/exercise videos/traps-middle pullup2.mp4",
+    "instructions": [
+      "Grasp the bar with an overhand grip, arms and shoulders fully extended.",
+      "Pull your body up until your chin is above the bar.",
+      "Lower your body back to starting position."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Cable Rope Pushdown",
+    "body_part": "triceps",
+    "video_front": "/exercise videos/triceps cable1.mp4",
+    "video_side": "/exercise videos/triceps cable2.mp4",
+    "instructions": [
+      "The cable should be set all the way at the top of the machine.",
+      "Make sure to keep your upper arm glued at your side. Extend\n                  your elbows until you feel your triceps contract."
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Bench Dips",
+    "body_part": "triceps",
+    "video_front": "/exercise videos/triceps bench dips1.mp4",
+    "video_side": "/exercise videos/triceps bench dips2.mp4",
+    "instructions": [
+      "Grip the edge of the bench with your hands, Keep your feet\n                  together and legs straight.",
+      "Lower your body straight down.",
+      "Slowly press back up to the starting point.",
+      "TIP: Make this harder by raising your feet off the floor and\n                  adding weight."
+    ],
+    "difficulty": "Intermediate"
+  }
+]

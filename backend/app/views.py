@@ -1,223 +1,329 @@
-from django.shortcuts import render
-
-# Create your views here.
-from .ml_utils import DietRecommendationModel
-from rest_framework.views import APIView
-from rest_framework.response import Response
-from rest_framework import status
-from django.conf import settings
-import razorpay
 import json
-from django.contrib.auth import get_user_model
-from django.shortcuts import get_object_or_404
+from django.http import JsonResponse
+from django.views.decorators.csrf import csrf_exempt
+from rest_framework import status
+from rest_framework.decorators import api_view, permission_classes
+from rest_framework.permissions import IsAuthenticated
+from rest_framework.response import Response
+from rest_framework.views import APIView
 
-razorpay_client = razorpay.Client(auth=(settings.RAZORPAY_KEY_ID, settings.RAZORPAY_SECRET_KEY))
+from .services import (
+    AuthService,
+    DietService,
+    PaymentService,
+    ProfileService,
+    ExerciseService,
+    WorkoutService,
+    AnalyticsService,
+    ProgramService,
+    RecoveryService,
+)
+
+from .serializers import (
+    ExerciseSerializer,
+    WorkoutLogSerializer,
+    DietPlanHistorySerializer,
+)
+
 
 class CreateOrderView(APIView):
+    permission_classes = [IsAuthenticated]
+
     def post(self, request):
         amount = request.data.get('amount')
-        currency = 'INR'
-        
-        # Create Razorpay Order
-        razorpay_order = razorpay_client.order.create(dict(
-            amount=int(float(amount) * 100),  # Razorpay amount is in paisa
-            currency=currency,
-            payment_capture='0'
-        ))
-        
-        order_id = razorpay_order['id']
-        
-        return Response({
-            'order_id': order_id,
-            'amount': amount,
-            'currency': currency,
-            'key': settings.RAZORPAY_KEY_ID
-        })
+        if not amount:
+            return Response(
+                {'error': 'Amount is required'},
+                status=status.HTTP_400_BAD_REQUEST,
+            )
+
+        try:
+            order_data = PaymentService.create_order(request.user, amount)
+            return Response(order_data, status=status.HTTP_200_OK)
+        except (ValueError, TypeError):
+            return Response(
+                {'error': 'Invalid amount'},
+                status=status.HTTP_400_BAD_REQUEST,
+            )
+        except Exception as e:
+            return Response(
+                {'error': f'Failed to create Razorpay order: {str(e)}'},
+                status=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            )
+
 
 class VerifyPaymentView(APIView):
+    permission_classes = [IsAuthenticated]
+
     def post(self, request):
         razorpay_payment_id = request.data.get('razorpay_payment_id')
         razorpay_order_id = request.data.get('razorpay_order_id')
         razorpay_signature = request.data.get('razorpay_signature')
-        username = request.data.get('username')
-        # Verify signature
+
+        if not all([razorpay_payment_id, razorpay_order_id, razorpay_signature]):
+            return Response(
+                {'error': 'Missing payment verification parameters'},
+                status=status.HTTP_400_BAD_REQUEST,
+            )
+
         try:
-            razorpay_client.utility.verify_payment_signature({
-                'razorpay_order_id': razorpay_order_id,
-                'razorpay_payment_id': razorpay_payment_id,
-                'razorpay_signature': razorpay_signature
-            })
-        except:
-            return Response({'verified': False}, status=status.HTTP_400_BAD_REQUEST)
-        
-        
-        try:
-            user = get_object_or_404(User, username=username)
-            user.isPremiumUser = True
-            user.save()
-        except User.DoesNotExist:
-            return Response({'error': 'User not found'}, status=status.HTTP_404_NOT_FOUND)
+            PaymentService.verify_payment_and_grant_premium(
+                user=request.user,
+                razorpay_payment_id=razorpay_payment_id,
+                razorpay_order_id=razorpay_order_id,
+                razorpay_signature=razorpay_signature,
+            )
+            return Response({
+                'verified': True,
+                'message': 'Payment verified and premium access granted.',
+            }, status=status.HTTP_200_OK)
         except Exception as e:
-            return Response({'error': f'Failed to update user status: {str(e)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+            return Response(
+                {'verified': False, 'error': f'Payment verification failed: {str(e)}'},
+                status=status.HTTP_400_BAD_REQUEST,
+            )
 
-        # If we reach here, payment is successful
-        # Update your database, send confirmation email, etc.
-        
-        return Response({'verified': True})
-    
-
-
-
-
-
-
-
-
-
-
-    
-from rest_framework_simplejwt.tokens import RefreshToken
-from .models import User , User_details
-from django.http import JsonResponse
-from django.views.decorators.csrf import csrf_exempt
-from django.contrib.auth import login, authenticate
-import json
-
-# views.py
-from rest_framework.decorators import api_view
-from rest_framework.response import Response
-from rest_framework import status
-from .serializers import UserDetailsSerializer
 
 @csrf_exempt
 def signup_view(request):
-    if request.method == 'POST':
+    if request.method != 'POST':
+        return JsonResponse({'status': 'error', 'message': 'Invalid request method'}, status=405)
+
+    try:
         data = json.loads(request.body)
-        username = data.get('username')
-        email = data.get('email')
-        password = data.get('password')
-        is_premium_user = data.get('isPremiumUser', False)
+    except json.JSONDecodeError:
+        return JsonResponse({'status': 'error', 'message': 'Invalid JSON body'}, status=400)
 
-        if not username or not email or not password:
-            return JsonResponse({'status': 'error', 'message': 'Missing required fields'}, status=400)
+    username = data.get('username')
+    email = data.get('email')
+    password = data.get('password')
 
-        try:
-            user = User.objects.create_user(
-                username=username,
-                email=email,
-                password=password,
-                isPremiumUser=is_premium_user,
-                is_superuser=False,  # Explicitly set is_superuser
-                is_staff=False       # Explicitly set is_staff
-            )
-            login(request, user)
+    success, message, auth_data = AuthService.register_user(
+        request=request,
+        username=username,
+        email=email,
+        password=password,
+    )
 
-            # Create JWT token
-            refresh = RefreshToken.for_user(user)
-            return JsonResponse({
-                'status': 'success',
-                'message': 'User created successfully',
-                'access_token': str(refresh.access_token),
-                'refresh_token': str(refresh),
-
-            })
-        except Exception as e:
-            return JsonResponse({'status': str(e), 'message': str(e)}, status=400)
-
-    return JsonResponse({'status': 'error', 'message': 'Invalid request method'}, status=405)
-
-
+    if success:
+        return JsonResponse({
+            'status': 'success',
+            'message': message,
+            **auth_data,
+        }, status=200)
+    else:
+        return JsonResponse({'status': 'error', 'message': message}, status=400)
 
 
 @csrf_exempt
 def login_view(request):
-    if request.method == 'POST':
+    if request.method != 'POST':
+        return JsonResponse({'status': 'error', 'message': 'Invalid request method'}, status=405)
+
+    try:
         data = json.loads(request.body)
-        username = data.get('username')
-        password = data.get('password')
+    except json.JSONDecodeError:
+        return JsonResponse({'status': 'error', 'message': 'Invalid JSON body'}, status=400)
 
-        if not username or not password:
-            return JsonResponse({'status': 'error', 'message': 'Missing required fields'}, status=400)
+    username = data.get('username')
+    password = data.get('password')
 
-        user = authenticate(request, username=username, password=password)
-        if user is not None:
-            login(request, user)
+    success, message, auth_data = AuthService.authenticate_user(
+        request=request,
+        username=username,
+        password=password,
+    )
 
-            # Create JWT tokens
-            refresh = RefreshToken.for_user(user)
-            
-            # Send the JWT tokens, username, email, and isPremiumUser in the response
-            return JsonResponse({
-                'status': 'success',
-                'username': user.username,
-                'email': user.email,
-                'isPremiumUser': user.isPremiumUser,
-                'access_token': str(refresh.access_token),
-                'refresh_token': str(refresh)
-            })
-        else:
-            return JsonResponse({'status': 'error', 'message': 'Invalid credentials'}, status=401)
-
-    return JsonResponse({'status': 'error', 'message': 'Invalid request method'}, status=405)
-
-
-
-
-# View to handle both GET (Read) and POST (Create)
-@api_view(['GET', 'POST'])
-def user_list_create(request):
-    # Handle GET request (read users)
-    # if request.method == 'GET':
-    #     print(request.data)
-    #     users = User_details.objects.all()
-    #     serializer = UserDetailsSerializer(users, many=True)
-    #     return Response(serializer.data)
-
-    # Handle POST request (create user)
-    if request.method == 'POST':
-        serializer = UserDetailsSerializer(data=request.data)
-        print(request.data['username'])
-        if serializer.is_valid():
-            serializer.save()
-            return Response(serializer.data, status=status.HTTP_201_CREATED)
-        print(serializer.errors)
-        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-
-@api_view(['GET', 'POST'])
-def user_fetch(request):
-    username = request.data['username']
-    if username:
-        user = User_details.objects.filter(username = username)
-        serializer = UserDetailsSerializer(user, many=True)
-        print("s data : ",serializer.data)
-        return Response(serializer.data)
-    
-    
-    
-    
-    
-    
-#ML model API
-    
-    
-@csrf_exempt
-def predict(request):
-    if request.method == 'POST':
-        try:
-            # Parse JSON data from the request body
-            data = json.loads(request.body)
-            BMI = float(data['BMI'])
-            BMR = float(data['BMR'])
-            Total_Calories = float(data['Total_Calories'])
-            veg_only = float(bool(data.get('veg_only', False)))
-            model=DietRecommendationModel()
-            # Get diet recommendation based on the input data
-            recommendation =model.recommend_diet(BMI, BMR, Total_Calories, veg_only)
-            
-            return JsonResponse(recommendation, safe=False)
-
-        except (KeyError, json.JSONDecodeError) as e:
-            # Handle cases where data is missing or not properly formatted
-            return JsonResponse({'error': str(e)}, status=400)
+    if success:
+        return JsonResponse({
+            'status': 'success',
+            'message': message,
+            **auth_data,
+        }, status=200)
     else:
-        return JsonResponse({'error': 'Invalid request method.'}, status=405)
+        return JsonResponse({'status': 'error', 'message': message}, status=401)
+
+
+@api_view(['GET', 'POST'])
+@permission_classes([IsAuthenticated])
+def user_list_create(request):
+    if request.method == 'GET':
+        profiles = ProfileService.get_user_profiles(request.user)
+        return Response(profiles, status=status.HTTP_200_OK)
+
+    if request.method == 'POST':
+        success, result = ProfileService.save_user_profile(request.user, request.data)
+        if success:
+            return Response(result, status=status.HTTP_201_CREATED)
+        return Response(result, status=status.HTTP_400_BAD_REQUEST)
+
+
+@api_view(['GET', 'POST'])
+@permission_classes([IsAuthenticated])
+def user_fetch(request):
+    profiles = ProfileService.get_user_profiles(request.user)
+    return Response(profiles, status=status.HTTP_200_OK)
+
+
+@api_view(['POST'])
+@permission_classes([IsAuthenticated])
+def predict(request):
+    try:
+        data = request.data
+        if not data:
+            return Response({'error': 'No input data provided'}, status=status.HTTP_400_BAD_REQUEST)
+
+        BMI = float(data['BMI'])
+        BMR = float(data['BMR'])
+        Total_Calories = float(data['Total_Calories'])
+        veg_only = bool(data.get('veg_only', False))
+        goal = data.get('goal') or data.get('goal_type') or data.get('weight_goal')
+
+        recommendation = DietService.calculate_diet_plan(
+            bmi=BMI,
+            bmr=BMR,
+            total_calories=Total_Calories,
+            veg_only=veg_only,
+            goal=goal,
+        )
+        return Response(recommendation, status=status.HTTP_200_OK)
+
+    except KeyError as e:
+        return Response({'error': f'Missing required field: {str(e)}'}, status=status.HTTP_400_BAD_REQUEST)
+    except (ValueError, TypeError) as e:
+        return Response({'error': f'Invalid numeric data: {str(e)}'}, status=status.HTTP_400_BAD_REQUEST)
+    except Exception as e:
+        return Response({'error': str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+class ExerciseListView(APIView):
+    """
+    Public or authenticated exercise catalog filtered by body_part parameter.
+    """
+    def get(self, request):
+        body_part = request.query_params.get('body_part')
+        if body_part:
+            exercises = ExerciseService.get_exercises_by_body_part(body_part)
+        else:
+            exercises = ExerciseService.get_all_exercises()
+        serializer = ExerciseSerializer(exercises, many=True)
+        return Response(serializer.data, status=status.HTTP_200_OK)
+
+
+@csrf_exempt
+def payment_webhook(request):
+    """
+    Razorpay server-to-server webhook endpoint.
+    """
+    if request.method != 'POST':
+        return JsonResponse({'error': 'Method not allowed'}, status=405)
+
+    signature = request.headers.get('X-Razorpay-Signature', '')
+    success, message = PaymentService.handle_webhook(request.body, signature)
+    if success:
+        return JsonResponse({'status': 'ok', 'message': message}, status=200)
+    return JsonResponse({'status': 'error', 'message': message}, status=400)
+
+
+class WorkoutListCreateView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request):
+        workouts = WorkoutService.get_user_workouts(request.user)
+        serializer = WorkoutLogSerializer(workouts, many=True)
+        return Response(serializer.data, status=status.HTTP_200_OK)
+
+    def post(self, request):
+        data = WorkoutService.log_workout(request.user, request.data)
+        return Response(data, status=status.HTTP_201_CREATED)
+
+
+class WorkoutDetailView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def delete(self, request, pk):
+        success, message = WorkoutService.delete_workout(request.user, pk)
+        if success:
+            return Response({'message': message}, status=status.HTTP_200_OK)
+        return Response({'error': message}, status=status.HTTP_404_NOT_FOUND)
+
+
+class DashboardView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request):
+        stats = AnalyticsService.get_user_dashboard_stats(request.user)
+        return Response(stats, status=status.HTTP_200_OK)
+
+
+class SaveDietPlanView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request):
+        plans = AnalyticsService.get_user_diet_plans(request.user)
+        serializer = DietPlanHistorySerializer(plans, many=True)
+        return Response(serializer.data, status=status.HTTP_200_OK)
+
+    def post(self, request):
+        data = AnalyticsService.save_diet_plan(request.user, request.data)
+        return Response(data, status=status.HTTP_201_CREATED)
+
+
+class ProgramListView(APIView):
+    def get(self, request):
+        programs = ProgramService.get_all_programs(request.user)
+        return Response(programs, status=status.HTTP_200_OK)
+
+
+class ProgramDetailView(APIView):
+    def get(self, request, slug):
+        program_data = ProgramService.get_program_detail(slug, request.user)
+        return Response(program_data, status=status.HTTP_200_OK)
+
+
+class ProgramEnrollView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def post(self, request, slug):
+        success, result = ProgramService.enroll_user(request.user, slug)
+        if success:
+            return Response(result, status=status.HTTP_200_OK)
+        return Response({'error': result}, status=status.HTTP_403_FORBIDDEN)
+
+
+class ActiveProgramView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request):
+        enrollment = ProgramService.get_active_enrollment(request.user)
+        return Response(enrollment, status=status.HTTP_200_OK)
+
+
+class ProgramCompleteDayView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def post(self, request):
+        day_id = request.data.get('day_id')
+        if not day_id:
+            return Response({'error': 'day_id is required'}, status=status.HTTP_400_BAD_REQUEST)
+
+        log_workout = bool(request.data.get('log_workout', False))
+        workout_data = request.data.get('workout_data')
+
+        success, result = ProgramService.complete_day(
+            user=request.user,
+            day_id=int(day_id),
+            log_workout=log_workout,
+            workout_data=workout_data
+        )
+        if success:
+            return Response(result, status=status.HTTP_200_OK)
+        return Response({'error': result}, status=status.HTTP_400_BAD_REQUEST)
+
+
+class AthleteHeatmapView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request):
+        data = RecoveryService.get_athlete_heatmap_data(request.user)
+        return Response(data, status=status.HTTP_200_OK)

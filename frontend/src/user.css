@@ -8,28 +8,20 @@
   --light-grey: #f0f0f0;
 }
 
-body {
-  padding-top: 15px;
-  margin: 0;
-  font-family: 'Nunito', sans-serif;
-  background-color: var(--black);
-  font-size: 16px;
-}
-
 .login-page {
   display: flex;
   min-height: 100vh;
   overflow: hidden;
+  background-color: var(--black);
 }
 
 .image-section {
-  flex: 1.5;
-  background-image: url('/public/images/feature2.png');
+  flex: 1.2;
+  background-image: url('/images/feature2.png');
   background-size: cover;
   background-position: center;
   padding-top: 90px;
   opacity: 0.3;
-  /* Adjust this based on navbar height */
 }
 
 .form-section {
@@ -67,45 +59,56 @@ body {
 
 .input {
   width: 100%;
-  padding: 1rem 1rem 1rem 3.5rem;
-  border: 3px solid var(--grey);
+  padding: 1.2rem 1.2rem 1.2rem 3.8rem;
+  background-color: #141414;
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.15);
   border-radius: 8px;
-  font-size: 1.6rem;
-  transition: border-color 0.3s;
+  font-size: 1.5rem;
+  transition: border-color 0.25s ease, box-shadow 0.25s ease;
   text-transform: none;
 }
 
 .input:focus {
   border-color: var(--red);
   outline: none;
+  box-shadow: 0 0 12px rgba(255, 0, 0, 0.35);
+  background-color: #181818;
 }
 
 .input-icon {
   position: absolute;
-  left: 1rem;
+  left: 1.2rem;
   top: 50%;
   transform: translateY(-50%);
   width: 1.8rem;
   height: 1.8rem;
-  fill: var(--grey);
+  fill: #888888;
 }
 
 .submit {
   width: 100%;
-  padding: 1.2rem;
-  background-color: var(--red);
+  padding: 1.4rem;
+  background: linear-gradient(135deg, #ff0000 0%, #cc0000 100%);
   color: var(--white);
   border: none;
   border-radius: 8px;
   font-size: 1.6rem;
-  font-weight: 600;
+  font-weight: 700;
+  letter-spacing: 0.5px;
   cursor: pointer;
-  transition: background-color 0.3s;
+  transition: transform 0.2s ease, box-shadow 0.25s ease;
   margin-top: 1.5rem;
+  box-shadow: 0 4px 15px rgba(255, 0, 0, 0.35);
 }
 
 .submit:hover {
-  background-color: #cc0000;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(255, 0, 0, 0.55);
+}
+
+.submit:active {
+  transform: translateY(0);
 }
 
 /* Footer styling */
@@ -129,35 +132,7 @@ body {
 }
 
 /* Responsive changes */
-@media (max-width: 1200px) {
-  .image-section {
-    width: 50%;
-  }
-
-  .form-section {
-    margin-left: 50%;
-  }
-}
-
 @media (max-width: 992px) {
-
-  .input-icon {
-    display: none;
-  }
-
-  .input {
-    padding-left: 1rem;
-    /* Adjust padding since the icon is removed */
-  }
-
-  .image-section {
-    width: 40%;
-  }
-
-  .form-section {
-    margin-left: 40%;
-  }
-
   .login-body {
     padding: 2rem;
   }
@@ -183,11 +158,10 @@ body {
 
   .image-section {
     display: none;
-    /* Hide the image section on mobile */
   }
 
   .form-section {
-    margin-left: 0;
+    width: 100%;
     padding: 2rem;
   }
 

@@ -1,12 +1,46 @@
 from django.urls import path
-from .views import CreateOrderView, VerifyPaymentView,signup_view , login_view , user_list_create , user_fetch,predict
+from rest_framework_simplejwt.views import TokenRefreshView
+from .views import (
+    CreateOrderView,
+    VerifyPaymentView,
+    signup_view,
+    login_view,
+    user_list_create,
+    user_fetch,
+    predict,
+    ExerciseListView,
+    payment_webhook,
+    WorkoutListCreateView,
+    WorkoutDetailView,
+    DashboardView,
+    SaveDietPlanView,
+    ProgramListView,
+    ProgramDetailView,
+    ProgramEnrollView,
+    ActiveProgramView,
+    ProgramCompleteDayView,
+    AthleteHeatmapView,
+)
 
 urlpatterns = [
     path('create-order/', CreateOrderView.as_view(), name='create_order'),
     path('verify-payment/', VerifyPaymentView.as_view(), name='verify_payment'),
+    path('payment/webhook/', payment_webhook, name='payment-webhook'),
     path('register/', signup_view, name='register'),
     path('login/', login_view, name='login'),
+    path('token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),
     path('user_details/', user_list_create, name='user-list-create'),
     path('fetch_user_details/', user_fetch, name='user-fetch'),
-    path('predict/',predict,name='predict')
+    path('predict/', predict, name='predict'),
+    path('exercises/', ExerciseListView.as_view(), name='exercise-list'),
+    path('workouts/', WorkoutListCreateView.as_view(), name='workout-list-create'),
+    path('workouts/<int:pk>/', WorkoutDetailView.as_view(), name='workout-detail'),
+    path('dashboard/', DashboardView.as_view(), name='user-dashboard'),
+    path('diet-history/', SaveDietPlanView.as_view(), name='diet-history'),
+    path('programs/', ProgramListView.as_view(), name='program-list'),
+    path('programs/active/', ActiveProgramView.as_view(), name='program-active'),
+    path('programs/complete-day/', ProgramCompleteDayView.as_view(), name='program-complete-day'),
+    path('programs/<slug:slug>/', ProgramDetailView.as_view(), name='program-detail'),
+    path('programs/<slug:slug>/enroll/', ProgramEnrollView.as_view(), name='program-enroll'),
+    path('athlete-heatmap/', AthleteHeatmapView.as_view(), name='athlete-heatmap'),
 ]

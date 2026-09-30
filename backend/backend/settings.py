@@ -20,8 +20,8 @@ env = environ.Env(
 )
 environ.Env.read_env(os.path.join(BASE_DIR, '.env')) # reads the .env file in local development
 
-SECRET_KEY = env('DJANGO_SECRET_KEY')
-DEBUG = env('DEBUG')
+SECRET_KEY = env('DJANGO_SECRET_KEY', default='django-insecure-fitness-buddy-secret-key-change-in-production')
+DEBUG = env.bool('DEBUG', default=False)
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 
 
@@ -34,7 +34,15 @@ DEBUG = env('DEBUG')
 # SECURITY WARNING: don't run with debug turned on in production!
 
 
-ALLOWED_HOSTS = ['my-68mam87gz-shivangkosty-gmailcoms-projects.vercel.app','my-fit-backend-2.onrender.com','.vercel.app','my-fit-backend-kpfj.vercel.app','127.0.0.1']
+ALLOWED_HOSTS = [
+    'my-68mam87gz-shivangkosty-gmailcoms-projects.vercel.app',
+    'my-fit-backend-2.onrender.com',
+    '.vercel.app',
+    'my-fit-backend-kpfj.vercel.app',
+    '127.0.0.1',
+    'localhost',
+    'testserver',
+]
 
 
 # Application definition
@@ -96,21 +104,57 @@ TEMPLATES = [
 WSGI_APPLICATION = 'backend.wsgi.application'
 
 CORS_ALLOW_CREDENTIALS = True
-# Database
-# https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
-tmpPostgres = urlparse(env("DATABASE_URL"))
+import dj_database_url
+import psycopg2
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': tmpPostgres.path.replace('/', ''),
-        'USER': tmpPostgres.username,
-        'PASSWORD': tmpPostgres.password,
-        'HOST': tmpPostgres.hostname,
-        'PORT': 5432,
+# Database configuration: Resilient live DB connection (Supabase / PostgreSQL) with automatic local SQLite backup fallback
+DATABASE_URL = env('DATABASE_URL', default=None)
+use_live_db = False
+
+if DATABASE_URL and (DATABASE_URL.startswith('postgres://') or DATABASE_URL.startswith('postgresql://')):
+    try:
+        conn_params = dj_database_url.parse(DATABASE_URL, ssl_require=True)
+        # Fast probe to verify live database reachability (4s timeout)
+        test_conn = psycopg2.connect(DATABASE_URL, connect_timeout=4)
+        test_conn.close()
+        use_live_db = True
+        print(f"[DATABASE] Successfully connected to Live PostgreSQL at {conn_params.get('HOST')} (SSL Active)")
+    except Exception as db_err:
+        err_msg = str(db_err).strip()
+        print(f"[DATABASE WARNING] Could not reach Live DB ({err_msg}). Falling back to local SQLite backup.")
+        host_str = conn_params.get('HOST', '') if 'conn_params' in locals() else ''
+        if ('could not translate host name' in err_msg or 'Network is unreachable' in err_msg) and 'supabase.co' in host_str:
+            print("[DATABASE HINT] Your network appears to be IPv4-only, while 'db.<ref>.supabase.co' is IPv6-only.")
+            print("[DATABASE HINT] Use Supabase's Session Pooler URI: 'aws-0-[region].pooler.supabase.com:5432' which natively supports both IPv4 and IPv6.")
+        use_live_db = False
+
+# Test suite optimization: Use lightning-fast SQLite in-memory when running tests
+import sys
+if 'test' in sys.argv:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': ':memory:',
+        }
     }
-}
+elif use_live_db:
+    DATABASES = {
+        'default': dj_database_url.parse(
+            DATABASE_URL,
+            conn_max_age=600,
+            conn_health_checks=True,
+            ssl_require=True,
+        )
+    }
+else:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': BASE_DIR / 'db.sqlite3',
+        }
+    }
+
 
 
 # Password validation
@@ -160,13 +204,39 @@ REST_FRAMEWORK = {
     ),
 }
 
-# Allow CORS for frontend development
+from datetime import timedelta
+SIMPLE_JWT = {
+    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),
+    'REFRESH_TOKEN_LIFETIME': timedelta(days=7),
+    'ROTATE_REFRESH_TOKENS': True,
+    'BLACKLIST_AFTER_ROTATION': False,
+    'AUTH_HEADER_TYPES': ('Bearer',),
+}
+
+# Restrict CORS to authorized frontend origins
+CORS_ALLOW_ALL_ORIGINS = False
+CORS_ALLOWED_ORIGINS = [
+    'https://my-fit-janki.vercel.app',
+    'https://my-68mam87gz-shivangkosty-gmailcoms-projects.vercel.app',
+    'http://localhost:3000',
+    'http://127.0.0.1:3000',
+    'http://localhost:3001',
+    'http://127.0.0.1:3001',
+]
+extra_origins = env('CORS_ALLOWED_ORIGINS', default='')
+if extra_origins:
+    CORS_ALLOWED_ORIGINS.extend([origin.strip() for origin in extra_origins.split(',') if origin.strip()])
 
 CSRF_TRUSTED_ORIGINS = [
     'https://api.razorpay.com',
+    'https://my-fit-janki.vercel.app',
     'http://localhost:3000',
-
+    'http://127.0.0.1:3000',
+    'http://localhost:3001',
+    'http://127.0.0.1:3001',
 ]
-CORS_ALLOW_ALL_ORIGINS = True
-RAZORPAY_KEY_ID = env('RAZORPAY_KEY_ID')
-RAZORPAY_SECRET_KEY = env('RAZORPAY_KEY_SECRET')
+
+RAZORPAY_KEY_ID = env('RAZORPAY_KEY_ID', default='rzp_test_placeholder')
+RAZORPAY_SECRET_KEY = env('RAZORPAY_KEY_SECRET', default='rzp_secret_placeholder')
+RAZORPAY_WEBHOOK_SECRET = env('RAZORPAY_WEBHOOK_SECRET', default='rzp_webhook_secret_placeholder')
+
